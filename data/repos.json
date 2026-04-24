@@ -3,408 +3,408 @@
     "name": "affaan-m/everything-claude-code",
     "url": "https://github.com/affaan-m/everything-claude-code",
     "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-    "stars": 145907,
+    "stars": 165559,
     "forks": 22436,
     "language": "JavaScript",
     "topics": "ai-agents,anthropic,claude,claude-code,developer-tools,llm,mcp,productivity",
     "updated": "2026-04-08T11:41:11Z",
-    "category": "\ud83e\udd16 Agent Harness Frameworks"
+    "category": "🤖 Agent Harness Frameworks"
   },
   {
     "name": "lobehub/lobehub",
     "url": "https://github.com/lobehub/lobehub",
     "description": "The ultimate space for work and life — taking agent harness to the next level with multi-agent collaboration and effortless agent team design.",
-    "stars": 74900,
+    "stars": 75571,
     "forks": 14879,
     "language": "TypeScript",
     "topics": "agent,agent-collaboration,agent-harness,ai,chatgpt,claude,deepseek,gemini,gpt,knowledge-base,mcp,openai",
     "updated": "2026-04-08T11:35:37Z",
-    "category": "\ud83e\udd16 Agent Harness Frameworks"
+    "category": "🤖 Agent Harness Frameworks"
   },
   {
     "name": "infiniflow/ragflow",
     "url": "https://github.com/infiniflow/ragflow",
     "description": "Leading open-source RAG engine fusing cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs.",
-    "stars": 77427,
+    "stars": 78879,
     "forks": 8699,
     "language": "Python",
     "topics": "agent,agentic,agentic-ai,agentic-workflow,ai,context-engineering,context-retrieval,deep-research,deepseek,harness,llm,mcp,rag",
     "updated": "2026-04-08T11:33:02Z",
-    "category": "\ud83e\udd16 Agent Harness Frameworks"
+    "category": "🤖 Agent Harness Frameworks"
   },
   {
     "name": "bytedance/deer-flow",
     "url": "https://github.com/bytedance/deer-flow",
     "description": "Open-source long-horizon SuperAgent harness that researches, codes, and creates. With sandboxes, memories, tools, skills, subagents and message gateway.",
-    "stars": 59417,
+    "stars": 63605,
     "forks": 7496,
     "language": "Python",
     "topics": "agent,agentic,agentic-framework,agentic-workflow,ai,ai-agents,deep-research,harness,langchain,langgraph,llm,multi-agent,python,superagent,typescript",
     "updated": "2026-04-08T11:37:37Z",
-    "category": "\ud83e\udd16 Agent Harness Frameworks"
+    "category": "🤖 Agent Harness Frameworks"
   },
   {
     "name": "shareAI-lab/learn-claude-code",
     "url": "https://github.com/shareAI-lab/learn-claude-code",
     "description": "Bash is all you need — A nano claude code-like agent harness, built from 0 to 1.",
-    "stars": 50059,
+    "stars": 56059,
     "forks": 8116,
     "language": "TypeScript",
     "topics": "agent,agent-development,ai-agent,claude,claude-code,educational,llm,python,teaching,tutorial",
     "updated": "2026-04-08T11:40:31Z",
-    "category": "\ud83e\udd16 Agent Harness Frameworks"
+    "category": "🤖 Agent Harness Frameworks"
   },
   {
     "name": "code-yeongyu/oh-my-openagent",
     "url": "https://github.com/code-yeongyu/oh-my-openagent",
     "description": "omo; the best agent harness — previously oh-my-opencode. TUI for AI coding agents.",
-    "stars": 49534,
+    "stars": 53800,
     "forks": 3931,
     "language": "TypeScript",
     "topics": "ai,ai-agents,amp,anthropic,chatgpt,claude,claude-code,claude-skills,cursor,gemini,ide,openai,opencode,orchestration,tui,typescript",
     "updated": "2026-04-08T11:33:05Z",
-    "category": "\ud83e\udd16 Agent Harness Frameworks"
+    "category": "🤖 Agent Harness Frameworks"
   },
   {
     "name": "aden-hive/hive",
     "url": "https://github.com/aden-hive/hive",
     "description": "Multi-Agent Harness for Production AI — agent framework with skills, human-in-the-loop, and self-improving capabilities.",
-    "stars": 10127,
+    "stars": 10122,
     "forks": 5634,
     "language": "Python",
     "topics": "agent,agent-framework,agent-skills,anthropic,automation,autonomous-agents,claude,harness,harness-engineering,human-in-the-loop,openai,python",
     "updated": "2026-04-08T11:03:25Z",
-    "category": "\ud83e\udd16 Agent Harness Frameworks"
+    "category": "🤖 Agent Harness Frameworks"
   },
   {
     "name": "HKUDS/OpenHarness",
     "url": "https://github.com/HKUDS/OpenHarness",
     "description": "OpenHarness: Open Agent Harness — open-source agent framework.",
-    "stars": 7525,
+    "stars": 11079,
     "forks": 1318,
     "language": "Python",
     "topics": "",
     "updated": "2026-04-08T11:34:44Z",
-    "category": "\ud83e\udd16 Agent Harness Frameworks"
+    "category": "🤖 Agent Harness Frameworks"
   },
   {
     "name": "mindfold-ai/Trellis",
     "url": "https://github.com/mindfold-ai/Trellis",
     "description": "The best agent harness. Supports agentic coding with ai-workflow and ClaudeCode integration.",
-    "stars": 4934,
+    "stars": 6068,
     "forks": 269,
     "language": "Python",
     "topics": "agentic-coding,ai-workflow,claudecode,codex,harness",
     "updated": "2026-04-08T11:13:01Z",
-    "category": "\ud83e\udd16 Agent Harness Frameworks"
+    "category": "🤖 Agent Harness Frameworks"
   },
   {
     "name": "xerrors/Yuxi",
     "url": "https://github.com/xerrors/Yuxi",
     "description": "Multi-tenant Agent Harness platform integrating LightRAG knowledge base and knowledge graphs. Built with LangChain, Vue, FastAPI.",
-    "stars": 4837,
+    "stars": 5013,
     "forks": 660,
     "language": "Python",
     "topics": "docker,fastapi,harness,kbqa,kgqa,llms,neo4j,rag,vue",
     "updated": "2026-04-08T10:55:20Z",
-    "category": "\ud83e\udd16 Agent Harness Frameworks"
+    "category": "🤖 Agent Harness Frameworks"
   },
   {
     "name": "ModelEngine-Group/nexent",
     "url": "https://github.com/ModelEngine-Group/nexent",
     "description": "Zero-code platform for auto-generating production-grade AI agents using Harness Engineering principles.",
-    "stars": 4448,
+    "stars": 4343,
     "forks": 564,
     "language": "Python",
     "topics": "agent,agentic-ai,agentic-framework,agentic-rag,agentic-workflow,ai,harness,harness-engineering,llm,mcp,multi-agent,rag",
     "updated": "2026-04-08T10:07:48Z",
-    "category": "\ud83e\udd16 Agent Harness Frameworks"
+    "category": "🤖 Agent Harness Frameworks"
   },
   {
     "name": "revfactory/harness",
     "url": "https://github.com/revfactory/harness",
     "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
-    "stars": 2135,
+    "stars": 2839,
     "forks": 299,
     "language": "HTML",
     "topics": "claude-code,claude-code-plugin,harness,harness-engineering",
     "updated": "2026-04-08T10:34:32Z",
-    "category": "\ud83e\udd16 Agent Harness Frameworks"
+    "category": "🤖 Agent Harness Frameworks"
   },
   {
     "name": "manthanguptaa/water",
     "url": "https://github.com/manthanguptaa/water",
     "description": "Production-ready agent harness framework for Python — composable, multi-agent systems.",
-    "stars": 275,
+    "stars": 278,
     "forks": 37,
     "language": "Python",
     "topics": "agent-harness,agents,framework,harness,llm,multi-agent,multi-agent-systems,workflow",
     "updated": "2026-04-02T09:46:16Z",
-    "category": "\ud83e\udd16 Agent Harness Frameworks"
+    "category": "🤖 Agent Harness Frameworks"
   },
   {
     "name": "princeton-pli/hal-harness",
     "url": "https://github.com/princeton-pli/hal-harness",
     "description": "HAL: Holistic Agent evaluation harness from Princeton.",
-    "stars": 255,
+    "stars": 266,
     "forks": 55,
     "language": "Python",
     "topics": "",
     "updated": "2026-04-07T10:03:51Z",
-    "category": "\ud83e\udd16 Agent Harness Frameworks"
+    "category": "🤖 Agent Harness Frameworks"
   },
   {
     "name": "vortezwohl/Autono",
     "url": "https://github.com/vortezwohl/Autono",
     "description": "ReAct-Based Highly Robust Autonomous Agent (Harness) Framework with MCP, LangChain, and multi-agent support.",
-    "stars": 207,
+    "stars": 209,
     "forks": 38,
     "language": "Python",
     "topics": "agent,agi,ai,aiagent,autogen,autonomous-agents,framework,harness,harness-engineering,langchain,mcp,multiagent,nlp,openai,python",
     "updated": "2026-04-08T08:40:32Z",
-    "category": "\ud83e\udd16 Agent Harness Frameworks"
+    "category": "🤖 Agent Harness Frameworks"
   },
   {
     "name": "aiming-lab/AutoHarness",
     "url": "https://github.com/aiming-lab/AutoHarness",
     "description": "AutoHarness: Automated Harness Engineering for AI Agents with context management, governance, and multi-agent support.",
-    "stars": 216,
+    "stars": 244,
     "forks": 10,
     "language": "Python",
     "topics": "agent-framework,ai-agents,audit,context-management,governance,harness-engineering,llm,multi-agent,prompt-injection,safety,tool-use",
     "updated": "2026-04-08T09:24:28Z",
-    "category": "\ud83e\udd16 Agent Harness Frameworks"
+    "category": "🤖 Agent Harness Frameworks"
   },
   {
     "name": "coleam00/Linear-Coding-Agent-Harness",
     "url": "https://github.com/coleam00/Linear-Coding-Agent-Harness",
     "description": "Linear Autonomous Coding Agent Harness.",
-    "stars": 208,
+    "stars": 213,
     "forks": 114,
     "language": "Python",
     "topics": "",
     "updated": "2026-04-02T03:07:48Z",
-    "category": "\ud83e\udd16 Agent Harness Frameworks"
+    "category": "🤖 Agent Harness Frameworks"
   },
   {
     "name": "LearnPrompt/cc-harness-skills",
     "url": "https://github.com/LearnPrompt/cc-harness-skills",
     "description": "Portable CC-inspired skills for memory, verification, multi-agent coordination, context compression, and proactive coding-agent workflows.",
-    "stars": 195,
+    "stars": 210,
     "forks": 60,
     "language": "Python",
     "topics": "agent-harness,agent-memory,ai-agent,codex,coding-agent,context-compression,developer-tools,multi-agent,openclaw,prompt-engineering",
     "updated": "2026-04-08T08:02:06Z",
-    "category": "\ud83e\udd16 Agent Harness Frameworks"
+    "category": "🤖 Agent Harness Frameworks"
   },
   {
     "name": "lemon07r/SanityHarness",
     "url": "https://github.com/lemon07r/SanityHarness",
     "description": "Lightweight harness designed to be simple, efficient, and universally compatible with any coding agent to evaluate them over broad coding tasks.",
-    "stars": 195,
+    "stars": 217,
     "forks": 2,
     "language": "Go",
     "topics": "agent,agentic-coding,benchmark,coding,coding-agent,eval,evaluation,harness",
     "updated": "2026-04-08T09:19:13Z",
-    "category": "\ud83e\udd16 Agent Harness Frameworks"
+    "category": "🤖 Agent Harness Frameworks"
   },
   {
     "name": "wedow/harness",
     "url": "https://github.com/wedow/harness",
     "description": "Minimal agent loop in bash. Pure state follower core with plugin-based tools, hooks, providers, and commands.",
-    "stars": 114,
+    "stars": 142,
     "forks": 6,
     "language": "Shell",
     "topics": "",
     "updated": "2026-04-07T22:28:14Z",
-    "category": "\ud83e\udd16 Agent Harness Frameworks"
+    "category": "🤖 Agent Harness Frameworks"
   },
   {
     "name": "MaxGfeller/open-harness",
     "url": "https://github.com/MaxGfeller/open-harness",
     "description": "Code-first, composable SDK to build powerful AI agents — agents, agent skills, AI, MCP.",
-    "stars": 394,
+    "stars": 482,
     "forks": 85,
     "language": "TypeScript",
     "topics": "agents,agentskills,ai,ai-agents,mcp",
     "updated": "2026-04-08T08:33:34Z",
-    "category": "\ud83e\udd16 Agent Harness Frameworks"
+    "category": "🤖 Agent Harness Frameworks"
   },
   {
     "name": "harness/harness",
     "url": "https://github.com/harness/harness",
     "description": "Harness Open Source — end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.",
-    "stars": 34548,
+    "stars": 35182,
     "forks": 2959,
     "language": "Go",
     "topics": "build-automation,build-pipelines,ci,ci-cd,code-repository,continuous-delivery,continuous-integration,docker,git,go,hacktoberfest,scm",
     "updated": "2026-04-08T11:18:22Z",
-    "category": "\ud83d\ude80 CI/CD & DevOps Platforms"
+    "category": "🚀 CI/CD & DevOps Platforms"
   },
   {
     "name": "cloudposse/build-harness",
     "url": "https://github.com/cloudposse/build-harness",
     "description": "Collection of Makefiles to facilitate building Golang projects, Dockerfiles, Helm charts, and more.",
-    "stars": 365,
+    "stars": 366,
     "forks": 128,
     "language": "Makefile",
     "topics": "build,build-automation,build-system,build-tool,cicd,circleci,codefresh,docker,dockerfile,golang,helm,jenkins,makefile,travis-ci",
     "updated": "2026-03-19T01:07:03Z",
-    "category": "\ud83d\ude80 CI/CD & DevOps Platforms"
+    "category": "🚀 CI/CD & DevOps Platforms"
   },
   {
     "name": "harness/drone-cli",
     "url": "https://github.com/harness/drone-cli",
     "description": "Command Line Tools for Drone CI — continuous delivery and integration pipelines.",
-    "stars": 429,
+    "stars": 430,
     "forks": 186,
     "language": "Go",
     "topics": "continuous-delivery,continuous-integration,pipelines",
     "updated": "2026-04-02T03:59:39Z",
-    "category": "\ud83d\ude80 CI/CD & DevOps Platforms"
+    "category": "🚀 CI/CD & DevOps Platforms"
   },
   {
     "name": "harness/harness-cd-community",
     "url": "https://github.com/harness/harness-cd-community",
     "description": "Harness CD Community Edition — modern self-service continuous delivery solution for Kubernetes and cloud-native apps.",
-    "stars": 207,
+    "stars": 211,
     "forks": 78,
     "language": "Shell",
     "topics": "continuous-delivery,deprecated",
     "updated": "2026-03-19T20:47:48Z",
-    "category": "\ud83d\ude80 CI/CD & DevOps Platforms"
+    "category": "🚀 CI/CD & DevOps Platforms"
   },
   {
     "name": "harness/terraform-provider-harness",
     "url": "https://github.com/harness/terraform-provider-harness",
     "description": "Terraform provider for provisioning Harness resources.",
-    "stars": 44,
+    "stars": 45,
     "forks": 69,
     "language": "Go",
     "topics": "",
     "updated": "2026-04-03T11:03:05Z",
-    "category": "\ud83d\ude80 CI/CD & DevOps Platforms"
+    "category": "🚀 CI/CD & DevOps Platforms"
   },
   {
     "name": "harness/mcp-server",
     "url": "https://github.com/harness/mcp-server",
     "description": "Official Harness MCP server — Model Context Protocol integration for Harness platform.",
-    "stars": 39,
+    "stars": 49,
     "forks": 25,
     "language": "TypeScript",
     "topics": "",
     "updated": "2026-04-08T08:37:25Z",
-    "category": "\ud83d\ude80 CI/CD & DevOps Platforms"
+    "category": "🚀 CI/CD & DevOps Platforms"
   },
   {
     "name": "harness/developer-hub",
     "url": "https://github.com/harness/developer-hub",
     "description": "Harness Developer Hub — official documentation and resources.",
-    "stars": 73,
+    "stars": 79,
     "forks": 215,
     "language": "HTML",
     "topics": "",
     "updated": "2026-04-08T08:48:28Z",
-    "category": "\ud83d\ude80 CI/CD & DevOps Platforms"
+    "category": "🚀 CI/CD & DevOps Platforms"
   },
   {
     "name": "harness/backstage-plugins",
     "url": "https://github.com/harness/backstage-plugins",
     "description": "Backstage Plugins for Harness Modules — developer portal integrations.",
-    "stars": 38,
+    "stars": 39,
     "forks": 28,
     "language": "TypeScript",
     "topics": "",
     "updated": "2026-03-09T06:30:57Z",
-    "category": "\ud83d\ude80 CI/CD & DevOps Platforms"
+    "category": "🚀 CI/CD & DevOps Platforms"
   },
   {
     "name": "EleutherAI/lm-evaluation-harness",
     "url": "https://github.com/EleutherAI/lm-evaluation-harness",
     "description": "A framework for few-shot evaluation of language models — the gold standard for LLM benchmarking.",
-    "stars": 12053,
+    "stars": 12308,
     "forks": 3170,
     "language": "Python",
     "topics": "evaluation-framework,language-model,transformer",
     "updated": "2026-04-08T11:34:04Z",
-    "category": "\ud83d\udcca LLM Evaluation Harnesses"
+    "category": "📊 LLM Evaluation Harnesses"
   },
   {
     "name": "bigcode-project/bigcode-evaluation-harness",
     "url": "https://github.com/bigcode-project/bigcode-evaluation-harness",
     "description": "Framework for the evaluation of autoregressive code generation language models.",
-    "stars": 1032,
+    "stars": 1038,
     "forks": 257,
     "language": "Python",
     "topics": "",
     "updated": "2026-04-07T15:00:36Z",
-    "category": "\ud83d\udcca LLM Evaluation Harnesses"
+    "category": "📊 LLM Evaluation Harnesses"
   },
   {
     "name": "stanford-iris-lab/meta-harness-tbench2-artifact",
     "url": "https://github.com/stanford-iris-lab/meta-harness-tbench2-artifact",
     "description": "Meta-Harness: 76.4% on Terminal-Bench 2.0 (Claude Opus 4.6) — state-of-the-art agent evaluation.",
-    "stars": 717,
+    "stars": 964,
     "forks": 107,
     "language": "Python",
     "topics": "",
     "updated": "2026-04-08T11:12:51Z",
-    "category": "\ud83d\udcca LLM Evaluation Harnesses"
+    "category": "📊 LLM Evaluation Harnesses"
   },
   {
     "name": "claw-eval/claw-eval",
     "url": "https://github.com/claw-eval/claw-eval",
     "description": "Claw-Eval is an evaluation harness for evaluating LLM as agents. All tasks verified by humans.",
-    "stars": 336,
+    "stars": 488,
     "forks": 22,
     "language": "Python",
     "topics": "agent,harness,llm,openclaw",
     "updated": "2026-04-08T11:13:06Z",
-    "category": "\ud83d\udcca LLM Evaluation Harnesses"
+    "category": "📊 LLM Evaluation Harnesses"
   },
   {
     "name": "suyoumo/OpenClawProBench",
     "url": "https://github.com/suyoumo/OpenClawProBench",
     "description": "Live-first benchmark harness for evaluating LLM agents in the OpenClaw runtime with deterministic grading.",
-    "stars": 309,
+    "stars": 479,
     "forks": 23,
     "language": "Python",
     "topics": "agent,benchmark,evaluation,harness,leaderboard,llm,openclaw",
     "updated": "2026-04-08T07:23:46Z",
-    "category": "\ud83d\udcca LLM Evaluation Harnesses"
+    "category": "📊 LLM Evaluation Harnesses"
   },
   {
     "name": "ZubinGou/math-evaluation-harness",
     "url": "https://github.com/ZubinGou/math-evaluation-harness",
     "description": "Simple toolkit for benchmarking LLMs on mathematical reasoning tasks.",
-    "stars": 274,
+    "stars": 276,
     "forks": 23,
     "language": "Python",
     "topics": "",
     "updated": "2026-03-25T11:02:36Z",
-    "category": "\ud83d\udcca LLM Evaluation Harnesses"
+    "category": "📊 LLM Evaluation Harnesses"
   },
   {
     "name": "allenai/vla-evaluation-harness",
     "url": "https://github.com/allenai/vla-evaluation-harness",
     "description": "One framework to evaluate any VLA model on any robot simulation benchmark.",
-    "stars": 200,
+    "stars": 248,
     "forks": 14,
     "language": "Python",
     "topics": "",
     "updated": "2026-04-08T10:50:16Z",
-    "category": "\ud83d\udcca LLM Evaluation Harnesses"
+    "category": "📊 LLM Evaluation Harnesses"
   },
   {
     "name": "Beomi/ko-lm-evaluation-harness",
     "url": "https://github.com/Beomi/ko-lm-evaluation-harness",
     "description": "Korean LM evaluation harness — forked from EleutherAI's framework.",
-    "stars": 82,
+    "stars": 81,
     "forks": 19,
     "language": "Python",
     "topics": "",
     "updated": "2026-01-27T05:54:50Z",
-    "category": "\ud83d\udcca LLM Evaluation Harnesses"
+    "category": "📊 LLM Evaluation Harnesses"
   },
   {
     "name": "pfnet-research/japanese-lm-fin-harness",
@@ -415,7 +415,7 @@
     "language": "Shell",
     "topics": "",
     "updated": "2026-01-28T23:50:23Z",
-    "category": "\ud83d\udcca LLM Evaluation Harnesses"
+    "category": "📊 LLM Evaluation Harnesses"
   },
   {
     "name": "zkCollective/zk-Harness",
@@ -426,7 +426,7 @@
     "language": "Python",
     "topics": "benchmark,snark,zk-snarks,zkp",
     "updated": "2025-12-05T15:24:56Z",
-    "category": "\ud83d\udcca LLM Evaluation Harnesses"
+    "category": "📊 LLM Evaluation Harnesses"
   },
   {
     "name": "HowieHwong/sde-harness",
@@ -437,7 +437,7 @@
     "language": "Python",
     "topics": "",
     "updated": "2026-03-27T20:00:10Z",
-    "category": "\ud83d\udcca LLM Evaluation Harnesses"
+    "category": "📊 LLM Evaluation Harnesses"
   },
   {
     "name": "ServiceNow/AU-Harness",
@@ -448,194 +448,194 @@
     "language": "Python",
     "topics": "",
     "updated": "2026-04-04T20:25:07Z",
-    "category": "\ud83d\udcca LLM Evaluation Harnesses"
+    "category": "📊 LLM Evaluation Harnesses"
   },
   {
     "name": "wquguru/harness-books",
     "url": "https://github.com/wquguru/harness-books",
     "description": "Harness engineering books and reference materials.",
-    "stars": 1226,
+    "stars": 1864,
     "forks": 155,
     "language": "Python",
     "topics": "",
     "updated": "2026-04-08T11:37:51Z",
-    "category": "\ud83d\udcda Harness Engineering Guides & Learning"
+    "category": "📚 Harness Engineering Guides & Learning"
   },
   {
     "name": "ZhangHanDong/harness-engineering-from-cc-to-ai-coding",
     "url": "https://github.com/ZhangHanDong/harness-engineering-from-cc-to-ai-coding",
     "description": "Harness Engineering: From Claude Code source code to AI Coding — deep-dive tutorial.",
-    "stars": 858,
+    "stars": 1246,
     "forks": 163,
     "language": "HTML",
     "topics": "",
     "updated": "2026-04-08T08:28:05Z",
-    "category": "\ud83d\udcda Harness Engineering Guides & Learning"
+    "category": "📚 Harness Engineering Guides & Learning"
   },
   {
     "name": "deusyu/harness-engineering",
     "url": "https://github.com/deusyu/harness-engineering",
     "description": "Harness Engineering learning guide — from conceptual understanding to independent practice.",
-    "stars": 843,
+    "stars": 1950,
     "forks": 81,
     "language": "",
     "topics": "",
     "updated": "2026-04-08T11:29:34Z",
-    "category": "\ud83d\udcda Harness Engineering Guides & Learning"
+    "category": "📚 Harness Engineering Guides & Learning"
   },
   {
     "name": "walkinglabs/learn-harness-engineering",
     "url": "https://github.com/walkinglabs/learn-harness-engineering",
     "description": "Harness engineering official style beginner tutorial, from 0 to 1.",
-    "stars": 582,
+    "stars": 862,
     "forks": 65,
     "language": "TypeScript",
     "topics": "",
     "updated": "2026-04-08T10:47:05Z",
-    "category": "\ud83d\udcda Harness Engineering Guides & Learning"
+    "category": "📚 Harness Engineering Guides & Learning"
   },
   {
     "name": "revfactory/harness-100",
     "url": "https://github.com/revfactory/harness-100",
     "description": "100 harness engineering patterns and examples.",
-    "stars": 500,
+    "stars": 620,
     "forks": 179,
     "language": "",
     "topics": "",
     "updated": "2026-04-08T08:12:42Z",
-    "category": "\ud83d\udcda Harness Engineering Guides & Learning"
+    "category": "📚 Harness Engineering Guides & Learning"
   },
   {
     "name": "Chachamaru127/claude-code-harness",
     "url": "https://github.com/Chachamaru127/claude-code-harness",
     "description": "Claude Code Dedicated Development Harness — Achieving High-Quality Development Through an Autonomous Plan-Work-Review Cycle.",
-    "stars": 449,
+    "stars": 587,
     "forks": 44,
     "language": "Shell",
     "topics": "",
     "updated": "2026-04-08T09:56:57Z",
-    "category": "\ud83d\udcda Harness Engineering Guides & Learning"
+    "category": "📚 Harness Engineering Guides & Learning"
   },
   {
     "name": "joyehuang/Learn-Open-Harness",
     "url": "https://github.com/joyehuang/Learn-Open-Harness",
     "description": "Official Interactive Tutorial for OpenHarness — Zero to Hero in 12 Chapters. Learn OpenHarness: Agent Loop, Tools, Memory, Multi-Agent.",
-    "stars": 97,
+    "stars": 309,
     "forks": 18,
     "language": "TypeScript",
     "topics": "agent-harness,agent-loop,ai-agent,ai-harness,ai-infrastructure,chinese,claude-code,generative-ai,harness-engineering,interactive-learning,interactive-tutorial,llm,nextjs,openharness,openharness-tutorial,shadcn-ui,zero-to-hero",
     "updated": "2026-04-08T10:32:45Z",
-    "category": "\ud83d\udcda Harness Engineering Guides & Learning"
+    "category": "📚 Harness Engineering Guides & Learning"
   },
   {
     "name": "keli-wen/agentic-harness-patterns-skill",
     "url": "https://github.com/keli-wen/agentic-harness-patterns-skill",
     "description": "Agent skill for harness engineering — memory, permissions, context engineering, multi-agent coordination.",
-    "stars": 156,
+    "stars": 241,
     "forks": 37,
     "language": "",
     "topics": "agent,claude-code,codex,contexts,gemini-cli,harness-engineering,skills",
     "updated": "2026-04-08T11:18:35Z",
-    "category": "\ud83d\udcda Harness Engineering Guides & Learning"
+    "category": "📚 Harness Engineering Guides & Learning"
   },
   {
     "name": "lazyFrogLOL/Harness_Engineering",
     "url": "https://github.com/lazyFrogLOL/Harness_Engineering",
     "description": "Harness Engineering agent tutorial — practical learning for agentic development.",
-    "stars": 87,
+    "stars": 104,
     "forks": 18,
     "language": "Python",
     "topics": "agent,harness-engineering,tutorial",
     "updated": "2026-04-08T09:27:30Z",
-    "category": "\ud83d\udcda Harness Engineering Guides & Learning"
+    "category": "📚 Harness Engineering Guides & Learning"
   },
   {
     "name": "alchemiststudiosDOTai/harness-engineering",
     "url": "https://github.com/alchemiststudiosDOTai/harness-engineering",
     "description": "Shortcuts, automation, hacks and overall productivity with code agents like claude code, codex, and other harness.",
-    "stars": 87,
+    "stars": 90,
     "forks": 13,
     "language": "Shell",
     "topics": "",
     "updated": "2026-04-03T20:47:32Z",
-    "category": "\ud83d\udcda Harness Engineering Guides & Learning"
+    "category": "📚 Harness Engineering Guides & Learning"
   },
   {
     "name": "OdradekAI/harness-engineering-guide",
     "url": "https://github.com/OdradekAI/harness-engineering-guide",
     "description": "Personal directory of skills covering agent-skills, ai-coding, claude-code, harness-engineering, and opencode.",
-    "stars": 77,
+    "stars": 137,
     "forks": 6,
     "language": "PowerShell",
     "topics": "agent-skills,ai-coding,ai-slop,claude-code,harness,harness-engineering,openclaw,opencode,openfang,skills,vibe-coding",
     "updated": "2026-04-08T07:25:56Z",
-    "category": "\ud83d\udcda Harness Engineering Guides & Learning"
+    "category": "📚 Harness Engineering Guides & Learning"
   },
   {
     "name": "lipingtababa/harness-engineering-playbook",
     "url": "https://github.com/lipingtababa/harness-engineering-playbook",
     "description": "Practical framework to ship quality software with AI agents in team environments.",
-    "stars": 57,
+    "stars": 72,
     "forks": 13,
     "language": "HTML",
     "topics": "",
     "updated": "2026-04-08T07:24:41Z",
-    "category": "\ud83d\udcda Harness Engineering Guides & Learning"
+    "category": "📚 Harness Engineering Guides & Learning"
   },
   {
     "name": "jrenaldi79/harness-engineering",
     "url": "https://github.com/jrenaldi79/harness-engineering",
     "description": "Context engineering for coding agents — CLAUDE.md templates, mechanical enforcement, and a field guide to 20+ best practices.",
-    "stars": 54,
+    "stars": 56,
     "forks": 11,
     "language": "JavaScript",
     "topics": "agents-md,ai-agents,ai-coding,claude-code,claude-md,codex,developer-tools,documentation,git-hooks,harness-engineering,nodejs,tdd",
     "updated": "2026-04-06T16:07:01Z",
-    "category": "\ud83d\udcda Harness Engineering Guides & Learning"
+    "category": "📚 Harness Engineering Guides & Learning"
   },
   {
     "name": "zilliztech/memsearch",
     "url": "https://github.com/zilliztech/memsearch",
     "description": "Markdown-first memory system, standalone library for any AI agent — embeddings, hybrid search, long-term memory.",
-    "stars": 1146,
+    "stars": 1352,
     "forks": 107,
     "language": "Python",
     "topics": "agent,agent-memory,ai-agents,claude-code,claude-code-plugin,embeddings,harness,hybrid-search,long-term-memory,memory,milvus,openclaw,progressive-disclosure,rag,reranker,semantic-search,skills",
     "updated": "2026-04-08T07:58:55Z",
-    "category": "\ud83d\udee0\ufe0f Skills, Memory & Context Toolkits"
+    "category": "🛠️ Skills, Memory & Context Toolkits"
   },
   {
     "name": "YuxiaoWang-520/harness-craft",
     "url": "https://github.com/YuxiaoWang-520/harness-craft",
     "description": "Composable library of skills and rules for AI coding agents covering repo memory, long-horizon execution, multi-agent coordination, TDD, and security review.",
-    "stars": 83,
+    "stars": 85,
     "forks": 5,
     "language": "Python",
     "topics": "",
     "updated": "2026-04-08T06:29:38Z",
-    "category": "\ud83d\udee0\ufe0f Skills, Memory & Context Toolkits"
+    "category": "🛠️ Skills, Memory & Context Toolkits"
   },
   {
     "name": "parallax-labs/context-harness",
     "url": "https://github.com/parallax-labs/context-harness",
     "description": "Local-first context ingestion and retrieval for AI tools. SQLite + embeddings + MCP server for Cursor & Claude.",
-    "stars": 34,
+    "stars": 35,
     "forks": 4,
     "language": "Rust",
     "topics": "claude,cursor,embeddings,local-ai,mcp,model-context-protocol,rag,rust,sqlite",
     "updated": "2026-04-06T22:07:35Z",
-    "category": "\ud83d\udee0\ufe0f Skills, Memory & Context Toolkits"
+    "category": "🛠️ Skills, Memory & Context Toolkits"
   },
   {
     "name": "bybren-llc/safe-agentic-workflow",
     "url": "https://github.com/bybren-llc/safe-agentic-workflow",
     "description": "SAW — SAFe Agentic Workflow AI Agent Harness for Multi-Agent Team Workflows. Built on SAFe methodology.",
-    "stars": 51,
+    "stars": 57,
     "forks": 13,
     "language": "Shell",
     "topics": "agile-methodology,ai-agents,ai-assisted-development,claude-code,commands,dark-factory,developer-tools,harness,hooks,methodology,multi-agent,safe-framework,scaled-agile-framework,skills,software-development",
     "updated": "2026-04-06T10:25:04Z",
-    "category": "\ud83d\udee0\ufe0f Skills, Memory & Context Toolkits"
+    "category": "🛠️ Skills, Memory & Context Toolkits"
   },
   {
     "name": "haasonsaas/agent-harness",
@@ -646,18 +646,18 @@
     "language": "Python",
     "topics": "agent-sdk,ai-agents,anthropic,claude,hot-swapping,llm,mcp,openai,python",
     "updated": "2026-04-08T05:56:31Z",
-    "category": "\ud83d\udee0\ufe0f Skills, Memory & Context Toolkits"
+    "category": "🛠️ Skills, Memory & Context Toolkits"
   },
   {
     "name": "synthnoosh/agentic-harness-bootstrap",
     "url": "https://github.com/synthnoosh/agentic-harness-bootstrap",
     "description": "Boundaries, structure, and feedback loops — from a single repo scan. Agentic harness bootstrap.",
-    "stars": 49,
+    "stars": 53,
     "forks": 3,
     "language": "Go Template",
     "topics": "",
     "updated": "2026-04-06T05:29:41Z",
-    "category": "\ud83d\udee0\ufe0f Skills, Memory & Context Toolkits"
+    "category": "🛠️ Skills, Memory & Context Toolkits"
   },
   {
     "name": "felipec/sharness",
@@ -668,7 +668,7 @@
     "language": "Shell",
     "topics": "bash,ci,shell,test-anything-protocol,test-harness,testing",
     "updated": "2026-04-07T13:45:14Z",
-    "category": "\u26a1 Benchmarking & Testing Harnesses"
+    "category": "⚡ Benchmarking & Testing Harnesses"
   },
   {
     "name": "redcanaryco/AtomicTestHarnesses",
@@ -679,51 +679,51 @@
     "language": "PowerShell",
     "topics": "",
     "updated": "2026-03-24T07:31:56Z",
-    "category": "\u26a1 Benchmarking & Testing Harnesses"
+    "category": "⚡ Benchmarking & Testing Harnesses"
   },
   {
     "name": "utsaslab/crashmonkey",
     "url": "https://github.com/utsaslab/crashmonkey",
     "description": "CrashMonkey: tools for testing file-system reliability (OSDI 18).",
-    "stars": 206,
+    "stars": 207,
     "forks": 35,
     "language": "C++",
     "topics": "crash-consistency,file-systems,test-harness",
     "updated": "2026-03-18T04:08:35Z",
-    "category": "\u26a1 Benchmarking & Testing Harnesses"
+    "category": "⚡ Benchmarking & Testing Harnesses"
   },
   {
     "name": "JoeyHendricks/python-benchmark-harness",
     "url": "https://github.com/JoeyHendricks/python-benchmark-harness",
     "description": "Micro/macro benchmark framework for Python that helps with optimizing your software.",
-    "stars": 157,
+    "stars": 158,
     "forks": 14,
     "language": "Python",
     "topics": "benchmark,benchmark-framework,benchmarking,decorator,performance,performance-testing,profiler,profiling,python,python-library,test-automation,testing,testing-tools",
     "updated": "2025-12-14T20:22:41Z",
-    "category": "\u26a1 Benchmarking & Testing Harnesses"
+    "category": "⚡ Benchmarking & Testing Harnesses"
   },
   {
     "name": "LukasKalbertodt/libtest-mimic",
     "url": "https://github.com/LukasKalbertodt/libtest-mimic",
     "description": "Small test framework to write your own test harness that looks like the built-in test harness used by rustc --test.",
-    "stars": 134,
+    "stars": 135,
     "forks": 37,
     "language": "Rust",
     "topics": "harness,rust,test-framework,testing",
     "updated": "2026-03-16T20:50:33Z",
-    "category": "\u26a1 Benchmarking & Testing Harnesses"
+    "category": "⚡ Benchmarking & Testing Harnesses"
   },
   {
     "name": "jenkinsci/acceptance-test-harness",
     "url": "https://github.com/jenkinsci/acceptance-test-harness",
     "description": "Acceptance tests cases for Jenkins and its plugins based on Selenium and Docker.",
-    "stars": 130,
+    "stars": 129,
     "forks": 250,
     "language": "Java",
     "topics": "",
     "updated": "2026-04-07T12:14:08Z",
-    "category": "\u26a1 Benchmarking & Testing Harnesses"
+    "category": "⚡ Benchmarking & Testing Harnesses"
   },
   {
     "name": "jenkinsci/jenkins-test-harness",
@@ -734,7 +734,7 @@
     "language": "Java",
     "topics": "harness,htmlunit,java,jenkins,jetty,junit,testing-tools",
     "updated": "2026-04-06T19:37:28Z",
-    "category": "\u26a1 Benchmarking & Testing Harnesses"
+    "category": "⚡ Benchmarking & Testing Harnesses"
   },
   {
     "name": "CiscoTestAutomation/genielibs",
@@ -745,18 +745,18 @@
     "language": "Python",
     "topics": "automation-tests,ccie,cisco,cisco-ios,genie,harness,netdevops,network-automation,pyats",
     "updated": "2026-04-02T13:41:21Z",
-    "category": "\u26a1 Benchmarking & Testing Harnesses"
+    "category": "⚡ Benchmarking & Testing Harnesses"
   },
   {
     "name": "commaai/harness_tester_challenge",
     "url": "https://github.com/commaai/harness_tester_challenge",
     "description": "Simple harness testing PCB and firmware — can you figure out everything wrong with it?",
-    "stars": 91,
+    "stars": 92,
     "forks": 27,
     "language": "C++",
     "topics": "",
     "updated": "2026-03-24T09:22:49Z",
-    "category": "\u26a1 Benchmarking & Testing Harnesses"
+    "category": "⚡ Benchmarking & Testing Harnesses"
   },
   {
     "name": "tc39/test262-harness",
@@ -767,7 +767,7 @@
     "language": "JavaScript",
     "topics": "",
     "updated": "2026-04-02T01:14:13Z",
-    "category": "\u26a1 Benchmarking & Testing Harnesses"
+    "category": "⚡ Benchmarking & Testing Harnesses"
   },
   {
     "name": "dart-archive/benchmark_harness",
@@ -778,7 +778,7 @@
     "language": "Dart",
     "topics": "",
     "updated": "2025-01-31T22:03:58Z",
-    "category": "\u26a1 Benchmarking & Testing Harnesses"
+    "category": "⚡ Benchmarking & Testing Harnesses"
   },
   {
     "name": "vertexclique/kaos",
@@ -789,7 +789,7 @@
     "language": "Rust",
     "topics": "chaos-engineering,chaotic-testing,resilience-testing,test-harness",
     "updated": "2025-04-27T13:41:56Z",
-    "category": "\u26a1 Benchmarking & Testing Harnesses"
+    "category": "⚡ Benchmarking & Testing Harnesses"
   },
   {
     "name": "vectordotdev/vector-test-harness",
@@ -800,7 +800,7 @@
     "language": "HCL",
     "topics": "benchmarking,fluentbit,fluentd,logstash,test-harness,testing,vector",
     "updated": "2026-02-17T22:44:32Z",
-    "category": "\u26a1 Benchmarking & Testing Harnesses"
+    "category": "⚡ Benchmarking & Testing Harnesses"
   },
   {
     "name": "cloudposse/test-harness",
@@ -811,29 +811,29 @@
     "language": "Shell",
     "topics": "bats,helm,terraform,test-automation,test-harness,testing-tools",
     "updated": "2025-10-15T15:51:02Z",
-    "category": "\u26a1 Benchmarking & Testing Harnesses"
+    "category": "⚡ Benchmarking & Testing Harnesses"
   },
   {
     "name": "clawshell/clawshell",
     "url": "https://github.com/clawshell/clawshell",
     "description": "Runtime Security Layer for OpenClaw — essential safety harness for PII & sensitive credentials protection.",
-    "stars": 223,
+    "stars": 268,
     "forks": 11,
     "language": "Rust",
     "topics": "ai,credentials,harness,moltbot,openclaw,pii,rust,security",
     "updated": "2026-04-08T10:51:43Z",
-    "category": "\ud83d\udd10 Security & Fuzzing Harnesses"
+    "category": "🔐 Security & Fuzzing Harnesses"
   },
   {
     "name": "bgdnvk/clanker",
     "url": "https://github.com/bgdnvk/clanker",
     "description": "Autonomous systems engineering CLI agent for any cloud environment: AWS, GCP, Cloudflare, with harness engineering principles.",
-    "stars": 248,
+    "stars": 278,
     "forks": 14,
     "language": "Go",
     "topics": "agent,ai,ai-agent,ai-ops,aws,clanker,cli,cloudflare,devops,gcp,golang,harness,infrastructure,kubernetes,observability,openclaw,sre,terraform",
     "updated": "2026-04-08T11:01:41Z",
-    "category": "\ud83d\udd10 Security & Fuzzing Harnesses"
+    "category": "🔐 Security & Fuzzing Harnesses"
   },
   {
     "name": "redcanaryco/AtomicTestHarnesses",
@@ -844,7 +844,7 @@
     "language": "PowerShell",
     "topics": "",
     "updated": "2026-03-24T07:31:56Z",
-    "category": "\ud83d\udd10 Security & Fuzzing Harnesses"
+    "category": "🔐 Security & Fuzzing Harnesses"
   },
   {
     "name": "Rich5/Harness",
@@ -855,7 +855,7 @@
     "language": "Python",
     "topics": "",
     "updated": "2025-08-07T10:03:08Z",
-    "category": "\ud83d\udd10 Security & Fuzzing Harnesses"
+    "category": "🔐 Security & Fuzzing Harnesses"
   },
   {
     "name": "hardik05/winafl-harness",
@@ -866,18 +866,18 @@
     "language": "C++",
     "topics": "",
     "updated": "2025-08-26T05:00:22Z",
-    "category": "\ud83d\udd10 Security & Fuzzing Harnesses"
+    "category": "🔐 Security & Fuzzing Harnesses"
   },
   {
     "name": "Microsvuln/Awesome-Libfuzzer-Harness",
     "url": "https://github.com/Microsvuln/Awesome-Libfuzzer-Harness",
     "description": "Awesome list for effective and powerful harnesses for fuzzing using libfuzzer — fuzzers by Google.",
-    "stars": 78,
+    "stars": 76,
     "forks": 13,
     "language": "C++",
     "topics": "",
     "updated": "2025-12-08T11:20:13Z",
-    "category": "\ud83d\udd10 Security & Fuzzing Harnesses"
+    "category": "🔐 Security & Fuzzing Harnesses"
   },
   {
     "name": "C0deH4cker/PwnableHarness",
@@ -888,84 +888,84 @@
     "language": "Makefile",
     "topics": "",
     "updated": "2025-10-04T15:34:54Z",
-    "category": "\ud83d\udd10 Security & Fuzzing Harnesses"
+    "category": "🔐 Security & Fuzzing Harnesses"
   },
   {
     "name": "walkinglabs/awesome-harness-engineering",
     "url": "https://github.com/walkinglabs/awesome-harness-engineering",
     "description": "Awesome tools & guides for harness engineering.",
-    "stars": 1424,
+    "stars": 1974,
     "forks": 93,
     "language": "",
     "topics": "",
     "updated": "2026-04-08T11:12:01Z",
-    "category": "\ud83d\udccb Awesome & Curated Lists"
+    "category": "📋 Awesome & Curated Lists"
   },
   {
     "name": "AutoJunjie/awesome-agent-harness",
     "url": "https://github.com/AutoJunjie/awesome-agent-harness",
     "description": "Awesome list of agent harness, agent orchestration, agentic-coding, and multi-agent developer tools.",
-    "stars": 301,
+    "stars": 368,
     "forks": 18,
     "language": "",
     "topics": "agent-harness,agent-orchestration,agentic-coding,ai-agents,awesome,awesome-list,coding-agents,developer-tools,harness-engineering,multi-agent",
     "updated": "2026-04-08T11:27:46Z",
-    "category": "\ud83d\udccb Awesome & Curated Lists"
+    "category": "📋 Awesome & Curated Lists"
   },
   {
     "name": "Picrew/awesome-agent-harness",
     "url": "https://github.com/Picrew/awesome-agent-harness",
     "description": "Awesome list of Agent Harness engineering resources, including GitHub projects, tools, benchmarks, and practical guides.",
-    "stars": 156,
+    "stars": 233,
     "forks": 7,
     "language": "Python",
     "topics": "agent-harness,context-engineering,harness-engineering",
     "updated": "2026-04-08T11:20:38Z",
-    "category": "\ud83d\udccb Awesome & Curated Lists"
+    "category": "📋 Awesome & Curated Lists"
   },
   {
     "name": "ai-boost/awesome-harness-engineering",
     "url": "https://github.com/ai-boost/awesome-harness-engineering",
     "description": "Awesome harness engineering resources and tools.",
-    "stars": 112,
+    "stars": 405,
     "forks": 5,
     "language": "Python",
     "topics": "",
     "updated": "2026-04-08T11:38:59Z",
-    "category": "\ud83d\udccb Awesome & Curated Lists"
+    "category": "📋 Awesome & Curated Lists"
   },
   {
     "name": "Jiaaqiliu/Awesome-Harness-Engineering",
     "url": "https://github.com/Jiaaqiliu/Awesome-Harness-Engineering",
     "description": "A collection of resources for harness engineering — shaping the environment around AI agents for reliability in production.",
-    "stars": 41,
+    "stars": 26,
     "forks": 0,
     "language": "",
     "topics": "",
     "updated": "2026-04-05T13:49:07Z",
-    "category": "\ud83d\udccb Awesome & Curated Lists"
+    "category": "📋 Awesome & Curated Lists"
   },
   {
     "name": "jiji262/awesome-harness-engineering",
     "url": "https://github.com/jiji262/awesome-harness-engineering",
     "description": "Awesome lists of Harness Engineering and AI Native Engineering resources.",
-    "stars": 17,
+    "stars": 25,
     "forks": 3,
     "language": "",
     "topics": "",
     "updated": "2026-04-08T07:34:45Z",
-    "category": "\ud83d\udccb Awesome & Curated Lists"
+    "category": "📋 Awesome & Curated Lists"
   },
   {
     "name": "Shudesu/line-harness-oss",
     "url": "https://github.com/Shudesu/line-harness-oss",
     "description": "Open-source LINE Official Account CRM — free alternative to paid tools with automation and scoring.",
-    "stars": 345,
+    "stars": 379,
     "forks": 158,
     "language": "TypeScript",
     "topics": "",
     "updated": "2026-04-08T07:16:04Z",
-    "category": "\ud83d\udd27 Miscellaneous Harness Projects"
+    "category": "🔧 Miscellaneous Harness Projects"
   },
   {
     "name": "philcockfield/ui-harness",
@@ -976,51 +976,51 @@
     "language": "JavaScript",
     "topics": "",
     "updated": "2026-04-07T10:15:16Z",
-    "category": "\ud83d\udd27 Miscellaneous Harness Projects"
+    "category": "🔧 Miscellaneous Harness Projects"
   },
   {
     "name": "callstackincubator/react-native-harness",
     "url": "https://github.com/callstackincubator/react-native-harness",
     "description": "Harness brings Jest-style tests to real native environments for testing TurboModules in React Native.",
-    "stars": 268,
+    "stars": 275,
     "forks": 11,
     "language": "TypeScript",
     "topics": "react-native,testing-tools",
     "updated": "2026-04-07T15:49:44Z",
-    "category": "\ud83d\udd27 Miscellaneous Harness Projects"
+    "category": "🔧 Miscellaneous Harness Projects"
   },
   {
     "name": "actionml/harness",
     "url": "https://github.com/actionml/harness",
     "description": "Harness is a Machine Learning/AI Server with plugins for many algorithms including the Universal Recommender.",
-    "stars": 289,
+    "stars": 291,
     "forks": 50,
     "language": "Scala",
     "topics": "",
     "updated": "2026-04-01T00:08:21Z",
-    "category": "\ud83d\udd27 Miscellaneous Harness Projects"
+    "category": "🔧 Miscellaneous Harness Projects"
   },
   {
     "name": "aristoteleo/PantheonOS",
     "url": "https://github.com/aristoteleo/PantheonOS",
     "description": "Evolvable, distributed agent framework & harness for data science — bioinformatics and spatial transcriptomics.",
-    "stars": 385,
+    "stars": 407,
     "forks": 48,
     "language": "Python",
     "topics": "agent,ai,ai-agents,bioinformatics,biology,data-science,harness,harness-engineering,llm",
     "updated": "2026-04-08T11:01:29Z",
-    "category": "\ud83d\udd27 Miscellaneous Harness Projects"
+    "category": "🔧 Miscellaneous Harness Projects"
   },
   {
     "name": "Chorus-AIDLC/Chorus",
     "url": "https://github.com/Chorus-AIDLC/Chorus",
     "description": "The Agent Harness for AI-Human Collaboration, inspired by the AI-DLC.",
-    "stars": 383,
+    "stars": 634,
     "forks": 36,
     "language": "TypeScript",
     "topics": "agent-harness,ai-agents,ai-dlc,claude-code,harness,kanban,multi-agent,task-management",
     "updated": "2026-04-08T11:26:21Z",
-    "category": "\ud83d\udd27 Miscellaneous Harness Projects"
+    "category": "🔧 Miscellaneous Harness Projects"
   },
   {
     "name": "microsoft/az-oai-chatgpt-streamlit-harness",
@@ -1031,29 +1031,29 @@
     "language": "Jupyter Notebook",
     "topics": "azure,azure-openai-service,chatgpt,openai,python,sample,streamlit",
     "updated": "2025-11-25T19:28:55Z",
-    "category": "\ud83d\udd27 Miscellaneous Harness Projects"
+    "category": "🔧 Miscellaneous Harness Projects"
   },
   {
     "name": "sfw/loom",
     "url": "https://github.com/sfw/loom",
     "description": "AI harness that decomposes work, drives execution through a verification harness, and keeps models on track with structured state.",
-    "stars": 54,
+    "stars": 64,
     "forks": 6,
     "language": "Python",
     "topics": "adhoc,ai,cowork,harness,local-llm,loom,models,task-decomposition",
     "updated": "2026-04-07T03:04:23Z",
-    "category": "\ud83d\udd27 Miscellaneous Harness Projects"
+    "category": "🔧 Miscellaneous Harness Projects"
   },
   {
     "name": "YPares/rigup.nix",
     "url": "https://github.com/YPares/rigup.nix",
     "description": "AI agents and Nix: parametrable skills/instructions and tools, packaged together in a reproducible and modular fashion.",
-    "stars": 61,
+    "stars": 63,
     "forks": 1,
     "language": "Nix",
     "topics": "agent-rig-system,ai-agents,claude-skills,harness,llm-agents,nix,nix-flake,nix-modules,opencode,riglets,skills",
     "updated": "2026-04-08T08:49:23Z",
-    "category": "\ud83d\udd27 Miscellaneous Harness Projects"
+    "category": "🔧 Miscellaneous Harness Projects"
   },
   {
     "name": "fly-apps/bumblebee-model-harness",
@@ -1064,6 +1064,1106 @@
     "language": "Elixir",
     "topics": "ai,bumblebee,flydotio,gpu,llm,nx",
     "updated": "2026-01-07T17:30:45Z",
-    "category": "\ud83d\udd27 Miscellaneous Harness Projects"
+    "category": "🔧 Miscellaneous Harness Projects"
+  },
+  {
+    "name": "nextlevelbuilder/goclaw",
+    "url": "https://github.com/nextlevelbuilder/goclaw",
+    "description": "GoClaw - GoClaw is OpenClaw rebuilt in Go — with multi-tenant isolation, 5-layer security, and native concurrency. Deploy AI agent teams at scale without compromising on safety.",
+    "stars": 2906,
+    "forks": 758,
+    "language": "Go",
+    "topics": "agent-orchestration,ai-agent,ai-gateway,anthropic,chatbot,discord-bot,golang,harness,harness-engineering,llm,mcp,multi-agent,openai,postgresql,telegram-bot,websocket",
+    "updated": "2026-04-24T04:59:25Z",
+    "category": "🤖 Agent Harness Frameworks"
+  },
+  {
+    "name": "datachain-ai/datachain",
+    "url": "https://github.com/datachain-ai/datachain",
+    "description": "Data context layer for unstructured data - images, video, sensor data, text and PDFs",
+    "stars": 2737,
+    "forks": 139,
+    "language": "Python",
+    "topics": "claude-code,codex,data-context-layer,data-processing,harness,harness-engineering,llm,mlops,unstructured-data",
+    "updated": "2026-04-23T15:38:46Z",
+    "category": "🤖 Agent Harness Frameworks"
+  },
+  {
+    "name": "kevinluosl/deepbot",
+    "url": "https://github.com/kevinluosl/deepbot",
+    "description": "DeepBot is a system-level AI assistant built for both personal productivity and enterprise workflows — one-click setup, seamless experience, and native Feishu integration.",
+    "stars": 1511,
+    "forks": 157,
+    "language": "TypeScript",
+    "topics": "agent-skills,agent-tools,agentic-workflow,agentos,ai-agents,harness,harness-engineering,openclaw",
+    "updated": "2026-04-24T05:11:39Z",
+    "category": "🤖 Agent Harness Frameworks"
+  },
+  {
+    "name": "dromara/dante-cloud",
+    "url": "https://github.com/dromara/dante-cloud",
+    "description": "🐉 Dante Cloud 国内首个支持阻塞式和响应式服务并行的微服务云原生基座。采用领域驱动模型(DDD)设计思想，以「高质量代码、低安全漏洞」为核心，高度模块化和组件化设计，支持IoT等物联网设备认证，满足国家三级等保要求、支持接口国密数字信封加解密等系列安全体系的多租户微服务解决方案。独创的“一套代码实现微服务和单体两种架构灵活切换”的企业级微服务平台。🔝🔝 点个star 持续关注更新！",
+    "stars": 925,
+    "forks": 208,
+    "language": "Java",
+    "topics": "ai-agent,harness-engineering,iot,loki,microservices,monolith,monorepo,mqtt,nacos,rsocket,spring-ai,spring-ai-alibaba,spring-authorization-server,spring-boot,spring-cloud,spring-cloud-alibaba,spring-cloud-tencent,spring-grpc,spring-integration,webflux",
+    "updated": "2026-04-23T03:36:38Z",
+    "category": "🤖 Agent Harness Frameworks"
+  },
+  {
+    "name": "Jamailar/RedBox",
+    "url": "https://github.com/Jamailar/RedBox",
+    "description": "用AI创作高质量内容，小红书版Openclaw，自媒体创作者的AI工作台，小红书创作AI工具RedClaw，支持小红书图文下载、创作风格学习、智囊团AI群聊、小红书AI创作，AI图文制作，AI文章排版｜🌟 Star if you like it! ｜ 你桌面盒子里的AI小河狸🦫",
+    "stars": 800,
+    "forks": 110,
+    "language": "TypeScript",
+    "topics": "ai,ai-agents,content-creation,harness-engineering,hermes,hermes-agent,openclaw,skills,xiaohongshu-scraper",
+    "updated": "2026-04-24T04:10:29Z",
+    "category": "🤖 Agent Harness Frameworks"
+  },
+  {
+    "name": "stanford-iris-lab/meta-harness",
+    "url": "https://github.com/stanford-iris-lab/meta-harness",
+    "description": "Reference code for the Meta-Harness paper.",
+    "stars": 617,
+    "forks": 47,
+    "language": "Python",
+    "topics": "harness-engineering,llm-agents",
+    "updated": "2026-04-24T05:24:19Z",
+    "category": "🤖 Agent Harness Frameworks"
+  },
+  {
+    "name": "kweaver-ai/kweaver-core",
+    "url": "https://github.com/kweaver-ai/kweaver-core",
+    "description": "KWeaver Core is a harness-first foundation for enterprise decision agents. It turns fragmented data, knowledge, tools, and policies into governed context, safe execution, and verifiable feedback loops. With semantic modeling, real-time access, runtime control, and TraceAI, it helps AI systems reason, adapt, and act reliable in complex enterprises.",
+    "stars": 575,
+    "forks": 73,
+    "language": "Go",
+    "topics": "agents,bkn,bussiness-knowledge-network,decision-intelligence,harness,harness-engineering,knowledge-network,ontology",
+    "updated": "2026-04-24T05:08:44Z",
+    "category": "🤖 Agent Harness Frameworks"
+  },
+  {
+    "name": "AltimateAI/altimate-code",
+    "url": "https://github.com/AltimateAI/altimate-code",
+    "description": "Open-source agentic data engineering harness for dbt, SQL, and cloud warehouses. 100+ tools, 10 warehouses, AI-powered.",
+    "stars": 547,
+    "forks": 50,
+    "language": "TypeScript",
+    "topics": "agent,agentic-data-engineering,ai,analytics-engineering,bigquery,cli,data-engineering,databricks,dbt,finops,harness-engineering,lineage,llm,opencode,postgresql,snowflake,sql,workflow-automation-ai",
+    "updated": "2026-04-24T04:57:22Z",
+    "category": "🤖 Agent Harness Frameworks"
+  },
+  {
+    "name": "baby-llm/baby-agent",
+    "url": "https://github.com/baby-llm/baby-agent",
+    "description": "AI agent tutorials for backend developers without AI background. 适合后端工程师的零基础 AI Agent 教程",
+    "stars": 352,
+    "forks": 46,
+    "language": "Go",
+    "topics": "agent,ai,harness-engineering,llm",
+    "updated": "2026-04-23T09:13:37Z",
+    "category": "🤖 Agent Harness Frameworks"
+  },
+  {
+    "name": "tninja/ai-code-interface.el",
+    "url": "https://github.com/tninja/ai-code-interface.el",
+    "description": "Unified Emacs interface supporting OpenAI Codex, GitHub Copilot CLI, Claude Code, Gemini CLI, Opencode, and more",
+    "stars": 210,
+    "forks": 24,
+    "language": "Emacs Lisp",
+    "topics": "agile-development,ai,ai-coding-assistant,aider,claude-code,codebuddy,codex-cli,cursor-cli,emacs,gemini-cli,ghostty,github-copilot-cli,gptel,grok-cli,harness-engineering,kiro-cli,mcp-server,openai-codex,opencode,test-driven-development",
+    "updated": "2026-04-23T15:14:45Z",
+    "category": "🤖 Agent Harness Frameworks"
+  },
+  {
+    "name": "jpicklyk/task-orchestrator",
+    "url": "https://github.com/jpicklyk/task-orchestrator",
+    "description": "Server-enforced workflow discipline for AI agents. An MCP server providing persistent work items, dependency graphs, quality gates, and actor attribution. Schemas define what agents must produce — the server blocks the call if they don't. Works with any MCP-compatible client.",
+    "stars": 182,
+    "forks": 20,
+    "language": "Kotlin",
+    "topics": "ai-coding-assistant,ai-development,ai-harness,ai-memory,ai-tools,claude,claude-code,claude-desktop,context-persistence,developer-tools,harness-engineering,harness-framework,mcp,mcp-server,model-context-protocol,task-management,vibe-coding,workflow-automation",
+    "updated": "2026-04-24T00:08:11Z",
+    "category": "🤖 Agent Harness Frameworks"
+  },
+  {
+    "name": "harnessclaw/harnessclaw-engine",
+    "url": "https://github.com/harnessclaw/harnessclaw-engine",
+    "description": "An LLM programming assistant engine built with Go, supporting WebSocket, multi-turn dialogues, tool calling, permission control, and skill extension.",
+    "stars": 156,
+    "forks": 2,
+    "language": "Go",
+    "topics": "agent,ai-agent,golang,harness-engineering,iflytek-astron,llm,programming-assistant,skill-engine,websocket",
+    "updated": "2026-04-23T07:10:50Z",
+    "category": "🤖 Agent Harness Frameworks"
+  },
+  {
+    "name": "lee-to/aif-handoff",
+    "url": "https://github.com/lee-to/aif-handoff",
+    "description": "Autonomous Kanban board where AI agents plan, implement, and review your tasks — fully hands-off.",
+    "stars": 154,
+    "forks": 20,
+    "language": "TypeScript",
+    "topics": "ai,ai-factory,aif,handoff,harness,harness-engineering,sdd,spec-driven-development",
+    "updated": "2026-04-24T05:30:09Z",
+    "category": "🤖 Agent Harness Frameworks"
+  },
+  {
+    "name": "abraxas914/VESTI",
+    "url": "https://github.com/abraxas914/VESTI",
+    "description": "Local-first AI conversation memory hub to capture, search, summarize, and export chats across major AI platforms. 本地优先的 AI 对话记忆与知识中台。",
+    "stars": 151,
+    "forks": 9,
+    "language": "TypeScript",
+    "topics": "ai-infrastructure,ai-memory,chatgpt,chrome-extension,claude,context-management,conversation-archive,deepseek,doubao,gemini,harness-engineering,kimi,knowledge-base,knowledge-graph,local-first,notion-export,qwen,rag,vector-search,yuanbao",
+    "updated": "2026-04-14T05:23:10Z",
+    "category": "🤖 Agent Harness Frameworks"
+  },
+  {
+    "name": "sd0xdev/sd0x-dev-flow",
+    "url": "https://github.com/sd0xdev/sd0x-dev-flow",
+    "description": "The harness layer for Claude Code — a reference implementation of harness engineering with hook-enforced dual review, state-machine gates that survive context compaction, and fail-closed safety where it counts. Quality gates that AI can't skip.",
+    "stars": 146,
+    "forks": 20,
+    "language": "JavaScript",
+    "topics": "agent-harness,claude-code,claude-code-plugin,codex,harness-engineering,skills",
+    "updated": "2026-04-21T07:07:24Z",
+    "category": "🤖 Agent Harness Frameworks"
+  },
+  {
+    "name": "huisezhiyin/sdd-riper",
+    "url": "https://github.com/huisezhiyin/sdd-riper",
+    "description": "Lightweight AI Agent Harness for agentic coding: let strong models explore while humans steer with minimal specs, checkpoints, approval, validation, and reverse sync.",
+    "stars": 142,
+    "forks": 37,
+    "language": "Python",
+    "topics": "agentic-coding,ai-agent,ai-agent-harness,ai-coding,ai-programming,checkpoint-driven,claude,cursor,developer-tools,harness-engineering,human-ai-collaboration,llm-workflow,openclaw,openclaw-skills,riper,sdd-riper,spec-driven-development",
+    "updated": "2026-04-24T02:09:13Z",
+    "category": "🤖 Agent Harness Frameworks"
+  },
+  {
+    "name": "harnessclaw/harnessclaw",
+    "url": "https://github.com/harnessclaw/harnessclaw",
+    "description": "Harnessclaw is a powerful, Electron-based desktop application designed to manage, chat with, and operate AI agents and skills seamlessly.",
+    "stars": 137,
+    "forks": 2,
+    "language": "TypeScript",
+    "topics": "agent,ai-agents,chatbot,desktop-app,electron-app,harness,harness-engineering,iflytek-astron,open,openclaw",
+    "updated": "2026-04-24T05:22:13Z",
+    "category": "🤖 Agent Harness Frameworks"
+  },
+  {
+    "name": "andrew-yangy/gru-ai",
+    "url": "https://github.com/andrew-yangy/gru-ai",
+    "description": "Autonomous AI agent team for one-man companies. Context engineering + harness engineering drive a pipeline that brainstorms, builds, reviews, and ships.",
+    "stars": 129,
+    "forks": 17,
+    "language": "TypeScript",
+    "topics": "ai-agents,autonomous-agents,context-engineering,harness-engineering",
+    "updated": "2026-04-23T09:13:48Z",
+    "category": "🤖 Agent Harness Frameworks"
+  },
+  {
+    "name": "Axolotl-QA/Axolotl",
+    "url": "https://github.com/Axolotl-QA/Axolotl",
+    "description": "AI-powered QA agent for VS Code. Analyzes code changes, generates test plans, runs real browser tests, and delivers evidence-backed merge verdicts.",
+    "stars": 115,
+    "forks": 17,
+    "language": "TypeScript",
+    "topics": "code-generation,developer-tools,end-to-end-testing,harness-engineering,qa,test-automation",
+    "updated": "2026-04-24T03:55:11Z",
+    "category": "🤖 Agent Harness Frameworks"
+  },
+  {
+    "name": "momotech/LinkWork",
+    "url": "https://github.com/momotech/LinkWork",
+    "description": "Open-source enterprise AI workforce platform — containerized roles, declarative skills, MCP tools, policy-driven security, K8s-native scheduling",
+    "stars": 95,
+    "forks": 12,
+    "language": "Dockerfile",
+    "topics": "agent-framework,ai-agents,ai-automation,ai-platform,ai-workers,ai-workforce,enterprise-ai,harness,harness-engineering,kubernetes,multi-agent",
+    "updated": "2026-04-23T10:08:20Z",
+    "category": "🤖 Agent Harness Frameworks"
+  },
+  {
+    "name": "thu-nmrc/OpenHarness",
+    "url": "https://github.com/thu-nmrc/OpenHarness",
+    "description": "OpenHarness is a long-term, fully autonomous AI agent execution framework for OpenClaw built on the concept of Harness Engineering. It enables your AI to work tirelessly for you 24/7 with just a single command. syycy2021@gmail.com, From the Interdisciplinary Professor Shenyang Team at Tsinghua University",
+    "stars": 91,
+    "forks": 18,
+    "language": "Python",
+    "topics": "controlling-ai-with-a-mobile-phone,harness-engineering,openclaw,openclaw-plugin,the-never-stopping-ai",
+    "updated": "2026-04-18T06:41:56Z",
+    "category": "🤖 Agent Harness Frameworks"
+  },
+  {
+    "name": "ljxpython/ai-agent-platform",
+    "url": "https://github.com/ljxpython/ai-agent-platform",
+    "description": "AI agent平台开发 --以测试为例，搭建了一套 harness 可落地方案，不需要手写一段代码，企业级通用 AI 智能体平台框架（平台控制面 + LangGraph 运行时），可以在这个基础轻松二次开发",
+    "stars": 90,
+    "forks": 10,
+    "language": "Vue",
+    "topics": "agent,agentic-ai,harness-engineering,langgraph,testng,vibe-coding",
+    "updated": "2026-04-23T08:03:59Z",
+    "category": "🤖 Agent Harness Frameworks"
+  },
+  {
+    "name": "Gloriaameng/Awesome-Agent-Harness",
+    "url": "https://github.com/Gloriaameng/Awesome-Agent-Harness",
+    "description": "Agent Harness for Large Language Model Agents: A Survey. Survey on LLM agentharnessengineering with a taxonomy. 110+papers, 23 systems analyzed.",
+    "stars": 87,
+    "forks": 0,
+    "language": "",
+    "topics": "agent,agent-framework,agent-harness,awesome-list,harness,harness-engineering,llm",
+    "updated": "2026-04-24T03:27:30Z",
+    "category": "🤖 Agent Harness Frameworks"
+  },
+  {
+    "name": "amazinglvxw/enso-os",
+    "url": "https://github.com/amazinglvxw/enso-os",
+    "description": "The first AI plugin that speaks first. Code-enforced learning + active forgetting + PAC (Proactive Accountability Challenge). Works with Claude Code, Gemini CLI, Hermes, OpenClaw.",
+    "stars": 76,
+    "forks": 5,
+    "language": "Shell",
+    "topics": "accountability,agent-os,agent-plugin,ai-agent,ai-discipline,ai-mirror,claude-code,gemini-cli,harness-engineering,hermes-agent,llm,openclaw,proactive-ai,self-evolution,self-reflection,shell-hooks,socratic-ai",
+    "updated": "2026-04-24T02:48:33Z",
+    "category": "🤖 Agent Harness Frameworks"
+  },
+  {
+    "name": "yofine/Nexus",
+    "url": "https://github.com/yofine/Nexus",
+    "description": "Mexus is a local web console for managing multiple CLI AI Agent instances in parallel.",
+    "stars": 62,
+    "forks": 3,
+    "language": "TypeScript",
+    "topics": "agent,agent-team,agent-teams,ai,harness-engineering,llm,multiagent",
+    "updated": "2026-04-20T10:57:21Z",
+    "category": "🤖 Agent Harness Frameworks"
+  },
+  {
+    "name": "Stanshy/AgentHub",
+    "url": "https://github.com/Stanshy/AgentHub",
+    "description": "One person, one software company. Manage 47 AI agents from a single      Electron app — with Harness Engineering (Skills + Hooks +   FileWatchers) for disciplined, traceable AI workflows.",
+    "stars": 60,
+    "forks": 5,
+    "language": "TypeScript",
+    "topics": "ai-agents,ai-workflow,claude-code,developer-tools,electron,harness-engineering,open-source,team-management,typescript,vue",
+    "updated": "2026-04-22T17:28:33Z",
+    "category": "🤖 Agent Harness Frameworks"
+  },
+  {
+    "name": "tranhieutt/software_development_department",
+    "url": "https://github.com/tranhieutt/software_development_department",
+    "description": "Software Development Department",
+    "stars": 59,
+    "forks": 37,
+    "language": "Shell",
+    "topics": "antigravity-skills,brainstorming,claude,claude-skills,harness-engineering,human-in-the-loop,memory-management",
+    "updated": "2026-04-24T02:28:29Z",
+    "category": "🤖 Agent Harness Frameworks"
+  },
+  {
+    "name": "arch-team/devpace",
+    "url": "https://github.com/arch-team/devpace",
+    "description": "BizDevOps rhythm manager for Claude Code — trace business goals to code changes with 18 skills",
+    "stars": 57,
+    "forks": 6,
+    "language": "Python",
+    "topics": "ai-coding,ai-development,bizdevops,change-management,claude-code,claude-code-plugin,devops,harnes,harness-engineering,plugin,project-management,quality-gates",
+    "updated": "2026-04-20T14:21:09Z",
+    "category": "🤖 Agent Harness Frameworks"
+  },
+  {
+    "name": "SuperagenticAI/metaharness",
+    "url": "https://github.com/SuperagenticAI/metaharness",
+    "description": "Meta Harness Implementation ",
+    "stars": 54,
+    "forks": 5,
+    "language": "Python",
+    "topics": "agentic-coding,harness,harness-engineering",
+    "updated": "2026-04-23T07:45:27Z",
+    "category": "🤖 Agent Harness Frameworks"
+  },
+  {
+    "name": "syrin-labs/syrin-python",
+    "url": "https://github.com/syrin-labs/syrin-python",
+    "description": "Developer-first Python framework for AI agents with built-in budget control, context, memory and observability.",
+    "stars": 51,
+    "forks": 10,
+    "language": "Python",
+    "topics": "agentic-rag,ai,ai-agent,budgeting,context-engineering,harness-engineering,memory-management,model-routing,multi-agent,multimodal-agent,observability,rag",
+    "updated": "2026-04-23T23:56:32Z",
+    "category": "🤖 Agent Harness Frameworks"
+  },
+  {
+    "name": "holaboss-ai/holaOS",
+    "url": "https://github.com/holaboss-ai/holaOS",
+    "description": "The computer for you and your agent.",
+    "stars": 3302,
+    "forks": 234,
+    "language": "TypeScript",
+    "topics": "agent,agent-harness,agent-os,agentic,ai,ai-agent,ai-agents,artificial-intelligence,electron,holaboss,holaos,llm,mcp,memory,model-context-protocol,proactive,proactive-ai,runtime,typescript,workspace",
+    "updated": "2026-04-24T05:37:15Z",
+    "category": "🤖 Agent Harness Frameworks"
+  },
+  {
+    "name": "peteromallet/desloppify",
+    "url": "https://github.com/peteromallet/desloppify",
+    "description": "Agent harness to make your slop code well-engineered and beautiful.",
+    "stars": 2763,
+    "forks": 190,
+    "language": "Python",
+    "topics": "agent-harness",
+    "updated": "2026-04-24T02:32:31Z",
+    "category": "🤖 Agent Harness Frameworks"
+  },
+  {
+    "name": "first-fluke/oh-my-agent",
+    "url": "https://github.com/first-fluke/oh-my-agent",
+    "description": "Portable multi-agent harness for .agents-based skills, workflows, and standards-aware agent teams across Antigravity, Claude Code, Codex, Cursor, OpenCode, and more.",
+    "stars": 795,
+    "forks": 94,
+    "language": "TypeScript",
+    "topics": "agent-harness,agent-skills,agentic-coding,ai-agents,claude-code,codex,cursor,multi-agent,multi-agent-systems,oh-my-agent,opencode,orchestration,orchestrator,serena",
+    "updated": "2026-04-24T05:37:08Z",
+    "category": "🤖 Agent Harness Frameworks"
+  },
+  {
+    "name": "Team-Commonly/commonly",
+    "url": "https://github.com/Team-Commonly/commonly",
+    "description": "A social platform for humans and AI agents, built and maintained by its own AI team. Connect any agent via HTTP.",
+    "stars": 229,
+    "forks": 28,
+    "language": "TypeScript",
+    "topics": "agent-framework,agent-harness,agent-protocol,agentic,agentic-ai,agents,ai-agents,ai-orchestration,autonomous-agents,claude,codex,developer-tools,generative-ai,llm,multi-agent,open-source,openai,openclaw,self-hosted",
+    "updated": "2026-04-24T02:31:10Z",
+    "category": "🤖 Agent Harness Frameworks"
+  },
+  {
+    "name": "0xNyk/lacp",
+    "url": "https://github.com/0xNyk/lacp",
+    "description": "Control-plane-grade agent harness for Claude, Codex & Hermes: policy gates, verification/evidence loops, memory, and auditable execution.",
+    "stars": 222,
+    "forks": 29,
+    "language": "Shell",
+    "topics": "agent-harness,ai-agents,claude-code,codex,control-plane,hermes,local-first",
+    "updated": "2026-04-22T18:35:26Z",
+    "category": "🤖 Agent Harness Frameworks"
+  },
+  {
+    "name": "UnicomAI/hexagent",
+    "url": "https://github.com/UnicomAI/hexagent",
+    "description": "HexAgent – An Agent harness that gives any LLM a computer to complete tasks the way humans do",
+    "stars": 112,
+    "forks": 9,
+    "language": "Python",
+    "topics": "agent-harness,agents,cowork",
+    "updated": "2026-04-23T18:59:57Z",
+    "category": "🤖 Agent Harness Frameworks"
+  },
+  {
+    "name": "inngest/utah",
+    "url": "https://github.com/inngest/utah",
+    "description": "Universally Triggered Agent Harness - An OpenClaw-like Inngest-powered personal agent",
+    "stars": 110,
+    "forks": 2,
+    "language": "TypeScript",
+    "topics": "agent-harness,ai-agent,durable-execution,event-driven,inngest",
+    "updated": "2026-04-22T22:36:23Z",
+    "category": "🤖 Agent Harness Frameworks"
+  },
+  {
+    "name": "bitrouter/bitrouter",
+    "url": "https://github.com/bitrouter/bitrouter",
+    "description": "The agentic proxy for modern agent runtimes. Smart, safe, agent-controlled routing across LLMs, tools, and agents.",
+    "stars": 77,
+    "forks": 1,
+    "language": "Rust",
+    "topics": "a2a,agent-guardrails,agent-harness,agent-observability,agent-runtime,ai-agent,ai-agents,api-gateway,bittensor,claude-code,llm-gateway,llm-router,mcp,openai-compatible,openclaw,opencode,rust,skills,solana,x402",
+    "updated": "2026-04-24T01:32:42Z",
+    "category": "🤖 Agent Harness Frameworks"
+  },
+  {
+    "name": "514-labs/moosestack",
+    "url": "https://github.com/514-labs/moosestack",
+    "description": "The agent harness for building analytics into your app on top of ClickHouse, Redpanda and other high-performance analytical infrastructure",
+    "stars": 574,
+    "forks": 31,
+    "language": "Rust",
+    "topics": "analytics,data,dataengineering,deployment,framework,insights,metrics,python,rust,typescript",
+    "updated": "2026-04-23T18:43:01Z",
+    "category": "🤖 Agent Harness Frameworks"
+  },
+  {
+    "name": "bolt-foundry/gambit",
+    "url": "https://github.com/bolt-foundry/gambit",
+    "description": "Agent harness framework for building, running, and verifying LLM workflows",
+    "stars": 232,
+    "forks": 16,
+    "language": "TypeScript",
+    "topics": "",
+    "updated": "2026-04-24T04:41:33Z",
+    "category": "🤖 Agent Harness Frameworks"
+  },
+  {
+    "name": "chrispangg/deepagentsdk",
+    "url": "https://github.com/chrispangg/deepagentsdk",
+    "description": "A Deep Agent Harness framework built with Vercel's AI SDK v6",
+    "stars": 115,
+    "forks": 11,
+    "language": "TypeScript",
+    "topics": "",
+    "updated": "2026-04-18T23:18:54Z",
+    "category": "🤖 Agent Harness Frameworks"
+  },
+  {
+    "name": "EuroEval/EuroEval",
+    "url": "https://github.com/EuroEval/EuroEval",
+    "description": "The robust European language model benchmark.",
+    "stars": 175,
+    "forks": 54,
+    "language": "Python",
+    "topics": "european,evaluation-framework,leaderboard,llm,nlp",
+    "updated": "2026-04-23T17:09:22Z",
+    "category": "📊 LLM Evaluation Harnesses"
+  },
+  {
+    "name": "nlp-uoregon/mlmm-evaluation",
+    "url": "https://github.com/nlp-uoregon/mlmm-evaluation",
+    "description": "Multilingual Large Language Models Evaluation Benchmark",
+    "stars": 132,
+    "forks": 18,
+    "language": "Python",
+    "topics": "datasets,evaluation,evaluation-datasets,evaluation-framework,language-model,large-language-models,multilingual,natural-language-processing,nlp",
+    "updated": "2026-02-20T14:57:42Z",
+    "category": "📊 LLM Evaluation Harnesses"
+  },
+  {
+    "name": "AI21Labs/lm-evaluation",
+    "url": "https://github.com/AI21Labs/lm-evaluation",
+    "description": "Evaluation suite for large-scale language models.",
+    "stars": 129,
+    "forks": 15,
+    "language": "Python",
+    "topics": "evaluation-framework,language-model",
+    "updated": "2026-01-26T09:58:56Z",
+    "category": "📊 LLM Evaluation Harnesses"
+  },
+  {
+    "name": "jayminban/41-llms-evaluated-on-19-benchmarks",
+    "url": "https://github.com/jayminban/41-llms-evaluated-on-19-benchmarks",
+    "description": "This project benchmarks 41 open-source large language models across 19 evaluation tasks using the lm-evaluation-harness library.",
+    "stars": 98,
+    "forks": 4,
+    "language": "Jupyter Notebook",
+    "topics": "",
+    "updated": "2026-04-14T22:32:55Z",
+    "category": "📊 LLM Evaluation Harnesses"
+  },
+  {
+    "name": "project-etalon/etalon",
+    "url": "https://github.com/project-etalon/etalon",
+    "description": "LLM Serving Performance Evaluation Harness",
+    "stars": 85,
+    "forks": 13,
+    "language": "Python",
+    "topics": "latency,llm-inference,throughput,user-experience",
+    "updated": "2026-04-16T15:04:15Z",
+    "category": "📊 LLM Evaluation Harnesses"
+  },
+  {
+    "name": "logic-star-ai/swt-bench",
+    "url": "https://github.com/logic-star-ai/swt-bench",
+    "description": "[NeurIPS 2024] Evaluation harness for SWT-Bench, a benchmark for evaluating LLM repository-level test-generation",
+    "stars": 76,
+    "forks": 19,
+    "language": "Python",
+    "topics": "benchmark,evaluation-framework,llm,unit-testing",
+    "updated": "2026-04-04T05:57:23Z",
+    "category": "📊 LLM Evaluation Harnesses"
+  },
+  {
+    "name": "suyoumo/ClawProBench",
+    "url": "https://github.com/suyoumo/ClawProBench",
+    "description": "ClawProBench is a live-first benchmark harness for evaluating LLM agents   in the OpenClaw runtime with deterministic grading and repeated-trial   reliability.",
+    "stars": 479,
+    "forks": 44,
+    "language": "Python",
+    "topics": "agent,benchmark,evaluation,harness,leaderboard,llm,openclaw",
+    "updated": "2026-04-24T05:31:53Z",
+    "category": "📊 LLM Evaluation Harnesses"
+  },
+  {
+    "name": "scoootscooob/clawbench",
+    "url": "https://github.com/scoootscooob/clawbench",
+    "description": "The agent benchmark that scores the full stack — harness, config, and model — not just the LLM. Trace-based scoring, reliability metrics, configuration diagnostics.",
+    "stars": 69,
+    "forks": 11,
+    "language": "Python",
+    "topics": "",
+    "updated": "2026-04-23T19:40:31Z",
+    "category": "📊 LLM Evaluation Harnesses"
+  },
+  {
+    "name": "Horace-Maxwell/Harness_Engineering_Regression_Copilot",
+    "url": "https://github.com/Horace-Maxwell/Harness_Engineering_Regression_Copilot",
+    "description": "Failure-first AI regression testing CLI for turning AI failures into local regression assets and PR gates. 把真实 AI 失败快速变成可执行回归资产和防止再次犯错清单。",
+    "stars": 81,
+    "forks": 9,
+    "language": "JavaScript",
+    "topics": "",
+    "updated": "2026-04-21T22:39:40Z",
+    "category": "📚 Harness Engineering Guides & Learning"
+  },
+  {
+    "name": "10xChengTu/harness-engineering",
+    "url": "https://github.com/10xChengTu/harness-engineering",
+    "description": "Set up and improve harness engineering (AGENTS.md, docs/, lint rules, eval systems, project-level prompt engineering) for AI-agent-friendly codebases. Triggers on: new/empty project setup for AI agents, AGENTS.md or CLAUDE.md creation, harness engineering questions, making agents work better on a codebase.",
+    "stars": 70,
+    "forks": 8,
+    "language": "",
+    "topics": "",
+    "updated": "2026-04-19T04:26:33Z",
+    "category": "📚 Harness Engineering Guides & Learning"
+  },
+  {
+    "name": "zhoushaw/Context-Engineering-to-Harness-Engineering",
+    "url": "https://github.com/zhoushaw/Context-Engineering-to-Harness-Engineering",
+    "description": "",
+    "stars": 56,
+    "forks": 3,
+    "language": "",
+    "topics": "",
+    "updated": "2026-04-23T11:01:01Z",
+    "category": "📚 Harness Engineering Guides & Learning"
+  },
+  {
+    "name": "ly028716/harness-engineering-study",
+    "url": "https://github.com/ly028716/harness-engineering-study",
+    "description": "一个系统学习和实践 Harness Engineering 的项目，从理论到实践，从简单到复杂。",
+    "stars": 28,
+    "forks": 2,
+    "language": "Python",
+    "topics": "",
+    "updated": "2026-04-23T21:57:52Z",
+    "category": "📚 Harness Engineering Guides & Learning"
+  },
+  {
+    "name": "toy-crane/harness-engineering-template",
+    "url": "https://github.com/toy-crane/harness-engineering-template",
+    "description": "",
+    "stars": 22,
+    "forks": 4,
+    "language": "Python",
+    "topics": "",
+    "updated": "2026-04-06T04:28:04Z",
+    "category": "📚 Harness Engineering Guides & Learning"
+  },
+  {
+    "name": "broomva/harness-engineering",
+    "url": "https://github.com/broomva/harness-engineering",
+    "description": "Harness Engineering playbook — deterministic smoke/test/lint harness commands, strict architecture boundaries, entropy-control checks for autonomous agent workflows.",
+    "stars": 21,
+    "forks": 0,
+    "language": "Shell",
+    "topics": "agent-skills,autonomous-agents,bstack-foundation,ci-cd,developer-tools,harness-engineering,openai-codex,skills-sh",
+    "updated": "2026-04-17T04:27:40Z",
+    "category": "📚 Harness Engineering Guides & Learning"
+  },
+  {
+    "name": "liyupi/ai-guide",
+    "url": "https://github.com/liyupi/ai-guide",
+    "description": "程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享 OpenClaw 保姆级教程、大模型玩法（DeepSeek / GPT / Gemini / Claude）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（Agent Skills / RAG / MCP / A2A）、AI 编程教程（Harness Engineering）、AI 工具用法（Cursor / Claude Code / TRAE / Lovable / Copilot）、AI 开发框架教程（Spring AI / LangChain）、AI 产品变现指南，帮你快速掌握 AI 技术，走在时代前沿。本项目为开源文档，已升级为鱼皮 AI 导航网站",
+    "stars": 12408,
+    "forks": 1384,
+    "language": "JavaScript",
+    "topics": "ai,algorithm,artificial-intelligence,chatgpt,claude,cursor,deep-learning,deepseek,gemini,generative-ai,gpt,llm,mcp,openai,python,rag,vibe-coding,vibecoding,vue,vuepress",
+    "updated": "2026-04-24T05:34:03Z",
+    "category": "📚 Harness Engineering Guides & Learning"
+  },
+  {
+    "name": "kennethlaw325/awesome-llm-knowledge-systems",
+    "url": "https://github.com/kennethlaw325/awesome-llm-knowledge-systems",
+    "description": "The Map Everyone's Missing: LLM Knowledge Engineering in 2026 — First unified guide connecting RAG, Context Engineering, Harness Engineering, Skill Systems, Agent Memory, MCP, and Progressive Disclosure",
+    "stars": 68,
+    "forks": 0,
+    "language": "HTML",
+    "topics": "",
+    "updated": "2026-04-23T07:50:39Z",
+    "category": "📚 Harness Engineering Guides & Learning"
+  },
+  {
+    "name": "aayoawoyemi/Ori-Mnemos",
+    "url": "https://github.com/aayoawoyemi/Ori-Mnemos",
+    "description": "Local-first persistent agentic memory powered by Recursive Memory Harness (RMH). Open source must win.",
+    "stars": 281,
+    "forks": 19,
+    "language": "TypeScript",
+    "topics": "agent-memory,ai-agent,ai-agents,ai-memory,knowledge-graph,llm,local-first,markdown,mcp,mcp-server,memory,model-context-protocol,persistent-ai-memory,persistent-memory,recursive-memory-harness,rmh,semantic-search,sqlite,typescript,vector-search",
+    "updated": "2026-04-24T04:49:02Z",
+    "category": "🛠️ Skills, Memory & Context Toolkits"
+  },
+  {
+    "name": "kevin-hs-sohn/hipocampus",
+    "url": "https://github.com/kevin-hs-sohn/hipocampus",
+    "description": "Drop-in memory harness for AI agents — 3-tier memory, compaction tree, hybrid search. One command to set up. Works with Claude Code and OpenClaw.",
+    "stars": 148,
+    "forks": 10,
+    "language": "JavaScript",
+    "topics": "agent-memory,ai-agent,ai-memory,claude-code,compaction-tree,context-management,knowledge-management,llm,long-term-memory,openclaw,rag,vector-search",
+    "updated": "2026-04-16T05:33:16Z",
+    "category": "🛠️ Skills, Memory & Context Toolkits"
+  },
+  {
+    "name": "Signet-AI/signetai",
+    "url": "https://github.com/Signet-AI/signetai",
+    "description": "Local-first identity, memory, and secrets for AI agents. Portable state across models and harnesses.",
+    "stars": 119,
+    "forks": 24,
+    "language": "TypeScript",
+    "topics": "agent-identity,agent-infrastructure,agent-memory,agent-orchestration,agent-state,ai-agents,ai-memory,bun,claude-code,developer-tools,llm,local-first,mcp,multi-agent,openclaw,opencode,self-hosted,sovereign-ai,sqlite,typescript",
+    "updated": "2026-04-24T02:53:40Z",
+    "category": "🛠️ Skills, Memory & Context Toolkits"
+  },
+  {
+    "name": "gotalab/cc-sdd",
+    "url": "https://github.com/gotalab/cc-sdd",
+    "description": "Turn approved specs into long-running autonomous implementation. A minimal, adaptable SDD harness with Agent Skills for Claude Code, Codex, Cursor, Copilot, Windsurf, OpenCode, Gemini CLI, and Antigravity.",
+    "stars": 3178,
+    "forks": 245,
+    "language": "TypeScript",
+    "topics": "agent-skills,claude-code,codex,cursor,gemini-cli,github-copilot,kiro,opencode,sdd,spec-driven-development,steering,subagents",
+    "updated": "2026-04-24T05:25:11Z",
+    "category": "🛠️ Skills, Memory & Context Toolkits"
+  },
+  {
+    "name": "foryourhealth111-pixel/Vibe-Skills",
+    "url": "https://github.com/foryourhealth111-pixel/Vibe-Skills",
+    "description": "Vibe-Skills is an all-in-one AI skills package. It seamlessly integrates expert-level capabilities and context management into a general-purpose skills package， enabling any AI agent to instantly upgrade its functionality—eliminating the friction of fragmented tools and complex harnesses.",
+    "stars": 1677,
+    "forks": 128,
+    "language": "Python",
+    "topics": "agent-framework,agent-skills,agentic-coding,ai-agents,ai-scientist,ai-skills,ai-workflow,automation,claude-code,codex,context-engineering,developer-tools,llm,multi-agent,prompt-engineering,skills,vibe-coding,vibecoding,workflow-automation",
+    "updated": "2026-04-24T02:55:51Z",
+    "category": "🛠️ Skills, Memory & Context Toolkits"
+  },
+  {
+    "name": "jabrena/cursor-rules-java",
+    "url": "https://github.com/jabrena/cursor-rules-java",
+    "description": "A curated and opinionated collection of Skills and Agents to be used in modern SDLC workflows for Java Enterprise development with your favorite AI Agent harness.",
+    "stars": 360,
+    "forks": 67,
+    "language": "Java",
+    "topics": "agent-skills,ai-skills,claude,claude-code,claude-code-skills,claude-code-subagents,claude-skills,cursor-agent,cursor-ai,cursor-skills,cursorai,github-copilot,intellij-idea,java,prompting,system-prompts",
+    "updated": "2026-04-23T20:05:33Z",
+    "category": "🛠️ Skills, Memory & Context Toolkits"
+  },
+  {
+    "name": "alejandroqh/browser39",
+    "url": "https://github.com/alejandroqh/browser39",
+    "description": "A headless browser for AI agents that fetches modern web pages, runs JavaScript, manages sessions, and returns token-efficient Markdown.",
+    "stars": 44,
+    "forks": 6,
+    "language": "Rust",
+    "topics": "agent,agent-skills,agentic-ai,claude-code,harness,openclaw,webbrowser",
+    "updated": "2026-04-23T18:03:23Z",
+    "category": "🛠️ Skills, Memory & Context Toolkits"
+  },
+  {
+    "name": "codejunkie99/agentic-stack",
+    "url": "https://github.com/codejunkie99/agentic-stack",
+    "description": "One brain, many harnesses. Portable .agent/ folder (memory + skills + protocols) that plugs into Claude Code, Cursor, Windsurf, OpenCode, OpenClaw, Hermes, or DIY Python — and keeps its knowledge when you switch.",
+    "stars": 1506,
+    "forks": 180,
+    "language": "Python",
+    "topics": "",
+    "updated": "2026-04-24T05:30:44Z",
+    "category": "🛠️ Skills, Memory & Context Toolkits"
+  },
+  {
+    "name": "modelscope/ultron",
+    "url": "https://github.com/modelscope/ultron",
+    "description": "Ultron: Collective Intelligence System — Shared Memories, Skills, and Harnesses Across Every Agent",
+    "stars": 37,
+    "forks": 13,
+    "language": "Python",
+    "topics": "",
+    "updated": "2026-04-21T07:54:11Z",
+    "category": "🛠️ Skills, Memory & Context Toolkits"
+  },
+  {
+    "name": "netil/oh-my-hi",
+    "url": "https://github.com/netil/oh-my-hi",
+    "description": "👋 Claude Code harness insights dashboard — visual catalog and token analytics for skills, agents, plugins, hooks, memory, and more!",
+    "stars": 35,
+    "forks": 1,
+    "language": "JavaScript",
+    "topics": "analytics,claude-code,dashboard,harness,plugin",
+    "updated": "2026-04-22T02:26:21Z",
+    "category": "🛠️ Skills, Memory & Context Toolkits"
+  },
+  {
+    "name": "d0gesec/pownie",
+    "url": "https://github.com/d0gesec/pownie",
+    "description": "The agent harness for offsec. It's a plugin for Claude Code packed with skills, hooks, memory system that works best for using Claude Code to achieve autonomous pentest/ctf",
+    "stars": 21,
+    "forks": 2,
+    "language": "Shell",
+    "topics": "claude-code-plugin,ctf,offsec,penetration-testing",
+    "updated": "2026-04-21T13:30:22Z",
+    "category": "🛠️ Skills, Memory & Context Toolkits"
+  },
+  {
+    "name": "timboudreau/netty-http-client",
+    "url": "https://github.com/timboudreau/netty-http-client",
+    "description": "An asynchronous http client in Java, with a clean, callback-based API, using Netty 4.x",
+    "stars": 321,
+    "forks": 118,
+    "language": "Java",
+    "topics": "asynchronous,http,http-client,https,https-client,java,test-harness",
+    "updated": "2026-04-08T08:54:45Z",
+    "category": "⚡ Benchmarking & Testing Harnesses"
+  },
+  {
+    "name": "openwallet-foundation/owl-agent-test-harness",
+    "url": "https://github.com/openwallet-foundation/owl-agent-test-harness",
+    "description": "Aries agent test framework, with agent backchannel support",
+    "stars": 68,
+    "forks": 67,
+    "language": "Python",
+    "topics": "aca-py,aries,aries-agents,citz,hyperledger,hyperledger-indy,test-engine,test-harness,trust-over-ip,verifiable-credentials,verifiable-organizations-network,von",
+    "updated": "2026-03-05T15:12:07Z",
+    "category": "⚡ Benchmarking & Testing Harnesses"
+  },
+  {
+    "name": "dokester/BayesicFitting",
+    "url": "https://github.com/dokester/BayesicFitting",
+    "description": "Bayesian fitting package",
+    "stars": 55,
+    "forks": 9,
+    "language": "Python",
+    "topics": "bayesian,calibration-toolbox,data-analysis,evidence,exercise,fitters,history,hope,java,jupyter-notebook,modeling,nested-sampling,pypi,test-harness",
+    "updated": "2026-04-18T15:53:22Z",
+    "category": "⚡ Benchmarking & Testing Harnesses"
+  },
+  {
+    "name": "matter-labs/era-zkevm_test_harness",
+    "url": "https://github.com/matter-labs/era-zkevm_test_harness",
+    "description": "Compare in-circuit and out-of-circuit VMs",
+    "stars": 60,
+    "forks": 62,
+    "language": "Rust",
+    "topics": "",
+    "updated": "2025-04-04T02:16:41Z",
+    "category": "⚡ Benchmarking & Testing Harnesses"
+  },
+  {
+    "name": "quasarframework/quasar-testing",
+    "url": "https://github.com/quasarframework/quasar-testing",
+    "description": "Testing Harness App Extensions for the Quasar Framework 2.0+",
+    "stars": 184,
+    "forks": 68,
+    "language": "TypeScript",
+    "topics": "cypress,e2e-testing,integration-testing,jest,quasar-framework,test-runner,testing,unit-testing,vuejs",
+    "updated": "2026-04-21T13:22:33Z",
+    "category": "⚡ Benchmarking & Testing Harnesses"
+  },
+  {
+    "name": "pvz122/PromeFuzz",
+    "url": "https://github.com/pvz122/PromeFuzz",
+    "description": "PromeFuzz: A Knowledge-Driven Approach to Fuzzing Harness Generation with Large Language Models",
+    "stars": 53,
+    "forks": 11,
+    "language": "C++",
+    "topics": "fuzzing,llm",
+    "updated": "2026-04-24T03:15:21Z",
+    "category": "🔐 Security & Fuzzing Harnesses"
+  },
+  {
+    "name": "HKUST-KnowComp/Awesome-Agent-Harness",
+    "url": "https://github.com/HKUST-KnowComp/Awesome-Agent-Harness",
+    "description": "",
+    "stars": 61,
+    "forks": 6,
+    "language": "",
+    "topics": "",
+    "updated": "2026-04-21T07:12:01Z",
+    "category": "📋 Awesome & Curated Lists"
+  },
+  {
+    "name": "WanLanglin/-awesome-cc-harness",
+    "url": "https://github.com/WanLanglin/-awesome-cc-harness",
+    "description": "",
+    "stars": 43,
+    "forks": 9,
+    "language": "Python",
+    "topics": "",
+    "updated": "2026-04-21T14:05:44Z",
+    "category": "📋 Awesome & Curated Lists"
+  },
+  {
+    "name": "browser-use/browser-harness",
+    "url": "https://github.com/browser-use/browser-harness",
+    "description": "Browser Harness | Self-healing harness that enables LLMs to complete any task.",
+    "stars": 6004,
+    "forks": 533,
+    "language": "Python",
+    "topics": "",
+    "updated": "2026-04-24T05:43:02Z",
+    "category": "🔧 Miscellaneous Harness Projects"
+  },
+  {
+    "name": "neosigmaai/auto-harness",
+    "url": "https://github.com/neosigmaai/auto-harness",
+    "description": "Bring your own agent and build a self-improving agentic system. Automatically mine failures, optimize the agent harness, and gate against regressions.",
+    "stars": 473,
+    "forks": 54,
+    "language": "Python",
+    "topics": "",
+    "updated": "2026-04-24T05:34:14Z",
+    "category": "🔧 Miscellaneous Harness Projects"
+  },
+  {
+    "name": "RickyTong1/audit-harness",
+    "url": "https://github.com/RickyTong1/audit-harness",
+    "description": "Three-layer audit enforcement framework for AI agents — hooks, skills, context recovery, and audit-driven daily reports",
+    "stars": 409,
+    "forks": 0,
+    "language": "Shell",
+    "topics": "",
+    "updated": "2026-04-24T04:52:59Z",
+    "category": "🔧 Miscellaneous Harness Projects"
+  },
+  {
+    "name": "browser-use/browser-harness-js",
+    "url": "https://github.com/browser-use/browser-harness-js",
+    "description": "Self-healing browser harness that enables LLMs to complete any task",
+    "stars": 292,
+    "forks": 17,
+    "language": "TypeScript",
+    "topics": "",
+    "updated": "2026-04-24T05:30:55Z",
+    "category": "🔧 Miscellaneous Harness Projects"
+  },
+  {
+    "name": "ProgrammerAnthony/Expert-Coding-Harness",
+    "url": "https://github.com/ProgrammerAnthony/Expert-Coding-Harness",
+    "description": "生产级 AI Agent 技能集，辅助AI Harness应用于企业开发，覆盖代码审查、代码安全审计、TDD、需求工程、实施计划与子代理编排、架构设计、调试、前端开发与技能创建全流程。",
+    "stars": 233,
+    "forks": 67,
+    "language": "JavaScript",
+    "topics": "",
+    "updated": "2026-04-20T16:51:12Z",
+    "category": "🔧 Miscellaneous Harness Projects"
+  },
+  {
+    "name": "xwtro0tk1t-cloud/harness",
+    "url": "https://github.com/xwtro0tk1t-cloud/harness",
+    "description": "Harness is an AI Agent development guardrail Meta-Skill that establishes four layers of defense for any project in one command: knowledge management, architecture constraints, feedback loops, and entropy management.",
+    "stars": 206,
+    "forks": 28,
+    "language": "Python",
+    "topics": "",
+    "updated": "2026-04-24T04:42:21Z",
+    "category": "🔧 Miscellaneous Harness Projects"
+  },
+  {
+    "name": "pydantic/pydantic-ai-harness",
+    "url": "https://github.com/pydantic/pydantic-ai-harness",
+    "description": "Batteries for your Pydantic AI agent.",
+    "stars": 205,
+    "forks": 10,
+    "language": "Python",
+    "topics": "",
+    "updated": "2026-04-24T05:20:28Z",
+    "category": "🔧 Miscellaneous Harness Projects"
+  },
+  {
+    "name": "langchain-ai/deepagents",
+    "url": "https://github.com/langchain-ai/deepagents",
+    "description": "Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.",
+    "stars": 21675,
+    "forks": 3023,
+    "language": "Python",
+    "topics": "ai,deepagents,langchain,langgraph",
+    "updated": "2026-04-24T05:38:15Z",
+    "category": "🔧 Miscellaneous Harness Projects"
+  },
+  {
+    "name": "lintsinghua/claude-code-book",
+    "url": "https://github.com/lintsinghua/claude-code-book",
+    "description": "《御舆：解码 Agent Harness》42万字拆解 AI Agent 的Harness骨架与神经 —— Claude Code 架构深度剖析，15 章从对话循环到构建你自己的 Agent Harness。在线阅读网站：",
+    "stars": 2923,
+    "forks": 669,
+    "language": "",
+    "topics": "agent,agent-architecture,ai-agent,anthropic,book,chinese,claude-code,llm,mcp",
+    "updated": "2026-04-24T04:58:51Z",
+    "category": "🔧 Miscellaneous Harness Projects"
+  },
+  {
+    "name": "peteromallet/dataclaw",
+    "url": "https://github.com/peteromallet/dataclaw",
+    "description": "Agent harness to publish your history from Claude Code et al. as Huggingface datasets. ",
+    "stars": 2054,
+    "forks": 236,
+    "language": "Python",
+    "topics": "",
+    "updated": "2026-04-23T16:26:10Z",
+    "category": "🔧 Miscellaneous Harness Projects"
+  },
+  {
+    "name": "langchain-ai/deepagentsjs",
+    "url": "https://github.com/langchain-ai/deepagentsjs",
+    "description": "Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.",
+    "stars": 1149,
+    "forks": 181,
+    "language": "TypeScript",
+    "topics": "ai,deepagents,langchain,langgraph",
+    "updated": "2026-04-24T03:44:22Z",
+    "category": "🔧 Miscellaneous Harness Projects"
+  },
+  {
+    "name": "rasbt/mini-coding-agent",
+    "url": "https://github.com/rasbt/mini-coding-agent",
+    "description": "Minimal and readable coding agent harness implementation in Python to explain the core components of coding agents.",
+    "stars": 743,
+    "forks": 142,
+    "language": "Python",
+    "topics": "agents,ai,large-language-models,llms,python",
+    "updated": "2026-04-24T02:07:30Z",
+    "category": "🔧 Miscellaneous Harness Projects"
+  },
+  {
+    "name": "cuga-project/cuga-agent",
+    "url": "https://github.com/cuga-project/cuga-agent",
+    "description": "CUGA is an open-source generalist agent harness for the enterprise, supporting complex task execution on web and APIs, OpenAPI/MCP integrations, composable architecture, reasoning modes, and policy-aware features.",
+    "stars": 707,
+    "forks": 123,
+    "language": "Python",
+    "topics": "coding-agent,computer-use,enterprise,generalist-agent,guardrails,harness,knowledge,mcp,policies,sandbox",
+    "updated": "2026-04-24T02:14:25Z",
+    "category": "🔧 Miscellaneous Harness Projects"
+  },
+  {
+    "name": "truffle-ai/dexto",
+    "url": "https://github.com/truffle-ai/dexto",
+    "description": "A coding agent and general agent harness for building and orchestrating agentic applications.",
+    "stars": 610,
+    "forks": 71,
+    "language": "TypeScript",
+    "topics": "ai,ai-agent,ai-agents,ai-tools,contributions-welcome,function-calling,llm,mcp,mcp-client,modelcontextprotocol,typescript",
+    "updated": "2026-04-23T14:28:02Z",
+    "category": "🔧 Miscellaneous Harness Projects"
+  },
+  {
+    "name": "WakeUp-Jin/Practical-Guide-to-Context-Engineering",
+    "url": "https://github.com/WakeUp-Jin/Practical-Guide-to-Context-Engineering",
+    "description": "大模型应用开发的方向，上下文工程是设计原则，Agent Harness 是构建目标，本项目的目标，是为开发者和研究者提供一份大模型应用开发的骨架思路",
+    "stars": 596,
+    "forks": 47,
+    "language": "",
+    "topics": "javascript,typescript",
+    "updated": "2026-04-23T09:57:59Z",
+    "category": "🔧 Miscellaneous Harness Projects"
+  },
+  {
+    "name": "coolclaws/deerflow-book",
+    "url": "https://github.com/coolclaws/deerflow-book",
+    "description": "DeerFlow 源码解析 - ByteDance 开源 Super Agent Harness 深度解析",
+    "stars": 421,
+    "forks": 98,
+    "language": "TypeScript",
+    "topics": "",
+    "updated": "2026-04-24T05:28:14Z",
+    "category": "🔧 Miscellaneous Harness Projects"
+  },
+  {
+    "name": "neiii/bridle",
+    "url": "https://github.com/neiii/bridle",
+    "description": "TUI / CLI config manager for agentic harnesses (Amp, Claude Code, Opencode, Goose, Copilot CLI, Crush, Droid)",
+    "stars": 419,
+    "forks": 18,
+    "language": "Rust",
+    "topics": "ai,ampcode,claude-code,cli,configuration,copilot-cli,crush-cli,mcp,opencode,rust,terminal,tui",
+    "updated": "2026-04-22T11:38:54Z",
+    "category": "🔧 Miscellaneous Harness Projects"
+  },
+  {
+    "name": "1jehuang/jcode",
+    "url": "https://github.com/1jehuang/jcode",
+    "description": "Coding Agent Harness",
+    "stars": 305,
+    "forks": 31,
+    "language": "Rust",
+    "topics": "ai,claude,cli,coding-agent,llm,mcp,openai,rust,terminal,tui",
+    "updated": "2026-04-23T21:36:15Z",
+    "category": "🔧 Miscellaneous Harness Projects"
+  },
+  {
+    "name": "zhe-qi/clhoria-template",
+    "url": "https://github.com/zhe-qi/clhoria-template",
+    "description": "Production-ready Hono backend template that doubles as an AI agent harness — providing feedforward guides, feedback sensors, and progressive specialization to make AI coding agents reliably produce architecture-conformant code./ 可用于生产环境的模板，内置权限、认证、缓存与限流，开箱即用。",
+    "stars": 163,
+    "forks": 16,
+    "language": "TypeScript",
+    "topics": "backend-boilerplate,backend-template,hono-boilerplate",
+    "updated": "2026-04-24T01:07:35Z",
+    "category": "🔧 Miscellaneous Harness Projects"
+  },
+  {
+    "name": "viemccoy/excalibur",
+    "url": "https://github.com/viemccoy/excalibur",
+    "description": "Excalibur is a highly opinionated agent harness for the aspiring summoner.",
+    "stars": 158,
+    "forks": 12,
+    "language": "",
+    "topics": "",
+    "updated": "2026-04-23T13:17:40Z",
+    "category": "🔧 Miscellaneous Harness Projects"
+  },
+  {
+    "name": "coleam00/your-claude-engineer",
+    "url": "https://github.com/coleam00/your-claude-engineer",
+    "description": "Demonstration of an agent harness with access to tools like Slack, GitHub, and Linear so it can act as your own complete software engineer.",
+    "stars": 122,
+    "forks": 52,
+    "language": "Python",
+    "topics": "",
+    "updated": "2026-04-19T03:47:04Z",
+    "category": "🔧 Miscellaneous Harness Projects"
+  },
+  {
+    "name": "mzpatrick0529-mzyh/claw-code",
+    "url": "https://github.com/mzpatrick0529-mzyh/claw-code",
+    "description": "Rewriting Project Claw Code — Python rewrite of Claude Code agent harness. Forked from instructkr/claw-code.",
+    "stars": 110,
+    "forks": 100,
+    "language": "Python",
+    "topics": "",
+    "updated": "2026-04-23T06:59:19Z",
+    "category": "🔧 Miscellaneous Harness Projects"
+  },
+  {
+    "name": "tlehman/litprog-skill",
+    "url": "https://github.com/tlehman/litprog-skill",
+    "description": "Literate programming skill for agent harnesses like Claude Code, OpenCode and Hermes Agent",
+    "stars": 104,
+    "forks": 6,
+    "language": "TypeScript",
+    "topics": "",
+    "updated": "2026-04-23T17:45:19Z",
+    "category": "🔧 Miscellaneous Harness Projects"
+  },
+  {
+    "name": "cybernetix-lab/moss-harness",
+    "url": "https://github.com/cybernetix-lab/moss-harness",
+    "description": "A production-grade AI Agent Harness engineering template providing a reliable, observable, and recoverable Agent runtime environment.",
+    "stars": 102,
+    "forks": 3,
+    "language": "Shell",
+    "topics": "",
+    "updated": "2026-04-24T03:52:13Z",
+    "category": "🔧 Miscellaneous Harness Projects"
   }
 ]
