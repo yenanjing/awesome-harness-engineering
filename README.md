@@ -4,9 +4,9 @@
 
   [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
   ![GitHub stars](https://img.shields.io/github/stars/yenanjing/awesome-harness-engineering?style=flat-square)
-  ![Last Updated](https://img.shields.io/badge/last%20updated-2026--07--19-blue?style=flat-square)
+  ![Last Updated](https://img.shields.io/badge/last%20updated-2026--07--20-blue?style=flat-square)
 
-  <p>Collected <strong>401</strong> repositories across <strong>9</strong> categories covering the harness engineering ecosystem.</p>
+  <p>Collected <strong>405</strong> repositories across <strong>9</strong> categories covering the harness engineering ecosystem.</p>
 </div>
 
 ---
@@ -44,7 +44,7 @@ This list curates the best open-source projects in the harness engineering ecosy
 - ⚡ **Test & benchmark harnesses** — quality assurance and performance frameworks
 - 🔐 **Security & fuzzing harnesses** — vulnerability research and chaos engineering
 
-> Last updated: 2026-07-19
+> Last updated: 2026-07-20
 
 ---
 
@@ -54,111 +54,112 @@ This list curates the best open-source projects in the harness engineering ecosy
 
 | Repository | Stars | Language | Description |
 |-----------|-------|----------|-------------|
-| [**affaan-m/everything-claude-code**](https://github.com/affaan-m/everything-claude-code) | ⭐ 230,983 | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first developmen... |
-| [**infiniflow/ragflow**](https://github.com/infiniflow/ragflow) | ⭐ 85,359 | `Python` | Leading open-source RAG engine fusing cutting-edge RAG with Agent capabilities to create a superior context layer for... |
-| [**lobehub/lobehub**](https://github.com/lobehub/lobehub) | ⭐ 80,497 | `TypeScript` | The ultimate space for work and life — taking agent harness to the next level with multi-agent collaboration and effo... |
-| [**bytedance/deer-flow**](https://github.com/bytedance/deer-flow) | ⭐ 77,352 | `Python` | Open-source long-horizon SuperAgent harness that researches, codes, and creates. With sandboxes, memories, tools, ski... |
-| [**shareAI-lab/learn-claude-code**](https://github.com/shareAI-lab/learn-claude-code) | ⭐ 71,442 | `TypeScript` | Bash is all you need — A nano claude code-like agent harness, built from 0 to 1. |
-| [**code-yeongyu/oh-my-openagent**](https://github.com/code-yeongyu/oh-my-openagent) | ⭐ 66,124 | `TypeScript` | omo; the best agent harness — previously oh-my-opencode. TUI for AI coding agents. |
-| [**Mintplex-Labs/anything-llm**](https://github.com/Mintplex-Labs/anything-llm) | ⭐ 63,531 | `JavaScript` | Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experie... |
-| [**agentscope-ai/QwenPaw**](https://github.com/agentscope-ai/QwenPaw) | ⭐ 23,375 | `Python` | Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps ... |
-| [**micro/go-micro**](https://github.com/micro/go-micro) | ⭐ 22,964 | `Go` | A Go agent harness and service framework |
-| [**HKUDS/OpenHarness**](https://github.com/HKUDS/OpenHarness) | ⭐ 14,905 | `Python` | OpenHarness: Open Agent Harness — open-source agent framework. |
-| [**mindfold-ai/Trellis**](https://github.com/mindfold-ai/Trellis) | ⭐ 12,823 | `Python` | The best agent harness. Supports agentic coding with ai-workflow and ClaudeCode integration. |
-| [**aden-hive/hive**](https://github.com/aden-hive/hive) | ⭐ 10,731 | `Python` | Multi-Agent Harness for Production AI — agent framework with skills, human-in-the-loop, and self-improving capabilities. |
-| [**revfactory/harness**](https://github.com/revfactory/harness) | ⭐ 8,404 | `HTML` | A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use. |
-| [**xerrors/Yuxi**](https://github.com/xerrors/Yuxi) | ⭐ 6,164 | `Python` | Multi-tenant Agent Harness platform integrating LightRAG knowledge base and knowledge graphs. Built with LangChain, V... |
-| [**ModelEngine-Group/nexent**](https://github.com/ModelEngine-Group/nexent) | ⭐ 5,718 | `Python` | Zero-code platform for auto-generating production-grade AI agents using Harness Engineering principles. |
+| [**affaan-m/everything-claude-code**](https://github.com/affaan-m/everything-claude-code) | ⭐ 231,324 | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first developmen... |
+| [**infiniflow/ragflow**](https://github.com/infiniflow/ragflow) | ⭐ 85,436 | `Python` | Leading open-source RAG engine fusing cutting-edge RAG with Agent capabilities to create a superior context layer for... |
+| [**lobehub/lobehub**](https://github.com/lobehub/lobehub) | ⭐ 80,554 | `TypeScript` | The ultimate space for work and life — taking agent harness to the next level with multi-agent collaboration and effo... |
+| [**bytedance/deer-flow**](https://github.com/bytedance/deer-flow) | ⭐ 77,410 | `Python` | Open-source long-horizon SuperAgent harness that researches, codes, and creates. With sandboxes, memories, tools, ski... |
+| [**shareAI-lab/learn-claude-code**](https://github.com/shareAI-lab/learn-claude-code) | ⭐ 71,570 | `TypeScript` | Bash is all you need — A nano claude code-like agent harness, built from 0 to 1. |
+| [**code-yeongyu/oh-my-openagent**](https://github.com/code-yeongyu/oh-my-openagent) | ⭐ 66,206 | `TypeScript` | omo; the best agent harness — previously oh-my-opencode. TUI for AI coding agents. |
+| [**Mintplex-Labs/anything-llm**](https://github.com/Mintplex-Labs/anything-llm) | ⭐ 63,582 | `JavaScript` | Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experie... |
+| [**agentscope-ai/QwenPaw**](https://github.com/agentscope-ai/QwenPaw) | ⭐ 23,521 | `Python` | Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps ... |
+| [**micro/go-micro**](https://github.com/micro/go-micro) | ⭐ 22,966 | `Go` | A Go agent harness and service framework |
+| [**HKUDS/OpenHarness**](https://github.com/HKUDS/OpenHarness) | ⭐ 14,936 | `Python` | OpenHarness: Open Agent Harness — open-source agent framework. |
+| [**mindfold-ai/Trellis**](https://github.com/mindfold-ai/Trellis) | ⭐ 12,876 | `Python` | The best agent harness. Supports agentic coding with ai-workflow and ClaudeCode integration. |
+| [**aden-hive/hive**](https://github.com/aden-hive/hive) | ⭐ 10,735 | `Python` | Multi-Agent Harness for Production AI — agent framework with skills, human-in-the-loop, and self-improving capabilities. |
+| [**revfactory/harness**](https://github.com/revfactory/harness) | ⭐ 8,419 | `HTML` | A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use. |
+| [**xerrors/Yuxi**](https://github.com/xerrors/Yuxi) | ⭐ 6,178 | `Python` | Multi-tenant Agent Harness platform integrating LightRAG knowledge base and knowledge graphs. Built with LangChain, V... |
+| [**ModelEngine-Group/nexent**](https://github.com/ModelEngine-Group/nexent) | ⭐ 5,734 | `Python` | Zero-code platform for auto-generating production-grade AI agents using Harness Engineering principles. |
 | [**holaboss-ai/holaOS**](https://github.com/holaboss-ai/holaOS) | ⭐ 5,507 | `TypeScript` | The computer for you and your agent. |
-| [**nextlevelbuilder/goclaw**](https://github.com/nextlevelbuilder/goclaw) | ⭐ 3,453 | `Go` | GoClaw - GoClaw is OpenClaw rebuilt in Go — with multi-tenant isolation, 5-layer security, and native concurrency. De... |
+| [**nextlevelbuilder/goclaw**](https://github.com/nextlevelbuilder/goclaw) | ⭐ 3,456 | `Go` | GoClaw - GoClaw is OpenClaw rebuilt in Go — with multi-tenant isolation, 5-layer security, and native concurrency. De... |
 | [**peteromallet/desloppify**](https://github.com/peteromallet/desloppify) | ⭐ 2,986 | `Python` | Agent harness to make your slop code well-engineered and beautiful. |
 | [**datachain-ai/datachain**](https://github.com/datachain-ai/datachain) | ⭐ 2,799 | `Python` | Data context layer for unstructured data - images, video, sensor data, text and PDFs |
+| [**rpamis/comet**](https://github.com/rpamis/comet) | ⭐ 2,371 | `TypeScript` | Comet: OpenSpec + Superpowers dual-star development workflow |
 | [**kevinluosl/deepbot**](https://github.com/kevinluosl/deepbot) | ⭐ 2,361 | `TypeScript` | DeepBot is a system-level AI assistant built for both personal productivity and enterprise workflows — one-click setu... |
-| [**rpamis/comet**](https://github.com/rpamis/comet) | ⭐ 2,357 | `TypeScript` | Comet: OpenSpec + Superpowers dual-star development workflow |
-| [**trustgraph-ai/TrustGraph**](https://github.com/trustgraph-ai/TrustGraph) | ⭐ 2,327 | `Python` | Write context once. Run agents anywhere. Discover the power of holonic context graphs and dramatically reduce your to... |
-| [**trustgraph-ai/trustgraph**](https://github.com/trustgraph-ai/trustgraph) | ⭐ 2,327 | `Python` | Write context once. Run agents anywhere. Discover the power of holonic context graphs and dramatically reduce your to... |
+| [**trustgraph-ai/TrustGraph**](https://github.com/trustgraph-ai/TrustGraph) | ⭐ 2,329 | `Python` | Write context once. Run agents anywhere. Discover the power of holonic context graphs and dramatically reduce your to... |
+| [**trustgraph-ai/trustgraph**](https://github.com/trustgraph-ai/trustgraph) | ⭐ 2,329 | `Python` | Write context once. Run agents anywhere. Discover the power of holonic context graphs and dramatically reduce your to... |
 | [**limecloud/lime**](https://github.com/limecloud/lime) | ⭐ 1,459 | `Rust` |   AI content workspace for Chinese creators: desktop writing, research, prompt   library, knowledge base, and multi-m... |
-| [**tmgthb/Autonomous-Agents**](https://github.com/tmgthb/Autonomous-Agents) | ⭐ 1,350 |  | Autonomous Agents (LLMs) research papers. Updated Daily. |
-| [**stanford-iris-lab/meta-harness**](https://github.com/stanford-iris-lab/meta-harness) | ⭐ 1,295 | `Python` | Reference code for the Meta-Harness paper. |
+| [**tmgthb/Autonomous-Agents**](https://github.com/tmgthb/Autonomous-Agents) | ⭐ 1,351 |  | Autonomous Agents (LLMs) research papers. Updated Daily. |
+| [**stanford-iris-lab/meta-harness**](https://github.com/stanford-iris-lab/meta-harness) | ⭐ 1,299 | `Python` | Reference code for the Meta-Harness paper. |
 | [**Team-Commonly/commonly**](https://github.com/Team-Commonly/commonly) | ⭐ 1,261 | `TypeScript` | A social platform for humans and AI agents, built and maintained by its own AI team. Connect any agent via HTTP. |
-| [**Jamailar/RedBox**](https://github.com/Jamailar/RedBox) | ⭐ 1,244 | `TypeScript` | 用AI创作高质量内容，小红书版Openclaw，自媒体创作者的AI工作台，小红书创作AI工具RedClaw，支持小红书图文下载、创作风格学习、智囊团AI群聊、小红书AI创作，AI图文制作，AI文章排版｜🌟 Star if you li... |
-| [**Jamailar/Beav**](https://github.com/Jamailar/Beav) | ⭐ 1,244 | `TypeScript` | 原RedBox，现更名为Beav，自媒体素材库+AI工作台，AI自媒体资产底座，AI写作+图片自动编排，小红书版OpenClaw，AI剪视频、AI剪博客、自媒体素材库+AI工作台，支持小红书图文+评论区下载、小红书AI创作、自媒体AI... |
-| [**first-fluke/oh-my-agent**](https://github.com/first-fluke/oh-my-agent) | ⭐ 1,173 | `TypeScript` | Portable multi-agent harness for .agents-based skills, workflows, and standards-aware agent teams across Antigravity,... |
-| [**thClaws/thClaws**](https://github.com/thClaws/thClaws) | ⭐ 1,166 | `Rust` | Open-source agent harness platform. Native Rust, multi-provider, runs on your own machine. Sovereign by design. |
-| [**tsinghua-fib-lab/AgentSociety**](https://github.com/tsinghua-fib-lab/AgentSociety) | ⭐ 1,141 | `Python` | AgentSociety 2 is a modern, LLM-native agent simulation platform designed for social science research and experimenta... |
+| [**Jamailar/RedBox**](https://github.com/Jamailar/RedBox) | ⭐ 1,248 | `TypeScript` | 用AI创作高质量内容，小红书版Openclaw，自媒体创作者的AI工作台，小红书创作AI工具RedClaw，支持小红书图文下载、创作风格学习、智囊团AI群聊、小红书AI创作，AI图文制作，AI文章排版｜🌟 Star if you li... |
+| [**Jamailar/Beav**](https://github.com/Jamailar/Beav) | ⭐ 1,248 | `TypeScript` | 原RedBox，现更名为Beav，自媒体素材库+AI工作台，AI自媒体资产底座，AI写作+图片自动编排，小红书版OpenClaw，AI剪视频、AI剪博客、自媒体素材库+AI工作台，支持小红书图文+评论区下载、小红书AI创作、自媒体AI... |
+| [**first-fluke/oh-my-agent**](https://github.com/first-fluke/oh-my-agent) | ⭐ 1,176 | `TypeScript` | Portable multi-agent harness for .agents-based skills, workflows, and standards-aware agent teams across Antigravity,... |
+| [**thClaws/thClaws**](https://github.com/thClaws/thClaws) | ⭐ 1,167 | `Rust` | Open-source agent harness platform. Native Rust, multi-provider, runs on your own machine. Sovereign by design. |
+| [**tsinghua-fib-lab/AgentSociety**](https://github.com/tsinghua-fib-lab/AgentSociety) | ⭐ 1,142 | `Python` | AgentSociety 2 is a modern, LLM-native agent simulation platform designed for social science research and experimenta... |
 | [**Onelevenvy/flock**](https://github.com/Onelevenvy/flock) | ⭐ 1,090 | `Rust` | A desktop multi-agent harness built with Rust, Tauri, and React, powered by langgraph-rust. |
-| [**hoangnb24/repository-harness**](https://github.com/hoangnb24/repository-harness) | ⭐ 1,086 | `Rust` | Turn any repo into an agent-ready workspace for Claude Code, Codex, Cursor, and other coding agents. |
+| [**hoangnb24/repository-harness**](https://github.com/hoangnb24/repository-harness) | ⭐ 1,088 | `Rust` | Turn any repo into an agent-ready workspace for Claude Code, Codex, Cursor, and other coding agents. |
+| [**puppyone-ai/puppyone**](https://github.com/puppyone-ai/puppyone) | ⭐ 1,064 | `TypeScript` | Context drive for your AI agents |
 | [**Dong90/oh-my-taiyiforge**](https://github.com/Dong90/oh-my-taiyiforge) | ⭐ 1,026 | `TypeScript` | AI workflow automation plugin for intelligent code generation with Claude/Codex |
-| [**puppyone-ai/puppyone**](https://github.com/puppyone-ai/puppyone) | ⭐ 1,025 | `TypeScript` | Context drive for your AI agents |
-| [**AI-Builder-Club/skills**](https://github.com/AI-Builder-Club/skills) | ⭐ 961 | `JavaScript` | Codebase harness + loop engineer |
-| [**dromara/dante-cloud**](https://github.com/dromara/dante-cloud) | ⭐ 953 | `Java` | 🐉 Dante Cloud 国内首个支持阻塞式和响应式服务并行的微服务云原生基座。采用领域驱动模型(DDD)设计思想，以「高质量代码、低安全漏洞」为核心，高度模块化和组件化设计，支持IoT等物联网设备认证，满足国家三级等保要求、支持接... |
-| [**modiqo/waggle**](https://github.com/modiqo/waggle) | ⭐ 861 | `Rust` | Attributed, resolvable artifact references for agent handoffs — a ~30-byte token instead of pasted context. MCP-nativ... |
-| [**SmileLikeYe/agent-chief**](https://github.com/SmileLikeYe/agent-chief) | ⭐ 855 | `Python` | Attention is your scarcest resource. Chief is the local-first layer that guards it — turning every agent, alert, and ... |
+| [**AI-Builder-Club/skills**](https://github.com/AI-Builder-Club/skills) | ⭐ 970 | `JavaScript` | Codebase harness + loop engineer |
+| [**dromara/dante-cloud**](https://github.com/dromara/dante-cloud) | ⭐ 954 | `Java` | 🐉 Dante Cloud 国内首个支持阻塞式和响应式服务并行的微服务云原生基座。采用领域驱动模型(DDD)设计思想，以「高质量代码、低安全漏洞」为核心，高度模块化和组件化设计，支持IoT等物联网设备认证，满足国家三级等保要求、支持接... |
+| [**SmileLikeYe/agent-chief**](https://github.com/SmileLikeYe/agent-chief) | ⭐ 952 | `Python` | Attention is your scarcest resource. Chief is the local-first layer that guards it — turning every agent, alert, and ... |
+| [**modiqo/waggle**](https://github.com/modiqo/waggle) | ⭐ 893 | `Rust` | Attributed, resolvable artifact references for agent handoffs — a ~30-byte token instead of pasted context. MCP-nativ... |
 | [**kweaver-ai/kweaver-core**](https://github.com/kweaver-ai/kweaver-core) | ⭐ 839 | `Go` | KWeaver Core is a harness-first foundation for enterprise decision agents. It turns fragmented data, knowledge, tools... |
-| [**Haohao-end/openagent**](https://github.com/Haohao-end/openagent) | ⭐ 835 | `Python` | AI Agent Development Platform - Supports multiple models (OpenAI/DeepSeek/Wenxin/Tongyi), knowledge base management, ... |
-| [**matevip/mateclaw**](https://github.com/matevip/mateclaw) | ⭐ 780 | `Java` | 🤖 MateClaw — Your second brain with Multi-Agent Orchestration, MCP Protocol, Skills & Memory, Dream, and Multi-Channe... |
-| [**mateaix/mateclaw**](https://github.com/mateaix/mateclaw) | ⭐ 780 | `Java` | 🤖 MateClaw — Your second brain with Multi-Agent Orchestration, MCP Protocol, Skills & Memory, Dream, and Multi-Channe... |
+| [**matevip/mateclaw**](https://github.com/matevip/mateclaw) | ⭐ 788 | `Java` | 🤖 MateClaw — Your second brain with Multi-Agent Orchestration, MCP Protocol, Skills & Memory, Dream, and Multi-Channe... |
+| [**mateaix/mateclaw**](https://github.com/mateaix/mateclaw) | ⭐ 788 | `Java` | 🤖 MateClaw — Your second brain with Multi-Agent Orchestration, MCP Protocol, Skills & Memory, Dream, and Multi-Channe... |
+| [**Haohao-end/openagent**](https://github.com/Haohao-end/openagent) | ⭐ 771 | `Python` | AI Agent Development Platform - Supports multiple models (OpenAI/DeepSeek/Wenxin/Tongyi), knowledge base management, ... |
 | [**AltimateAI/altimate-code**](https://github.com/AltimateAI/altimate-code) | ⭐ 750 | `TypeScript` | Open-source agentic data engineering harness for dbt, SQL, and cloud warehouses. 100+ tools, 10 warehouses, AI-powered. |
-| [**zhnt/loushang**](https://github.com/zhnt/loushang) | ⭐ 730 | `Python` | AI-native agent harness for coding workflows: multi-model LLM orchestration, stateful sessions, tool governance,   > ... |
+| [**zhnt/loushang**](https://github.com/zhnt/loushang) | ⭐ 748 | `Python` | AI-native agent harness for coding workflows: multi-model LLM orchestration, stateful sessions, tool governance,   > ... |
+| [**melandlabs/openloomi**](https://github.com/melandlabs/openloomi) | ⭐ 668 | `TypeScript` | Openloomi is your open-source proactive AI Mates that remembers all work details. |
 | [**chaitanyagiri/munder-difflin**](https://github.com/chaitanyagiri/munder-difflin) | ⭐ 664 | `TypeScript` | local multi-agent harness |
-| [**melandlabs/openloomi**](https://github.com/melandlabs/openloomi) | ⭐ 661 | `TypeScript` | Openloomi is your open-source proactive AI Mates that remembers all work details. |
-| [**desplega-ai/agent-swarm**](https://github.com/desplega-ai/agent-swarm) | ⭐ 613 | `TypeScript` | Intelligence that compounds. Every single day. |
+| [**desplega-ai/agent-swarm**](https://github.com/desplega-ai/agent-swarm) | ⭐ 614 | `TypeScript` | Intelligence that compounds. Every single day. |
 | [**MaxGfeller/open-harness**](https://github.com/MaxGfeller/open-harness) | ⭐ 587 | `TypeScript` | Code-first, composable SDK to build powerful AI agents — agents, agent skills, AI, MCP. |
 | [**514-labs/moosestack**](https://github.com/514-labs/moosestack) | ⭐ 586 | `Rust` | The agent harness for building analytics into your app on top of ClickHouse, Redpanda and other high-performance anal... |
+| [**ruvnet/agent-harness-generator**](https://github.com/ruvnet/agent-harness-generator) | ⭐ 494 | `TypeScript` | 🛠️ The meta-harness for AI agents — scaffold your own focused, branded agent harness with its own npx CLI, MCP server... |
+| [**ruvnet/metaharness**](https://github.com/ruvnet/metaharness) | ⭐ 494 | `TypeScript` | 🛠️ The meta-harness for AI agents — scaffold your own focused, branded agent harness with its own npx CLI, MCP server... |
 | [**agentic-in/inferoa**](https://github.com/agentic-in/inferoa) | ⭐ 486 | `TypeScript` | Inference-native Tokenmaxxing Agent Harness for Loop Engineering |
-| [**ruvnet/agent-harness-generator**](https://github.com/ruvnet/agent-harness-generator) | ⭐ 486 | `TypeScript` | 🛠️ The meta-harness for AI agents — scaffold your own focused, branded agent harness with its own npx CLI, MCP server... |
-| [**ruvnet/metaharness**](https://github.com/ruvnet/metaharness) | ⭐ 486 | `TypeScript` | 🛠️ The meta-harness for AI agents — scaffold your own focused, branded agent harness with its own npx CLI, MCP server... |
 | [**SponsioLabs/Sponsio**](https://github.com/SponsioLabs/Sponsio) | ⭐ 466 | `Python` | Deterministic safety solutions for probabilistic AI agents |
 | [**exon-research/genomi**](https://github.com/exon-research/genomi) | ⭐ 464 | `Python` | An open-source agent harness that turns your AI agent into your personal DNA expert |
-| [**clawdotnet/openclaw.net**](https://github.com/clawdotnet/openclaw.net) | ⭐ 451 | `C#` | Self-hosted OpenClaw gateway + agent runtime in .NET (NativeAOT-friendly) |
+| [**clawdotnet/openclaw.net**](https://github.com/clawdotnet/openclaw.net) | ⭐ 452 | `C#` | Self-hosted OpenClaw gateway + agent runtime in .NET (NativeAOT-friendly) |
 | [**baby-llm/baby-agent**](https://github.com/baby-llm/baby-agent) | ⭐ 441 | `Go` | AI agent tutorials for backend developers without AI background. 适合后端工程师的零基础 AI Agent 教程 |
-| [**deonmenezes/bountyhunter**](https://github.com/deonmenezes/bountyhunter) | ⭐ 429 | `JavaScript` | Autonomous bug bounty hunting framework for Claude Code — 7-phase FSM, parallel hunter agents, 3-round adversarial ve... |
-| [**deonmenezes/mantishack**](https://github.com/deonmenezes/mantishack) | ⭐ 429 | `JavaScript` | Mantis — autonomous offensive-security platform for Claude Code. DISCOVER → REASON → TEST → LEARN over a 7-phase FSM ... |
+| [**deonmenezes/bountyhunter**](https://github.com/deonmenezes/bountyhunter) | ⭐ 437 | `JavaScript` | Autonomous bug bounty hunting framework for Claude Code — 7-phase FSM, parallel hunter agents, 3-round adversarial ve... |
+| [**deonmenezes/mantishack**](https://github.com/deonmenezes/mantishack) | ⭐ 437 | `JavaScript` | Mantis — autonomous offensive-security platform for Claude Code. DISCOVER → REASON → TEST → LEARN over a 7-phase FSM ... |
 | [**shamspias/customizable-gpt-chatbot**](https://github.com/shamspias/customizable-gpt-chatbot) | ⭐ 397 | `Python` | A dynamic, scalable AI chatbot built with Django REST framework, supporting custom training from PDFs, documents, web... |
-| [**aiming-lab/AutoHarness**](https://github.com/aiming-lab/AutoHarness) | ⭐ 350 | `Python` | AutoHarness: Automated Harness Engineering for AI Agents with context management, governance, and multi-agent support. |
+| [**aiming-lab/AutoHarness**](https://github.com/aiming-lab/AutoHarness) | ⭐ 351 | `Python` | AutoHarness: Automated Harness Engineering for AI Agents with context management, governance, and multi-agent support. |
 | [**Arenukvern/mcp_flutter**](https://github.com/Arenukvern/mcp_flutter) | ⭐ 350 | `Dart` | MCP Toolkit for Flutter AI Agent Driven Development (MCP/CLI + custom client side tools) - via closed feedback loop (... |
-| [**RyanAlberts/best-of-Agent-Harnesses**](https://github.com/RyanAlberts/best-of-Agent-Harnesses) | ⭐ 342 | `Python` | 🏆 Ranked list of 100+ agent harnesses. Scored and updated weekly. |
-| [**harnessclaw/harnessclaw**](https://github.com/harnessclaw/harnessclaw) | ⭐ 332 | `TypeScript` | Harnessclaw is a powerful, Electron-based desktop application designed to manage, chat with, and operate AI agents an... |
+| [**RyanAlberts/best-of-Agent-Harnesses**](https://github.com/RyanAlberts/best-of-Agent-Harnesses) | ⭐ 345 | `Python` | 🏆 Ranked list of 100+ agent harnesses. Scored and updated weekly. |
+| [**harnessclaw/harnessclaw**](https://github.com/harnessclaw/harnessclaw) | ⭐ 341 | `TypeScript` | Harnessclaw is a powerful, Electron-based desktop application designed to manage, chat with, and operate AI agents an... |
 | [**mathomhaus/guild**](https://github.com/mathomhaus/guild) | ⭐ 318 | `Go` | Shared context, memory, and task coordination across AI coding agents. Single Go binary, local SQLite, hybrid keyword... |
 | [**princeton-pli/hal-harness**](https://github.com/princeton-pli/hal-harness) | ⭐ 307 | `Python` | HAL: Holistic Agent evaluation harness from Princeton. |
-| [**huisezhiyin/sdd-riper**](https://github.com/huisezhiyin/sdd-riper) | ⭐ 306 | `Python` | Lightweight AI Agent Harness for agentic coding: let strong models explore while humans steer with minimal specs, che... |
-| [**Gloriaameng/Awesome-Agent-Harness**](https://github.com/Gloriaameng/Awesome-Agent-Harness) | ⭐ 306 |  | Agent Harness for Large Language Model Agents: A Survey. Survey on LLM agentharnessengineering with a taxonomy. 110+p... |
+| [**huisezhiyin/sdd-riper**](https://github.com/huisezhiyin/sdd-riper) | ⭐ 307 | `Python` | Lightweight AI Agent Harness for agentic coding: let strong models explore while humans steer with minimal specs, che... |
+| [**Gloriaameng/Awesome-Agent-Harness**](https://github.com/Gloriaameng/Awesome-Agent-Harness) | ⭐ 307 |  | Agent Harness for Large Language Model Agents: A Survey. Survey on LLM agentharnessengineering with a taxonomy. 110+p... |
 | [**manthanguptaa/water**](https://github.com/manthanguptaa/water) | ⭐ 292 | `Python` | Production-ready agent harness framework for Python — composable, multi-agent systems. |
+| [**YTwsy/OpenSurge-for-Mac**](https://github.com/YTwsy/OpenSurge-for-Mac) | ⭐ 292 | `Go` | Surge-style macOS whole-home gateway and control plane with mihomo TUN, DHCP/DNS, and an agent-friendly validation wo... |
 | [**0xNyk/lacp**](https://github.com/0xNyk/lacp) | ⭐ 290 | `Shell` | Control-plane-grade agent harness for Claude, Codex & Hermes: policy gates, verification/evidence loops, memory, and ... |
+| [**harnessclaw/harnessclaw-engine**](https://github.com/harnessclaw/harnessclaw-engine) | ⭐ 281 | `Go` | An LLM programming assistant engine built with Go, supporting WebSocket, multi-turn dialogues, tool calling, permissi... |
 | [**abraxas914/VESTI**](https://github.com/abraxas914/VESTI) | ⭐ 278 | `TypeScript` | Local-first AI conversation memory hub to capture, search, summarize, and export chats across major AI platforms. 本地优... |
-| [**harnessclaw/harnessclaw-engine**](https://github.com/harnessclaw/harnessclaw-engine) | ⭐ 272 | `Go` | An LLM programming assistant engine built with Go, supporting WebSocket, multi-turn dialogues, tool calling, permissi... |
-| [**jumbocontext/jumbo.cli**](https://github.com/jumbocontext/jumbo.cli) | ⭐ 263 | `TypeScript` | Memory and Context Orchestration for Coding Agents |
+| [**jumbocontext/jumbo.cli**](https://github.com/jumbocontext/jumbo.cli) | ⭐ 264 | `TypeScript` | Memory and Context Orchestration for Coding Agents |
 | [**lee-to/aif-handoff**](https://github.com/lee-to/aif-handoff) | ⭐ 262 | `TypeScript` | Autonomous Kanban board where AI agents plan, implement, and review your tasks — fully hands-off. |
-| [**tninja/ai-code-interface.el**](https://github.com/tninja/ai-code-interface.el) | ⭐ 259 | `Emacs Lisp` | Unified Emacs interface supporting OpenAI Codex, GitHub Copilot CLI, Claude Code, Gemini CLI, Opencode, and more |
+| [**tninja/ai-code-interface.el**](https://github.com/tninja/ai-code-interface.el) | ⭐ 260 | `Emacs Lisp` | Unified Emacs interface supporting OpenAI Codex, GitHub Copilot CLI, Claude Code, Gemini CLI, Opencode, and more |
+| [**Tura-AI/tura**](https://github.com/Tura-AI/tura) | ⭐ 253 | `Rust` | Across 348 long-horizon benchmark sessions, Tura used up to 83.1% fewer turns on the rewrite benchmark and improved t... |
 | [**omnirexflora-labs/omnicoreagent**](https://github.com/omnirexflora-labs/omnicoreagent) | ⭐ 244 | `Python` | Open Python agent harness for production AI agents: parallel tool execution, structured observations, loop detection,... |
 | [**lemon07r/SanityHarness**](https://github.com/lemon07r/SanityHarness) | ⭐ 240 | `Go` | Lightweight harness designed to be simple, efficient, and universally compatible with any coding agent to evaluate th... |
+| [**ai-driven-dev/framework**](https://github.com/ai-driven-dev/framework) | ⭐ 240 | `JavaScript` | Marketplace Framework AI-Driven Dev : Context Engineering, Plugins, Agents, Skills, Hooks, Templates, SDLC |
 | [**bolt-foundry/gambit**](https://github.com/bolt-foundry/gambit) | ⭐ 239 | `TypeScript` | Agent harness framework for building, running, and verifying LLM workflows |
-| [**ai-driven-dev/framework**](https://github.com/ai-driven-dev/framework) | ⭐ 237 | `JavaScript` | Marketplace Framework AI-Driven Dev : Context Engineering, Plugins, Agents, Skills, Hooks, Templates, SDLC |
+| [**hardness1020/awesome-agent-architecture**](https://github.com/hardness1020/awesome-agent-architecture) | ⭐ 229 | `Python` | Curated architecture notes and system reviews of modern AI agents. |
 | [**LearnPrompt/cc-harness-skills**](https://github.com/LearnPrompt/cc-harness-skills) | ⭐ 227 | `Python` | Portable CC-inspired skills for memory, verification, multi-agent coordination, context compression, and proactive co... |
 | [**coleam00/Linear-Coding-Agent-Harness**](https://github.com/coleam00/Linear-Coding-Agent-Harness) | ⭐ 223 | `Python` | Linear Autonomous Coding Agent Harness. |
 | [**Axolotl-QA/Axolotl**](https://github.com/Axolotl-QA/Axolotl) | ⭐ 221 | `TypeScript` | AI-powered QA agent for VS Code. Analyzes code changes, generates test plans, runs real browser tests, and delivers e... |
-| [**hardness1020/awesome-agent-architecture**](https://github.com/hardness1020/awesome-agent-architecture) | ⭐ 221 | `Python` | Curated architecture notes and system reviews of modern AI agents. |
 | [**ReinaMacCredy/maestro**](https://github.com/ReinaMacCredy/maestro) | ⭐ 216 | `TypeScript` | Agent harness for codebases. Gives Claude Code, Codex, and CI a shared task system, verdict ledger, and state store s... |
 | [**vortezwohl/Autono**](https://github.com/vortezwohl/Autono) | ⭐ 211 | `Python` | ReAct-Based Highly Robust Autonomous Agent (Harness) Framework with MCP, LangChain, and multi-agent support. |
 | [**Ray-Code-Svg/SuperNovaAgent**](https://github.com/Ray-Code-Svg/SuperNovaAgent) | ⭐ 209 | `Rust` | SuperNova is a Windows-first desktop AI Workbench that turns chat into traceable tasks. It combines a Tauri + React W... |
-| [**bitrouter/bitrouter**](https://github.com/bitrouter/bitrouter) | ⭐ 207 | `Rust` | The agentic proxy for modern agent runtimes. Smart, safe, agent-controlled routing across LLMs, tools, and agents. |
+| [**bitrouter/bitrouter**](https://github.com/bitrouter/bitrouter) | ⭐ 208 | `Rust` | The agentic proxy for modern agent runtimes. Smart, safe, agent-controlled routing across LLMs, tools, and agents. |
 | [**garagon/nanostack**](https://github.com/garagon/nanostack) | ⭐ 204 | `Shell` | A workflow harness that helps AI coding agents plan, review, test, and ship safer code. |
-| [**Zleap-AI/Zleap-Agent**](https://github.com/Zleap-AI/Zleap-Agent) | ⭐ 199 | `TypeScript` | Agent Harness developed specifically for local small-parameter models. |
+| [**Zleap-AI/Zleap-Agent**](https://github.com/Zleap-AI/Zleap-Agent) | ⭐ 200 | `TypeScript` | Agent Harness developed specifically for local small-parameter models. |
 | [**Stanshy/AgentHub**](https://github.com/Stanshy/AgentHub) | ⭐ 198 | `TypeScript` | One person, one software company. Manage 47 AI agents from a single      Electron app — with Harness Engineering (Ski... |
-| [**jpicklyk/task-orchestrator**](https://github.com/jpicklyk/task-orchestrator) | ⭐ 196 | `Kotlin` | Server-enforced workflow discipline for AI agents. An MCP server providing persistent work items, dependency graphs, ... |
+| [**jpicklyk/task-orchestrator**](https://github.com/jpicklyk/task-orchestrator) | ⭐ 197 | `Kotlin` | Server-enforced workflow discipline for AI agents. An MCP server providing persistent work items, dependency graphs, ... |
 | [**havingautism/Codemini-CLI**](https://github.com/havingautism/Codemini-CLI) | ⭐ 192 | `JavaScript` | Terminal-first AI workspace with coding agents, workflows and built-in web UI. |
 | [**mattolson/agent-sandbox**](https://github.com/mattolson/agent-sandbox) | ⭐ 191 | `Go` | Secure local dev environment collaboration with AI coding agents |
 | [**Shiyao-Huang/awesome-agent-evolution**](https://github.com/Shiyao-Huang/awesome-agent-evolution) | ⭐ 177 | `TeX` | Open survey and evidence map for AI agent evolution, self-evolving agents, memory, skills, harnesses, benchmarks, and... |
 | [**sd0xdev/sd0x-dev-flow**](https://github.com/sd0xdev/sd0x-dev-flow) | ⭐ 174 | `JavaScript` | The harness layer for Claude Code — a reference implementation of harness engineering with hook-enforced dual review,... |
 | [**enmanuelmag/agent-harness-kit**](https://github.com/enmanuelmag/agent-harness-kit) | ⭐ 173 | `TypeScript` | A provider-agnostic scaffolding kit for running structured multi-agent workflows in your codebase. |
-| [**Tura-AI/tura**](https://github.com/Tura-AI/tura) | ⭐ 170 | `Rust` | Across 348 long-horizon benchmark sessions, Tura used up to 83.1% fewer turns on the rewrite benchmark and improved t... |
 | [**wedow/harness**](https://github.com/wedow/harness) | ⭐ 160 | `Shell` | Minimal agent loop in bash. Pure state follower core with plugin-based tools, hooks, providers, and commands. |
+| [**7-e1even/learn-agent**](https://github.com/7-e1even/learn-agent) | ⭐ 155 | `JavaScript` | 从零写一个能活下来的 AI Agent：机制从真实产品 Reina 移植 \| Build a coding agent from scratch — how Claude Code / Codex / Cursor actually... |
+| [**romiluz13/cc10x**](https://github.com/romiluz13/cc10x) | ⭐ 154 | `HTML` | The Loop Engine for Claude Code — engineer the loop, not the prompt. 1 router · 9 agents · 16 skills · 4 workflows. F... |
 | [**Magma1321/mythos-agent-pipe**](https://github.com/Magma1321/mythos-agent-pipe) | ⭐ 153 | `HTML` | Finish-First Autonomous Agent Loop for Claude Opus 4.7 – 2026 Edition |
-| [**romiluz13/cc10x**](https://github.com/romiluz13/cc10x) | ⭐ 153 | `HTML` | The Loop Engine for Claude Code — engineer the loop, not the prompt. 1 router · 9 agents · 16 skills · 4 workflows. F... |
-| [**7-e1even/learn-agent**](https://github.com/7-e1even/learn-agent) | ⭐ 150 | `JavaScript` | 从零写一个能活下来的 AI Agent：机制从真实产品 Reina 移植 \| Build a coding agent from scratch — how Claude Code / Codex / Cursor actually... |
-| [**andrew-yangy/gru-ai**](https://github.com/andrew-yangy/gru-ai) | ⭐ 149 | `TypeScript` | Autonomous AI agent team for one-man companies. Context engineering + harness engineering drive a pipeline that brain... |
+| [**andrew-yangy/gru-ai**](https://github.com/andrew-yangy/gru-ai) | ⭐ 150 | `TypeScript` | Autonomous AI agent team for one-man companies. Context engineering + harness engineering drive a pipeline that brain... |
 | [**SuperagenticAI/metaharness**](https://github.com/SuperagenticAI/metaharness) | ⭐ 146 | `Python` | Meta Harness Implementation  |
-| [**ob-labs/agentseek**](https://github.com/ob-labs/agentseek) | ⭐ 136 | `Python` | A database-native Agent Harness, built by OceanBase OSS Team. |
+| [**ob-labs/agentseek**](https://github.com/ob-labs/agentseek) | ⭐ 137 | `Python` | A database-native Agent Harness, built by OceanBase OSS Team. |
 | [**inngest/utah**](https://github.com/inngest/utah) | ⭐ 133 | `TypeScript` | Universally Triggered Agent Harness - An OpenClaw-like Inngest-powered personal agent |
 | [**daypunk/LockedIn**](https://github.com/daypunk/LockedIn) | ⭐ 133 | `Python` | Lives inside your Claude Code session. Capture work as structured experience, then render resumes, Korean cover lette... |
 | [**UnicomAI/hexagent**](https://github.com/UnicomAI/hexagent) | ⭐ 128 | `Python` | HexAgent – An Agent harness that gives any LLM a computer to complete tasks the way humans do |
@@ -167,17 +168,17 @@ This list curates the best open-source projects in the harness engineering ecosy
 | [**chrispangg/deepagentsdk**](https://github.com/chrispangg/deepagentsdk) | ⭐ 126 | `TypeScript` | A Deep Agent Harness framework built with Vercel's AI SDK v6 |
 | [**wulawulu/learn-claude-code-rs**](https://github.com/wulawulu/learn-claude-code-rs) | ⭐ 122 | `Rust` | Build an AI agent harness in Rust, from a minimal loop to tools, subagents, memory, teams, worktrees,   MCP, and type... |
 | [**deepfates/cantrip**](https://github.com/deepfates/cantrip) | ⭐ 120 | `Elixir` | the extensible, customizable, self-documenting, real-time multi-agent computing environment |
+| [**RightNow-AI/AutoMegaKernel**](https://github.com/RightNow-AI/AutoMegaKernel) | ⭐ 116 | `Python` | An agent harness that compiles a model into one provably-correct, self-retargeting CUDA megakernel and self-tunes it ... |
 | [**ljxpython/ai-agent-platform**](https://github.com/ljxpython/ai-agent-platform) | ⭐ 115 | `Vue` | AI agent平台开发 --以测试为例，搭建了一套 harness 可落地方案，不需要手写一段代码，企业级通用 AI 智能体平台框架（平台控制面 + LangGraph 运行时），可以在这个基础轻松二次开发 |
 | [**thu-nmrc/OpenHarness**](https://github.com/thu-nmrc/OpenHarness) | ⭐ 112 | `Python` | OpenHarness is a long-term, fully autonomous AI agent execution framework for OpenClaw built on the concept of Harnes... |
-| [**RightNow-AI/AutoMegaKernel**](https://github.com/RightNow-AI/AutoMegaKernel) | ⭐ 111 | `Python` | An agent harness that compiles a model into one provably-correct, self-retargeting CUDA megakernel and self-tunes it ... |
 | [**momotech/LinkWork**](https://github.com/momotech/LinkWork) | ⭐ 110 | `Dockerfile` | Open-source enterprise AI workforce platform — containerized roles, declarative skills, MCP tools, policy-driven secu... |
 | [**whut09/Repo-to-Agent-Context**](https://github.com/whut09/Repo-to-Agent-Context) | ⭐ 108 | `TypeScript` | # Repo-to-Agent-Context  面向 AI 编程 Agent 的 Context Harness：将代码仓库转化为可读、可检索、可更新、可验证的任务级上下文资产，帮助 Codex / Claude Code / Cu... |
 | [**whut09/Code-Agent-plusplus**](https://github.com/whut09/Code-Agent-plusplus) | ⭐ 108 | `TypeScript` | Code Agent++  面向 AI 编程 Agent 的外挂式增强与可靠性工程层。  Code Agent++ 不做另一个代码生成 Agent，也不替代 Codex、OpenCode、Claude Code、Cursor、MiMo... |
 | [**whut09/opencode-plusplus**](https://github.com/whut09/opencode-plusplus) | ⭐ 108 | `TypeScript` | OpenCode++：面向 OpenCode 的 AI 编程可靠性增强框架，为其增加上下文管理、编辑边界、命令证据、验证门禁、影响分析与修复闭环能力。OpenCode++: a Coding Agent Reliability Har... |
 | [**dralgorhythm/claude-agentic-framework**](https://github.com/dralgorhythm/claude-agentic-framework) | ⭐ 108 | `Shell` | A More Effective Agent Harness for Claude |
 | [**harnessworks/harness-starter-kit**](https://github.com/harnessworks/harness-starter-kit) | ⭐ 105 | `Python` | [harness engineering] Prompt-first starter kit for making repositories safer for AI coding agents. |
+| [**SuperagenticAI/pyflue**](https://github.com/SuperagenticAI/pyflue) | ⭐ 100 | `Python` | Python port of the Flue: The Agent Harness Framework |
 | [**Design-Arena/agent-runner**](https://github.com/Design-Arena/agent-runner) | ⭐ 100 | `Python` | Turn any model into an agent. Model-agnostic, framework agnostic agent harness. |
-| [**SuperagenticAI/pyflue**](https://github.com/SuperagenticAI/pyflue) | ⭐ 99 | `Python` | Python port of the Flue: The Agent Harness Framework |
 | [**shamspias/reins**](https://github.com/shamspias/reins) | ⭐ 90 | `Python` | A lightweight agent harness you bolt onto your app so an LLM can operate it — safely, and cheaply. |
 | [**fn-opt/dryforge**](https://github.com/fn-opt/dryforge) | ⭐ 89 | `Shell` | Dryforge : New generation of harness engineering - Claude Code & Codex Plugin. |
 | [**amazinglvxw/enso-os**](https://github.com/amazinglvxw/enso-os) | ⭐ 84 | `Shell` | The first AI plugin that speaks first. Code-enforced learning + active forgetting + PAC (Proactive Accountability Cha... |
@@ -191,15 +192,15 @@ This list curates the best open-source projects in the harness engineering ecosy
 | [**genai-io/san**](https://github.com/genai-io/san) | ⭐ 70 | `Go` | Fast, open agent harness for the terminal. One ~12 MB Go binary — bring any model and extensions into a single inspec... |
 | [**tranhieutt/software_development_department**](https://github.com/tranhieutt/software_development_department) | ⭐ 69 | `Shell` | Software Development Department |
 | [**SonicBotMan/SoloFlow**](https://github.com/SonicBotMan/SoloFlow) | ⭐ 69 | `JavaScript` | Complete ETCLOVG framework for AI Agent workflows - DAG+FSM orchestration, Ebbinghaus memory, discipline routing, ski... |
-| [**tim-osterhus/millrace**](https://github.com/tim-osterhus/millrace) | ⭐ 65 | `Python` | A configurable runtime for creating governed agentic loops to reliably enable autonomous execution of complex multi-s... |
+| [**tim-osterhus/millrace**](https://github.com/tim-osterhus/millrace) | ⭐ 66 | `Python` | A configurable runtime for creating governed agentic loops to reliably enable autonomous execution of complex multi-s... |
 | [**vitaliikapliuk/modelharness**](https://github.com/vitaliikapliuk/modelharness) | ⭐ 64 | `Python` | Make every model cheaper or better. Zero-config behavioral harness for Claude Code, with a reproducible 408-run bench... |
 | [**langgenius/mosoo-agent-driver**](https://github.com/langgenius/mosoo-agent-driver) | ⭐ 64 | `TypeScript` | Runtime-neutral driver for Claude Code, Codex, and ACP. Compatible with Claude Managed Agents (CMA) API. |
-| [**dianyike/claude-code-insights**](https://github.com/dianyike/claude-code-insights) | ⭐ 62 |  | 中文社群最完整的 Claude Code 進階指南 — 涵蓋 CLAUDE.md 架構設計、Skills 撰寫、Subagent 編排，附可直接使用的實戰範例。 |
+| [**dianyike/claude-code-insights**](https://github.com/dianyike/claude-code-insights) | ⭐ 63 |  | 中文社群最完整的 Claude Code 進階指南 — 涵蓋 CLAUDE.md 架構設計、Skills 撰寫、Subagent 編排，附可直接使用的實戰範例。 |
 | [**syrin-labs/syrin-python**](https://github.com/syrin-labs/syrin-python) | ⭐ 61 | `Python` | Developer-first Python framework for AI agents with built-in budget control, context, memory and observability. |
 | [**syrin-labs/syrin-harness**](https://github.com/syrin-labs/syrin-harness) | ⭐ 61 | `Python` | The Python Harness for Production AI Multi-Agent Systems |
-| [**appsoftwareltd/vscode-agent-kanban**](https://github.com/appsoftwareltd/vscode-agent-kanban) | ⭐ 59 | `TypeScript` | VS Code extension kanban board for agentic AI workflows |
+| [**holny/Agent-Harness-Develop-Book**](https://github.com/holny/Agent-Harness-Develop-Book) | ⭐ 60 |  | Agent Harness完整架构和核心模块开发指导手册 - 参考生产级Agent源码：Claude Code，OpenCode，OpenClaw和Hermess |
 | [**UniUni2000/SymHarix**](https://github.com/UniUni2000/SymHarix) | ⭐ 59 | `TypeScript` | Telegram-first control plane for supervised coding: plan requests, run agents, review evidence, and ship verified PRs. |
-| [**holny/Agent-Harness-Develop-Book**](https://github.com/holny/Agent-Harness-Develop-Book) | ⭐ 59 |  | Agent Harness完整架构和核心模块开发指导手册 - 参考生产级Agent源码：Claude Code，OpenCode，OpenClaw和Hermess |
+| [**appsoftwareltd/vscode-agent-kanban**](https://github.com/appsoftwareltd/vscode-agent-kanban) | ⭐ 58 | `TypeScript` | VS Code extension kanban board for agentic AI workflows |
 | [**xirui-li/ClawEnvKit**](https://github.com/xirui-li/ClawEnvKit) | ⭐ 58 | `Python` | Open-source Environment toolkit of claw-like agents, support task/harness generation and evaluation |
 | [**sergezuber/FABULA-LLM-5**](https://github.com/sergezuber/FABULA-LLM-5) | ⭐ 56 | `TypeScript` | Frontier models sell confidence. FABULA ships proof — an agent harness where any model is a swappable chip and every ... |
 | [**iLearn-Lab/EvoHarness**](https://github.com/iLearn-Lab/EvoHarness) | ⭐ 55 | `Python` | EvoHarness delivers terminal-native agent infrastructure: tools, commands, skills, agents, plugins, MCP, memory, appr... |
@@ -215,7 +216,7 @@ This list curates the best open-source projects in the harness engineering ecosy
 
 | Repository | Stars | Language | Description |
 |-----------|-------|----------|-------------|
-| [**harness/harness**](https://github.com/harness/harness) | ⭐ 37,379 | `Go` | Harness Open Source — end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer... |
+| [**harness/harness**](https://github.com/harness/harness) | ⭐ 37,398 | `Go` | Harness Open Source — end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer... |
 | [**harness/drone-cli**](https://github.com/harness/drone-cli) | ⭐ 434 | `Go` | Command Line Tools for Drone CI — continuous delivery and integration pipelines. |
 | [**cloudposse/build-harness**](https://github.com/cloudposse/build-harness) | ⭐ 368 | `Makefile` | Collection of Makefiles to facilitate building Golang projects, Dockerfiles, Helm charts, and more. |
 | [**harness/harness-cd-community**](https://github.com/harness/harness-cd-community) | ⭐ 211 | `Shell` | Harness CD Community Edition — modern self-service continuous delivery solution for Kubernetes and cloud-native apps. |
@@ -232,14 +233,14 @@ This list curates the best open-source projects in the harness engineering ecosy
 
 | Repository | Stars | Language | Description |
 |-----------|-------|----------|-------------|
-| [**EleutherAI/lm-evaluation-harness**](https://github.com/EleutherAI/lm-evaluation-harness) | ⭐ 13,333 | `Python` | A framework for few-shot evaluation of language models — the gold standard for LLM benchmarking. |
-| [**CyberStrikeus/CyberStrike**](https://github.com/CyberStrikeus/CyberStrike) | ⭐ 1,233 | `TypeScript` | Open-source AI-augmented offensive security harness. 13+ autonomous agents, 150+ LLM providers, 5,300+ models, 7,600+... |
-| [**stanford-iris-lab/meta-harness-tbench2-artifact**](https://github.com/stanford-iris-lab/meta-harness-tbench2-artifact) | ⭐ 1,146 | `Python` | Meta-Harness: 76.4% on Terminal-Bench 2.0 (Claude Opus 4.6) — state-of-the-art agent evaluation. |
+| [**EleutherAI/lm-evaluation-harness**](https://github.com/EleutherAI/lm-evaluation-harness) | ⭐ 13,338 | `Python` | A framework for few-shot evaluation of language models — the gold standard for LLM benchmarking. |
+| [**CyberStrikeus/CyberStrike**](https://github.com/CyberStrikeus/CyberStrike) | ⭐ 1,237 | `TypeScript` | Open-source AI-augmented offensive security harness. 13+ autonomous agents, 150+ LLM providers, 5,300+ models, 7,600+... |
+| [**stanford-iris-lab/meta-harness-tbench2-artifact**](https://github.com/stanford-iris-lab/meta-harness-tbench2-artifact) | ⭐ 1,147 | `Python` | Meta-Harness: 76.4% on Terminal-Bench 2.0 (Claude Opus 4.6) — state-of-the-art agent evaluation. |
 | [**bigcode-project/bigcode-evaluation-harness**](https://github.com/bigcode-project/bigcode-evaluation-harness) | ⭐ 1,052 | `Python` | Framework for the evaluation of autoregressive code generation language models. |
 | [**suyoumo/OpenClawProBench**](https://github.com/suyoumo/OpenClawProBench) | ⭐ 816 | `Python` | Live-first benchmark harness for evaluating LLM agents in the OpenClaw runtime with deterministic grading. |
 | [**suyoumo/ClawProBench**](https://github.com/suyoumo/ClawProBench) | ⭐ 816 | `Python` | ClawProBench is a live-first benchmark harness for evaluating LLM agents   in the OpenClaw runtime with deterministic... |
-| [**claw-eval/claw-eval**](https://github.com/claw-eval/claw-eval) | ⭐ 723 | `Python` | Claw-Eval is an evaluation harness for evaluating LLM as agents. All tasks verified by humans. |
-| [**allenai/vla-evaluation-harness**](https://github.com/allenai/vla-evaluation-harness) | ⭐ 453 | `Python` | One framework to evaluate any VLA model on any robot simulation benchmark. |
+| [**claw-eval/claw-eval**](https://github.com/claw-eval/claw-eval) | ⭐ 724 | `Python` | Claw-Eval is an evaluation harness for evaluating LLM as agents. All tasks verified by humans. |
+| [**allenai/vla-evaluation-harness**](https://github.com/allenai/vla-evaluation-harness) | ⭐ 454 | `Python` | One framework to evaluate any VLA model on any robot simulation benchmark. |
 | [**ZubinGou/math-evaluation-harness**](https://github.com/ZubinGou/math-evaluation-harness) | ⭐ 277 | `Python` | Simple toolkit for benchmarking LLMs on mathematical reasoning tasks. |
 | [**vvt004/speech-eval-arena**](https://github.com/vvt004/speech-eval-arena) | ⭐ 221 | `Python` | A small CLI harness for evaluating speech LLMs and ASR models on standard benchmarks (LibriSpeech, FLEURS, VoxPopuli). |
 | [**responsibleai/ASSERT**](https://github.com/responsibleai/ASSERT) | ⭐ 198 | `Python` | Requirement-driven evaluation harness for AI agents and LLM applications. Generate behavior-specific test cases, run ... |
@@ -268,24 +269,24 @@ This list curates the best open-source projects in the harness engineering ecosy
 
 | Repository | Stars | Language | Description |
 |-----------|-------|----------|-------------|
-| [**liyupi/ai-guide**](https://github.com/liyupi/ai-guide) | ⭐ 17,403 | `JavaScript` | 程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享 OpenClaw 保姆级教程、大模型玩法（DeepSeek / GPT / Gemini / Claude）、最新 AI 资讯、Prompt 提示词大全、AI... |
-| [**walkinglabs/learn-harness-engineering**](https://github.com/walkinglabs/learn-harness-engineering) | ⭐ 10,499 | `TypeScript` | Harness engineering official style beginner tutorial, from 0 to 1. |
-| [**deusyu/harness-engineering**](https://github.com/deusyu/harness-engineering) | ⭐ 4,782 |  | Harness Engineering learning guide — from conceptual understanding to independent practice. |
-| [**Chachamaru127/claude-code-harness**](https://github.com/Chachamaru127/claude-code-harness) | ⭐ 2,991 | `Shell` | Claude Code Dedicated Development Harness — Achieving High-Quality Development Through an Autonomous Plan-Work-Review... |
-| [**wquguru/harness-books**](https://github.com/wquguru/harness-books) | ⭐ 2,677 | `Python` | Harness engineering books and reference materials. |
-| [**ZhangHanDong/harness-engineering-from-cc-to-ai-coding**](https://github.com/ZhangHanDong/harness-engineering-from-cc-to-ai-coding) | ⭐ 1,456 | `HTML` | Harness Engineering: From Claude Code source code to AI Coding — deep-dive tutorial. |
-| [**revfactory/harness-100**](https://github.com/revfactory/harness-100) | ⭐ 1,162 |  | 100 harness engineering patterns and examples. |
-| [**china-qijizhifeng/agentic-harness-engineering**](https://github.com/china-qijizhifeng/agentic-harness-engineering) | ⭐ 750 | `Python` | Agentic Harness Engineering |
-| [**nexu-io/harness-engineering-guide**](https://github.com/nexu-io/harness-engineering-guide) | ⭐ 556 | `TypeScript` | 🔧 The open guide to Harness Engineering — concepts, tutorials, papers, tools, and resources for building and managing... |
-| [**keli-wen/agentic-harness-patterns-skill**](https://github.com/keli-wen/agentic-harness-patterns-skill) | ⭐ 293 |  | Agent skill for harness engineering — memory, permissions, context engineering, multi-agent coordination. |
-| [**lopopolo/harness-engineering**](https://github.com/lopopolo/harness-engineering) | ⭐ 250 | `Python` | 🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering |
+| [**liyupi/ai-guide**](https://github.com/liyupi/ai-guide) | ⭐ 17,424 | `JavaScript` | 程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享 OpenClaw 保姆级教程、大模型玩法（DeepSeek / GPT / Gemini / Claude）、最新 AI 资讯、Prompt 提示词大全、AI... |
+| [**walkinglabs/learn-harness-engineering**](https://github.com/walkinglabs/learn-harness-engineering) | ⭐ 10,527 | `TypeScript` | Harness engineering official style beginner tutorial, from 0 to 1. |
+| [**deusyu/harness-engineering**](https://github.com/deusyu/harness-engineering) | ⭐ 4,809 |  | Harness Engineering learning guide — from conceptual understanding to independent practice. |
+| [**Chachamaru127/claude-code-harness**](https://github.com/Chachamaru127/claude-code-harness) | ⭐ 2,998 | `Shell` | Claude Code Dedicated Development Harness — Achieving High-Quality Development Through an Autonomous Plan-Work-Review... |
+| [**wquguru/harness-books**](https://github.com/wquguru/harness-books) | ⭐ 2,681 | `Python` | Harness engineering books and reference materials. |
+| [**ZhangHanDong/harness-engineering-from-cc-to-ai-coding**](https://github.com/ZhangHanDong/harness-engineering-from-cc-to-ai-coding) | ⭐ 1,458 | `HTML` | Harness Engineering: From Claude Code source code to AI Coding — deep-dive tutorial. |
+| [**revfactory/harness-100**](https://github.com/revfactory/harness-100) | ⭐ 1,165 |  | 100 harness engineering patterns and examples. |
+| [**china-qijizhifeng/agentic-harness-engineering**](https://github.com/china-qijizhifeng/agentic-harness-engineering) | ⭐ 753 | `Python` | Agentic Harness Engineering |
+| [**lopopolo/harness-engineering**](https://github.com/lopopolo/harness-engineering) | ⭐ 606 | `Python` | 🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering |
+| [**nexu-io/harness-engineering-guide**](https://github.com/nexu-io/harness-engineering-guide) | ⭐ 559 | `TypeScript` | 🔧 The open guide to Harness Engineering — concepts, tutorials, papers, tools, and resources for building and managing... |
+| [**keli-wen/agentic-harness-patterns-skill**](https://github.com/keli-wen/agentic-harness-patterns-skill) | ⭐ 294 |  | Agent skill for harness engineering — memory, permissions, context engineering, multi-agent coordination. |
 | [**terrense/Tech_learning_Path_Harness_engineering**](https://github.com/terrense/Tech_learning_Path_Harness_engineering) | ⭐ 206 |  |  |
 | [**OdradekAI/harness-engineering-guide**](https://github.com/OdradekAI/harness-engineering-guide) | ⭐ 146 | `PowerShell` | Personal directory of skills covering agent-skills, ai-coding, claude-code, harness-engineering, and opencode. |
 | [**lazyFrogLOL/Harness_Engineering**](https://github.com/lazyFrogLOL/Harness_Engineering) | ⭐ 123 | `Python` | Harness Engineering agent tutorial — practical learning for agentic development. |
 | [**alchemiststudiosDOTai/harness-engineering**](https://github.com/alchemiststudiosDOTai/harness-engineering) | ⭐ 104 | `Shell` | Shortcuts, automation, hacks and overall productivity with code agents like claude code, codex, and other harness. |
 | [**10xChengTu/harness-engineering**](https://github.com/10xChengTu/harness-engineering) | ⭐ 94 |  | Set up and improve harness engineering (AGENTS.md, docs/, lint rules, eval systems, project-level prompt engineering)... |
 | [**kennethlaw325/awesome-llm-knowledge-systems**](https://github.com/kennethlaw325/awesome-llm-knowledge-systems) | ⭐ 89 | `HTML` | The Map Everyone's Missing: LLM Knowledge Engineering in 2026 — First unified guide connecting RAG, Context Engineeri... |
-| [**yeasy/harness_engineering_guide**](https://github.com/yeasy/harness_engineering_guide) | ⭐ 87 | `Python` | 智能体 = 大模型 + Harness。深入剖析 Harness 工程原理、设计、实现与实践！ |
+| [**yeasy/harness_engineering_guide**](https://github.com/yeasy/harness_engineering_guide) | ⭐ 89 | `Python` | 智能体 = 大模型 + Harness。深入剖析 Harness 工程原理、设计、实现与实践！ |
 | [**Horace-Maxwell/Harness_Engineering_Regression_Copilot**](https://github.com/Horace-Maxwell/Harness_Engineering_Regression_Copilot) | ⭐ 82 | `JavaScript` | Failure-first AI regression testing CLI for turning AI failures into local regression assets and PR gates. 把真实 AI 失败快... |
 | [**lipingtababa/harness-engineering-playbook**](https://github.com/lipingtababa/harness-engineering-playbook) | ⭐ 81 | `HTML` | Practical framework to ship quality software with AI agents in team environments. |
 | [**coleam00/harness-engineering-demo**](https://github.com/coleam00/harness-engineering-demo) | ⭐ 79 | `Python` |  |
@@ -299,13 +300,13 @@ This list curates the best open-source projects in the harness engineering ecosy
 | [**addxai/enterprise-harness-engineering**](https://github.com/addxai/enterprise-harness-engineering) | ⭐ 41 | `Python` | Enterprise-grade AI Agent Skills for software development, DevOps, SRE, security, and product teams. Compatible with ... |
 | [**rajshah4/harness-engineering**](https://github.com/rajshah4/harness-engineering) | ⭐ 37 | `HTML` | Presentations slides and materials along with resources/notebooks to deepen your understanding |
 | [**ly028716/harness-engineering-study**](https://github.com/ly028716/harness-engineering-study) | ⭐ 36 | `Python` | 一个系统学习和实践 Harness Engineering 的项目，从理论到实践，从简单到复杂。 |
-| [**ChaoYue0307/awesome-loop-engineering**](https://github.com/ChaoYue0307/awesome-loop-engineering) | ⭐ 32 | `Python` | Loop Engineering: a curated field guide to designing recurring AI agent and coding-agent loops — patterns, loop contr... |
+| [**ChaoYue0307/awesome-loop-engineering**](https://github.com/ChaoYue0307/awesome-loop-engineering) | ⭐ 34 | `Python` | Loop Engineering: a curated field guide to designing recurring AI agent and coding-agent loops — patterns, loop contr... |
+| [**stone16/harness-engineering-skills**](https://github.com/stone16/harness-engineering-skills) | ⭐ 30 | `Shell` | Run AI coding agents unattended for hours and ship PRs worth merging. Cybernetics-based multi-agent orchestration + c... |
 | [**Agents-Zone/harness-engineering-playbook**](https://github.com/Agents-Zone/harness-engineering-playbook) | ⭐ 29 | `HTML` | Harness Engineering Playbook |
-| [**stone16/harness-engineering-skills**](https://github.com/stone16/harness-engineering-skills) | ⭐ 29 | `Shell` | Run AI coding agents unattended for hours and ship PRs worth merging. Cybernetics-based multi-agent orchestration + c... |
 | [**broomva/harness-engineering**](https://github.com/broomva/harness-engineering) | ⭐ 26 | `Shell` | Harness Engineering playbook — deterministic smoke/test/lint harness commands, strict architecture boundaries, entrop... |
+| [**martinsson/harness-engineering-kata**](https://github.com/martinsson/harness-engineering-kata) | ⭐ 25 | `Java` | Practice basic harness engineering for agentic development |
 | [**Open-Harness-Engineering/ai-agents-oss-helper**](https://github.com/Open-Harness-Engineering/ai-agents-oss-helper) | ⭐ 24 | `Shell` |  |
 | [**nyang-police/harness-engineering-ko**](https://github.com/nyang-police/harness-engineering-ko) | ⭐ 24 | `JavaScript` | Korean translation of "Harness Engineering: From Claude Code Internals to AI Coding Best Practices" — Claude Code 소스 ... |
-| [**martinsson/harness-engineering-kata**](https://github.com/martinsson/harness-engineering-kata) | ⭐ 24 | `Java` | Practice basic harness engineering for agentic development |
 
 ---
 
@@ -315,33 +316,33 @@ This list curates the best open-source projects in the harness engineering ecosy
 
 | Repository | Stars | Language | Description |
 |-----------|-------|----------|-------------|
-| [**affaan-m/ECC**](https://github.com/affaan-m/ECC) | ⭐ 230,985 | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first developmen... |
-| [**zhayujie/CowAgent**](https://github.com/zhayujie/CowAgent) | ⭐ 46,041 | `Python` | Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, autonomously grows with memory an... |
-| [**wshobson/agents**](https://github.com/wshobson/agents) | ⭐ 38,034 | `Python` | Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, and Gemini CLI |
-| [**NevaMind-AI/memU**](https://github.com/NevaMind-AI/memU) | ⭐ 14,042 | `Python` | The memory harness for proactive AI agents — structured storage, intent capture, 10x token reduction. |
-| [**alibaba/open-code-review**](https://github.com/alibaba/open-code-review) | ⭐ 10,689 | `Go` | Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines ... |
-| [**gotalab/cc-sdd**](https://github.com/gotalab/cc-sdd) | ⭐ 3,574 | `TypeScript` | Turn approved specs into long-running autonomous implementation. A minimal, adaptable SDD harness with Agent Skills f... |
-| [**foryourhealth111-pixel/Vibe-Skills**](https://github.com/foryourhealth111-pixel/Vibe-Skills) | ⭐ 2,396 | `Python` | Vibe-Skills is an all-in-one AI skills package. It seamlessly integrates expert-level capabilities and context manage... |
-| [**zilliztech/memsearch**](https://github.com/zilliztech/memsearch) | ⭐ 2,254 | `Python` | Markdown-first memory system, standalone library for any AI agent — embeddings, hybrid search, long-term memory. |
-| [**codejunkie99/agentic-stack**](https://github.com/codejunkie99/agentic-stack) | ⭐ 2,187 | `Python` | One brain, many harnesses. Portable .agent/ folder (memory + skills + protocols) that plugs into Claude Code, Cursor,... |
-| [**DenisSergeevitch/agents-best-practices**](https://github.com/DenisSergeevitch/agents-best-practices) | ⭐ 2,132 |  | Provider-neutral Agent Skill for Codex, Claude Code, and agentic harness design. |
-| [**withkynam/vibecode-pro-max-kit**](https://github.com/withkynam/vibecode-pro-max-kit) | ⭐ 1,045 | `JavaScript` | RIPER-5, spec-driven, context memory self-improving agent harness for Claude Code & Codex — 12 specialist agents, 31 ... |
+| [**affaan-m/ECC**](https://github.com/affaan-m/ECC) | ⭐ 231,325 | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first developmen... |
+| [**zhayujie/CowAgent**](https://github.com/zhayujie/CowAgent) | ⭐ 46,049 | `Python` | Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, autonomously grows with memory an... |
+| [**wshobson/agents**](https://github.com/wshobson/agents) | ⭐ 38,069 | `Python` | Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, and Gemini CLI |
+| [**NevaMind-AI/memU**](https://github.com/NevaMind-AI/memU) | ⭐ 14,048 | `Python` | The memory harness for proactive AI agents — structured storage, intent capture, 10x token reduction. |
+| [**alibaba/open-code-review**](https://github.com/alibaba/open-code-review) | ⭐ 10,710 | `Go` | Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines ... |
+| [**gotalab/cc-sdd**](https://github.com/gotalab/cc-sdd) | ⭐ 3,576 | `TypeScript` | Turn approved specs into long-running autonomous implementation. A minimal, adaptable SDD harness with Agent Skills f... |
+| [**foryourhealth111-pixel/Vibe-Skills**](https://github.com/foryourhealth111-pixel/Vibe-Skills) | ⭐ 2,400 | `Python` | Vibe-Skills is an all-in-one AI skills package. It seamlessly integrates expert-level capabilities and context manage... |
+| [**zilliztech/memsearch**](https://github.com/zilliztech/memsearch) | ⭐ 2,258 | `Python` | Markdown-first memory system, standalone library for any AI agent — embeddings, hybrid search, long-term memory. |
+| [**codejunkie99/agentic-stack**](https://github.com/codejunkie99/agentic-stack) | ⭐ 2,191 | `Python` | One brain, many harnesses. Portable .agent/ folder (memory + skills + protocols) that plugs into Claude Code, Cursor,... |
+| [**DenisSergeevitch/agents-best-practices**](https://github.com/DenisSergeevitch/agents-best-practices) | ⭐ 2,134 |  | Provider-neutral Agent Skill for Codex, Claude Code, and agentic harness design. |
+| [**withkynam/vibecode-pro-max-kit**](https://github.com/withkynam/vibecode-pro-max-kit) | ⭐ 1,047 | `JavaScript` | RIPER-5, spec-driven, context memory self-improving agent harness for Claude Code & Codex — 12 specialist agents, 31 ... |
 | [**jabrena/cursor-rules-java**](https://github.com/jabrena/cursor-rules-java) | ⭐ 418 | `Java` | A curated and opinionated collection of Skills and Agents to be used in modern SDLC workflows for Java Enterprise dev... |
 | [**kimtth/awesome-azure-openai-llm**](https://github.com/kimtth/awesome-azure-openai-llm) | ⭐ 404 | `Python` | A curated collection of resources for 🌌 Azure OpenAI, 🦙 LLMs (+RAG, Agents). Monthly Updates. |
 | [**kimtth/azure-openai-llm-wiki**](https://github.com/kimtth/azure-openai-llm-wiki) | ⭐ 404 | `Python` | A curated collection of resources for 🌌 Azure OpenAI, 🦙 LLMs (+RAG, Agents). Monthly Updates. |
-| [**bybren-llc/safe-agentic-workflow**](https://github.com/bybren-llc/safe-agentic-workflow) | ⭐ 375 | `Shell` | SAW — SAFe Agentic Workflow AI Agent Harness for Multi-Agent Team Workflows. Built on SAFe methodology. |
+| [**bybren-llc/safe-agentic-workflow**](https://github.com/bybren-llc/safe-agentic-workflow) | ⭐ 376 | `Shell` | SAW — SAFe Agentic Workflow AI Agent Harness for Multi-Agent Team Workflows. Built on SAFe methodology. |
 | [**tobihagemann/turbo**](https://github.com/tobihagemann/turbo) | ⭐ 374 | `Python` | A composable dev process for agentic coding harnesses, packaged as modular skills. Turbo has sibling editions for Cla... |
-| [**mcpware/cross-code-organizer**](https://github.com/mcpware/cross-code-organizer) | ⭐ 357 | `JavaScript` | Cross-Code Organizer (formerly Claude Code Organizer): cross-harness config dashboard for Claude Code, Codex CLI, MCP... |
+| [**mcpware/cross-code-organizer**](https://github.com/mcpware/cross-code-organizer) | ⭐ 358 | `JavaScript` | Cross-Code Organizer (formerly Claude Code Organizer): cross-harness config dashboard for Claude Code, Codex CLI, MCP... |
 | [**aayoawoyemi/Ori-Mnemos**](https://github.com/aayoawoyemi/Ori-Mnemos) | ⭐ 314 | `TypeScript` | Local-first persistent agentic memory powered by Recursive Memory Harness (RMH). Open source must win. |
 | [**ThibautMelen/agentic-ai-systems**](https://github.com/ThibautMelen/agentic-ai-systems) | ⭐ 284 |  | 🐔 Agentic systems explained with chickens — the 2024 taxonomy + the 2026 canon (context engineering, skills, MCP, har... |
-| [**Signet-AI/signetai**](https://github.com/Signet-AI/signetai) | ⭐ 217 | `TypeScript` | Local-first identity, memory, and secrets for AI agents. Portable state across models and harnesses. |
+| [**Signet-AI/signetai**](https://github.com/Signet-AI/signetai) | ⭐ 218 | `TypeScript` | Local-first identity, memory, and secrets for AI agents. Portable state across models and harnesses. |
 | [**modelscope/ultron**](https://github.com/modelscope/ultron) | ⭐ 164 | `Python` | Ultron: Collective Intelligence System — Shared Memories, Skills, and Harnesses Across Every Agent |
 | [**kevin-hs-sohn/hipocampus**](https://github.com/kevin-hs-sohn/hipocampus) | ⭐ 160 | `JavaScript` | Drop-in memory harness for AI agents — 3-tier memory, compaction tree, hybrid search. One command to set up. Works wi... |
 | [**loulanyue/awesome-claude-notes**](https://github.com/loulanyue/awesome-claude-notes) | ⭐ 156 | `JavaScript` | Community-maintained distribution of reusable AI coding agents, commands, skills, hooks, and cross-harness workflows. |
 | [**belialberu4-oss/exo-harness-ai-pipeline**](https://github.com/belialberu4-oss/exo-harness-ai-pipeline) | ⭐ 151 | `HTML` | Claude Code AI Pipeline 2026 – PEV Framework Harness Plugin for Developers |
-| [**DerekYRC/mini-claude-code**](https://github.com/DerekYRC/mini-claude-code) | ⭐ 143 | `Java` | mini-claude-code: a simplified Java Claude Code agent distilling core Agent Harness mechanisms. Features: Agent Loop,... |
-| [**dmae97/oh-my-kimichan**](https://github.com/dmae97/oh-my-kimichan) | ⭐ 124 | `TypeScript` | Production-ready multi-agent orchestration harness for Kimi Code CLI (K2.6): worktree team runtime, DAG/ensemble plan... |
-| [**dmae97/oh-my-kimi**](https://github.com/dmae97/oh-my-kimi) | ⭐ 124 | `TypeScript` | Production-ready multi-agent orchestration harness for Kimi Code CLI (K2.6): worktree team runtime, DAG/ensemble plan... |
+| [**DerekYRC/mini-claude-code**](https://github.com/DerekYRC/mini-claude-code) | ⭐ 149 | `Java` | mini-claude-code: a simplified Java Claude Code agent distilling core Agent Harness mechanisms. Features: Agent Loop,... |
+| [**dmae97/oh-my-kimichan**](https://github.com/dmae97/oh-my-kimichan) | ⭐ 125 | `TypeScript` | Production-ready multi-agent orchestration harness for Kimi Code CLI (K2.6): worktree team runtime, DAG/ensemble plan... |
+| [**dmae97/oh-my-kimi**](https://github.com/dmae97/oh-my-kimi) | ⭐ 125 | `TypeScript` | Production-ready multi-agent orchestration harness for Kimi Code CLI (K2.6): worktree team runtime, DAG/ensemble plan... |
 | [**zilliztech/mfs**](https://github.com/zilliztech/mfs) | ⭐ 108 | `Python` | A context harness for AI agents: all your scattered context — code, memory, docs, databases, SaaS — in one searchable... |
 | [**friday-platform/friday-studio**](https://github.com/friday-platform/friday-studio) | ⭐ 98 | `TypeScript` | 🤖 AI agent harness — shareable workspaces, MCP tools, skills, memory, and cron/webhook automations. Self-hosted and t... |
 | [**EliasOenal/term-cli**](https://github.com/EliasOenal/term-cli) | ⭐ 94 | `Python` | Interactive terminals for AI agents, built for what you can't --yes away. SSH+MFA, GRUB/U-Boot, debconf installers, S... |
@@ -349,23 +350,25 @@ This list curates the best open-source projects in the harness engineering ecosy
 | [**JasonxzWen/harness-hub**](https://github.com/JasonxzWen/harness-hub) | ⭐ 84 | `TypeScript` | Release-oriented agent skill hub and CLI for analyzing repos, installing high-signal Codex/Claude Code/OpenCode skill... |
 | [**mturac/everything-openai-codex**](https://github.com/mturac/everything-openai-codex) | ⭐ 83 | `JavaScript` | EOC: open-source operating system for OpenAI Codex workflows with agents, skills, hooks, rules, memory, safety gates,... |
 | [**alejandroqh/browser39**](https://github.com/alejandroqh/browser39) | ⭐ 80 | `Rust` | A headless browser for AI agents that fetches modern web pages, runs JavaScript, manages sessions, and returns token-... |
+| [**alexgreensh/outsourcerer**](https://github.com/alexgreensh/outsourcerer) | ⭐ 75 | `Shell` | Make the most out of your subscriptions. Delegate work to other harnesses and models, while keeping your main session... |
+| [**serradura/okf-gem**](https://github.com/serradura/okf-gem) | ⭐ 72 | `Ruby` | okf-gem: The complete OKF harness (skills + CLI + server) |
 | [**001TMF/harness-forge**](https://github.com/001TMF/harness-forge) | ⭐ 70 | `Python` | Turn Claude Code into its own Meta-Harness — a skill that evolves the scaffolding around a fixed model (memory, retri... |
-| [**alexgreensh/outsourcerer**](https://github.com/alexgreensh/outsourcerer) | ⭐ 70 | `Shell` | Make the most out of your subscriptions. Delegate work to other harnesses and models, while keeping your main session... |
-| [**serradura/okf-gem**](https://github.com/serradura/okf-gem) | ⭐ 68 | `Ruby` | okf-gem: The complete OKF harness (skills + CLI + server) |
 | [**postmelee/hyper-waterfall**](https://github.com/postmelee/hyper-waterfall) | ⭐ 66 | `JavaScript` | A traceable, approval-driven methodology harness for AI pair programming. |
 | [**harness/harness-skills**](https://github.com/harness/harness-skills) | ⭐ 66 | `Shell` | A collection of structured AI agent skills that   enable Claude Code, Cursor, GitHub Copilot, and   other AI coding a... |
-| [**escoffier-labs/brigade**](https://github.com/escoffier-labs/brigade) | ⭐ 60 | `Python` | Your agents run loops. Brigade keeps the receipts. Local control plane: share MCP, tools, and memory across harnesses... |
+| [**escoffier-labs/brigade**](https://github.com/escoffier-labs/brigade) | ⭐ 61 | `Python` | Your agents run loops. Brigade keeps the receipts. Local control plane: share MCP, tools, and memory across harnesses... |
 | [**adewale/skill-eval-harness**](https://github.com/adewale/skill-eval-harness) | ⭐ 58 | `Python` | Agent Skill evaluation harness for paired variants, trace artifacts, and runner adapters |
 | [**mvschwarz/openrig**](https://github.com/mvschwarz/openrig) | ⭐ 56 | `TypeScript` | Multi-agent harness that runs Claude Code and  Codex together as one system |
 | [**synthnoosh/agentic-harness-bootstrap**](https://github.com/synthnoosh/agentic-harness-bootstrap) | ⭐ 55 | `Go Template` | Boundaries, structure, and feedback loops — from a single repo scan. Agentic harness bootstrap. |
 | [**netil/oh-my-hi**](https://github.com/netil/oh-my-hi) | ⭐ 52 | `JavaScript` | 👋 Claude Code harness insights dashboard — visual catalog and token analytics for skills, agents, plugins, hooks, mem... |
+| [**tigerless-labs/design-harness**](https://github.com/tigerless-labs/design-harness) | ⭐ 51 | `Python` | Feed your agent papers and half-formed ideas — it links them into a system design you can defend. Markdown keeps the ... |
 | [**marconae/speq-skill**](https://github.com/marconae/speq-skill) | ⭐ 48 | `Rust` | A light-weight and straightforward system for spec-driven development with Claude Code |
-| [**tigerless-labs/design-harness**](https://github.com/tigerless-labs/design-harness) | ⭐ 43 | `Python` | Feed your agent papers and half-formed ideas — it links them into a system design you can defend. Markdown keeps the ... |
 | [**parallax-labs/context-harness**](https://github.com/parallax-labs/context-harness) | ⭐ 42 | `Rust` | Local-first context ingestion and retrieval for AI tools. SQLite + embeddings + MCP server for Cursor & Claude. |
 | [**anycap-ai/anycap**](https://github.com/anycap-ai/anycap) | ⭐ 39 | `Shell` | The capability harness for AI agents. Skills over SDKs. |
 | [**marikagura/kimi-core**](https://github.com/marikagura/kimi-core) | ⭐ 39 | `TypeScript` | 个人用的 agent memory OS——记忆系统 + self-drive 自主情感，内置对抗式自审 harness。内在过程需要外在标准。 |
 | [**whut09/paper_agent**](https://github.com/whut09/paper_agent) | ⭐ 34 | `Python` | 论文解析 Agent 系统（Agent Harness + Loop Engineering），实现结构化抽取与闭环验证优化。 |
+| [**iflytek/memflywheel**](https://github.com/iflytek/memflywheel) | ⭐ 32 | `TypeScript` | Agent-native long-term memory that learns after every run. File-native, auditable, and integrated with Pi, Hermes, Op... |
 | [**d0gesec/pownie**](https://github.com/d0gesec/pownie) | ⭐ 24 | `Shell` | The agent harness for offsec. It's a plugin for Claude Code packed with skills, hooks, memory system that works best ... |
+| [**AbyssCN/oh-my-dag**](https://github.com/AbyssCN/oh-my-dag) | ⭐ 22 | `TypeScript` | oh-my-dag — the full harness around the model, on the pi coding-agent runtime. DAG execution engine (typed nodes, con... |
 | [**haasonsaas/agent-harness**](https://github.com/haasonsaas/agent-harness) | ⭐ 19 | `Python` | Unified harness for hot-swapping between OpenAI Agents SDK and Anthropic Claude Agent SDK with shared tool registry. |
 
 ---
@@ -383,7 +386,7 @@ This list curates the best open-source projects in the harness engineering ecosy
 | [**quasarframework/quasar-testing**](https://github.com/quasarframework/quasar-testing) | ⭐ 185 | `TypeScript` | Testing Harness App Extensions for the Quasar Framework 2.0+ |
 | [**JoeyHendricks/python-benchmark-harness**](https://github.com/JoeyHendricks/python-benchmark-harness) | ⭐ 158 | `Python` | Micro/macro benchmark framework for Python that helps with optimizing your software. |
 | [**LukasKalbertodt/libtest-mimic**](https://github.com/LukasKalbertodt/libtest-mimic) | ⭐ 143 | `Rust` | Small test framework to write your own test harness that looks like the built-in test harness used by rustc --test. |
-| [**jenkinsci/acceptance-test-harness**](https://github.com/jenkinsci/acceptance-test-harness) | ⭐ 130 | `Java` | Acceptance tests cases for Jenkins and its plugins based on Selenium and Docker. |
+| [**jenkinsci/acceptance-test-harness**](https://github.com/jenkinsci/acceptance-test-harness) | ⭐ 131 | `Java` | Acceptance tests cases for Jenkins and its plugins based on Selenium and Docker. |
 | [**jenkinsci/jenkins-test-harness**](https://github.com/jenkinsci/jenkins-test-harness) | ⭐ 116 | `Java` | Unit test framework for Jenkins core and its plugins. |
 | [**commaai/harness_tester_challenge**](https://github.com/commaai/harness_tester_challenge) | ⭐ 116 | `C++` | Simple harness testing PCB and firmware — can you figure out everything wrong with it? |
 | [**CiscoTestAutomation/genielibs**](https://github.com/CiscoTestAutomation/genielibs) | ⭐ 113 | `Python` | Libraries for configuring, retrieving and testing network topologies — Cisco pyATS/Genie harness. |
@@ -393,7 +396,7 @@ This list curates the best open-source projects in the harness engineering ecosy
 | [**matter-labs/era-zkevm_test_harness**](https://github.com/matter-labs/era-zkevm_test_harness) | ⭐ 60 | `Rust` | Compare in-circuit and out-of-circuit VMs |
 | [**vertexclique/kaos**](https://github.com/vertexclique/kaos) | ⭐ 59 | `Rust` | Chaotic Testing Harness for Rust — chaos engineering and resilience testing. |
 | [**dokester/BayesicFitting**](https://github.com/dokester/BayesicFitting) | ⭐ 55 | `Python` | Bayesian fitting package |
-| [**strands-labs/benchmark-harnesses**](https://github.com/strands-labs/benchmark-harnesses) | ⭐ 38 | `Python` | Strands-based agents and harnesses for agentic benchmarks. |
+| [**strands-labs/benchmark-harnesses**](https://github.com/strands-labs/benchmark-harnesses) | ⭐ 39 | `Python` | Strands-based agents and harnesses for agentic benchmarks. |
 | [**vectordotdev/vector-test-harness**](https://github.com/vectordotdev/vector-test-harness) | ⭐ 33 | `HCL` | End-to-end test harness for the Vector observability data router. |
 | [**cloudposse/test-harness**](https://github.com/cloudposse/test-harness) | ⭐ 31 | `Shell` | Collection of Makefiles and test scripts to facilitate testing Terraform modules, Kubernetes resources, and Helm charts. |
 
@@ -406,7 +409,7 @@ This list curates the best open-source projects in the harness engineering ecosy
 | Repository | Stars | Language | Description |
 |-----------|-------|----------|-------------|
 | [**bgdnvk/clanker**](https://github.com/bgdnvk/clanker) | ⭐ 374 | `Go` | Autonomous systems engineering CLI agent for any cloud environment: AWS, GCP, Cloudflare, with harness engineering pr... |
-| [**clawshell/clawshell**](https://github.com/clawshell/clawshell) | ⭐ 313 | `Rust` | Runtime Security Layer for OpenClaw — essential safety harness for PII & sensitive credentials protection. |
+| [**clawshell/clawshell**](https://github.com/clawshell/clawshell) | ⭐ 314 | `Rust` | Runtime Security Layer for OpenClaw — essential safety harness for PII & sensitive credentials protection. |
 | [**redcanaryco/AtomicTestHarnesses**](https://github.com/redcanaryco/AtomicTestHarnesses) | ⭐ 289 | `PowerShell` | Public Repo for Atomic Test Harnesses — automated security test harnesses. |
 | [**Rich5/Harness**](https://github.com/Rich5/Harness) | ⭐ 78 | `Python` | Interactive remote PowerShell Payload — penetration testing harness. |
 | [**Microsvuln/Awesome-Libfuzzer-Harness**](https://github.com/Microsvuln/Awesome-Libfuzzer-Harness) | ⭐ 75 | `C++` | Awesome list for effective and powerful harnesses for fuzzing using libfuzzer — fuzzers by Google. |
@@ -422,15 +425,15 @@ This list curates the best open-source projects in the harness engineering ecosy
 
 | Repository | Stars | Language | Description |
 |-----------|-------|----------|-------------|
-| [**walkinglabs/awesome-harness-engineering**](https://github.com/walkinglabs/awesome-harness-engineering) | ⭐ 3,642 |  | Awesome tools & guides for harness engineering. |
-| [**ai-boost/awesome-harness-engineering**](https://github.com/ai-boost/awesome-harness-engineering) | ⭐ 3,128 | `Python` | Awesome harness engineering resources and tools. |
-| [**Picrew/awesome-agent-harness**](https://github.com/Picrew/awesome-agent-harness) | ⭐ 1,476 | `Python` | Awesome list of Agent Harness engineering resources, including GitHub projects, tools, benchmarks, and practical guides. |
-| [**YennNing/Awesome-Code-as-Agent-Harness-Papers**](https://github.com/YennNing/Awesome-Code-as-Agent-Harness-Papers) | ⭐ 561 |  |  |
-| [**AutoJunjie/awesome-agent-harness**](https://github.com/AutoJunjie/awesome-agent-harness) | ⭐ 489 |  | Awesome list of agent harness, agent orchestration, agentic-coding, and multi-agent developer tools. |
-| [**mahonzhan/awesome-agent-harness**](https://github.com/mahonzhan/awesome-agent-harness) | ⭐ 216 |  | A curated awesome list of agent harnesses, agent frameworks, workflow frameworks, and emerging agent protocols. |
+| [**walkinglabs/awesome-harness-engineering**](https://github.com/walkinglabs/awesome-harness-engineering) | ⭐ 3,651 |  | Awesome tools & guides for harness engineering. |
+| [**ai-boost/awesome-harness-engineering**](https://github.com/ai-boost/awesome-harness-engineering) | ⭐ 3,148 | `Python` | Awesome harness engineering resources and tools. |
+| [**Picrew/awesome-agent-harness**](https://github.com/Picrew/awesome-agent-harness) | ⭐ 1,478 | `Python` | Awesome list of Agent Harness engineering resources, including GitHub projects, tools, benchmarks, and practical guides. |
+| [**YennNing/Awesome-Code-as-Agent-Harness-Papers**](https://github.com/YennNing/Awesome-Code-as-Agent-Harness-Papers) | ⭐ 589 |  |  |
+| [**AutoJunjie/awesome-agent-harness**](https://github.com/AutoJunjie/awesome-agent-harness) | ⭐ 490 |  | Awesome list of agent harness, agent orchestration, agentic-coding, and multi-agent developer tools. |
+| [**mahonzhan/awesome-agent-harness**](https://github.com/mahonzhan/awesome-agent-harness) | ⭐ 218 |  | A curated awesome list of agent harnesses, agent frameworks, workflow frameworks, and emerging agent protocols. |
 | [**RUCAIBox/awesome-agent-harness**](https://github.com/RUCAIBox/awesome-agent-harness) | ⭐ 150 |  | The official GitHub page for the survey paper "Agent Systems with Harness Engineering: A Systematic Survey". |
 | [**WanLanglin/-awesome-cc-harness**](https://github.com/WanLanglin/-awesome-cc-harness) | ⭐ 79 | `Python` |  |
-| [**HKUST-KnowComp/Awesome-Agent-Harness**](https://github.com/HKUST-KnowComp/Awesome-Agent-Harness) | ⭐ 57 |  |  |
+| [**HKUST-KnowComp/Awesome-Agent-Harness**](https://github.com/HKUST-KnowComp/Awesome-Agent-Harness) | ⭐ 58 |  |  |
 | [**jiji262/awesome-harness-engineering**](https://github.com/jiji262/awesome-harness-engineering) | ⭐ 47 |  | Awesome lists of Harness Engineering and AI Native Engineering resources. |
 | [**Jiaaqiliu/Awesome-Harness-Engineering**](https://github.com/Jiaaqiliu/Awesome-Harness-Engineering) | ⭐ 26 |  | A collection of resources for harness engineering — shaping the environment around AI agents for reliability in produ... |
 | [**whobot-ai/awesome-harness-engineering-zh**](https://github.com/whobot-ai/awesome-harness-engineering-zh) | ⭐ 19 |  | 🏇 驾驭工程中文指南 — Harness Engineering 权威资源合集：概念解析、官方文章翻译、名人观点、开源工具、最佳实践 \| The definitive Chinese guide to Harness Enginee... |
@@ -443,47 +446,47 @@ This list curates the best open-source projects in the harness engineering ecosy
 
 | Repository | Stars | Language | Description |
 |-----------|-------|----------|-------------|
-| [**Hmbown/CodeWhale**](https://github.com/Hmbown/CodeWhale) | ⭐ 39,921 | `Rust` | Open-source, community-driven agent harness |
-| [**langchain-ai/deepagents**](https://github.com/langchain-ai/deepagents) | ⭐ 26,449 | `Python` | Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the abilit... |
-| [**xai-org/grok-build**](https://github.com/xai-org/grok-build) | ⭐ 19,236 | `Rust` | SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible. |
-| [**browser-use/browser-harness**](https://github.com/browser-use/browser-harness) | ⭐ 16,091 | `Python` | Browser Harness \| Self-healing harness that enables LLMs to complete any task. |
-| [**1jehuang/jcode**](https://github.com/1jehuang/jcode) | ⭐ 8,581 | `Rust` | Coding Agent Harness |
-| [**strands-agents/harness-sdk**](https://github.com/strands-agents/harness-sdk) | ⭐ 6,635 | `Python` | A model-driven approach to building AI agents in just a few lines of code. |
-| [**anthropics/defending-code-reference-harness**](https://github.com/anthropics/defending-code-reference-harness) | ⭐ 6,575 | `Python` | Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize |
-| [**lintsinghua/claude-code-book**](https://github.com/lintsinghua/claude-code-book) | ⭐ 3,959 |  | 《御舆：解码 Agent Harness》42万字拆解 AI Agent 的Harness骨架与神经 —— Claude Code 架构深度剖析，15 章从对话循环到构建你自己的 Agent Harness。在线阅读网站： |
-| [**dagucloud/dagu**](https://github.com/dagucloud/dagu) | ⭐ 3,645 | `Go` | Lightweight workflow engine built in a single binary with Web UI. It runs any job, scripts, containers, k8s jobs, SSH... |
-| [**code-yeongyu/lazycodex**](https://github.com/code-yeongyu/lazycodex) | ⭐ 2,849 | `TypeScript` | The one and only agent harness for complex codebases. Project memory, planning, execution, and verified completion in... |
-| [**EverMind-AI/Raven**](https://github.com/EverMind-AI/Raven) | ⭐ 2,368 | `Python` | The memory-first self-improving agent harness built on EverOS. |
-| [**peteromallet/dataclaw**](https://github.com/peteromallet/dataclaw) | ⭐ 2,107 | `Python` | Agent harness to publish your history from Claude Code et al. as Huggingface datasets.  |
-| [**Infisical/agent-vault**](https://github.com/Infisical/agent-vault) | ⭐ 1,910 | `Go` | A HTTP credential proxy and vault for AI agents like Claude Code, OpenClaw, Hermes, custom agents + harnesses, and more. |
-| [**google-antigravity/antigravity-cli**](https://github.com/google-antigravity/antigravity-cli) | ⭐ 1,637 |  | Antigravity CLI brings the reasoning, execution, and orchestration capabilities of Antigravity agent harness directly... |
-| [**langchain-ai/deepagentsjs**](https://github.com/langchain-ai/deepagentsjs) | ⭐ 1,416 | `TypeScript` | Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the abilit... |
-| [**Chorus-AIDLC/Chorus**](https://github.com/Chorus-AIDLC/Chorus) | ⭐ 1,088 | `TypeScript` | The Agent Harness for AI-Human Collaboration, inspired by the AI-DLC. |
-| [**hoangnb24/harness-experimental**](https://github.com/hoangnb24/harness-experimental) | ⭐ 1,086 | `Shell` |  |
-| [**rasbt/mini-coding-agent**](https://github.com/rasbt/mini-coding-agent) | ⭐ 1,022 | `Python` | Minimal and readable coding agent harness implementation in Python to explain the core components of coding agents. |
-| [**yb2460/harness-anything**](https://github.com/yb2460/harness-anything) | ⭐ 1,003 | `Python` | CLI harness for WPS Office -- let AI agents control Writer, Calc & Impress via COM automation |
-| [**pat-jj/harness-1**](https://github.com/pat-jj/harness-1) | ⭐ 874 | `Python` | 🚀 Ultra Recipe for Training Long-Horizon Search Agents - matching frontier AI's search capability with a 20B model |
+| [**Hmbown/CodeWhale**](https://github.com/Hmbown/CodeWhale) | ⭐ 39,944 | `Rust` | Open-source, community-driven agent harness |
+| [**langchain-ai/deepagents**](https://github.com/langchain-ai/deepagents) | ⭐ 26,536 | `Python` | Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the abilit... |
+| [**xai-org/grok-build**](https://github.com/xai-org/grok-build) | ⭐ 20,320 | `Rust` | SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible. |
+| [**browser-use/browser-harness**](https://github.com/browser-use/browser-harness) | ⭐ 16,121 | `Python` | Browser Harness \| Self-healing harness that enables LLMs to complete any task. |
+| [**1jehuang/jcode**](https://github.com/1jehuang/jcode) | ⭐ 9,052 | `Rust` | Coding Agent Harness |
+| [**strands-agents/harness-sdk**](https://github.com/strands-agents/harness-sdk) | ⭐ 6,647 | `Python` | A model-driven approach to building AI agents in just a few lines of code. |
+| [**anthropics/defending-code-reference-harness**](https://github.com/anthropics/defending-code-reference-harness) | ⭐ 6,620 | `Python` | Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize |
+| [**lintsinghua/claude-code-book**](https://github.com/lintsinghua/claude-code-book) | ⭐ 3,966 |  | 《御舆：解码 Agent Harness》42万字拆解 AI Agent 的Harness骨架与神经 —— Claude Code 架构深度剖析，15 章从对话循环到构建你自己的 Agent Harness。在线阅读网站： |
+| [**dagucloud/dagu**](https://github.com/dagucloud/dagu) | ⭐ 3,648 | `Go` | Lightweight workflow engine built in a single binary with Web UI. It runs any job, scripts, containers, k8s jobs, SSH... |
+| [**code-yeongyu/lazycodex**](https://github.com/code-yeongyu/lazycodex) | ⭐ 2,869 | `TypeScript` | The one and only agent harness for complex codebases. Project memory, planning, execution, and verified completion in... |
+| [**EverMind-AI/Raven**](https://github.com/EverMind-AI/Raven) | ⭐ 2,377 | `Python` | The memory-first self-improving agent harness built on EverOS. |
+| [**peteromallet/dataclaw**](https://github.com/peteromallet/dataclaw) | ⭐ 2,108 | `Python` | Agent harness to publish your history from Claude Code et al. as Huggingface datasets.  |
+| [**Infisical/agent-vault**](https://github.com/Infisical/agent-vault) | ⭐ 1,915 | `Go` | A HTTP credential proxy and vault for AI agents like Claude Code, OpenClaw, Hermes, custom agents + harnesses, and more. |
+| [**google-antigravity/antigravity-cli**](https://github.com/google-antigravity/antigravity-cli) | ⭐ 1,649 |  | Antigravity CLI brings the reasoning, execution, and orchestration capabilities of Antigravity agent harness directly... |
+| [**langchain-ai/deepagentsjs**](https://github.com/langchain-ai/deepagentsjs) | ⭐ 1,420 | `TypeScript` | Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the abilit... |
+| [**Chorus-AIDLC/Chorus**](https://github.com/Chorus-AIDLC/Chorus) | ⭐ 1,090 | `TypeScript` | The Agent Harness for AI-Human Collaboration, inspired by the AI-DLC. |
+| [**hoangnb24/harness-experimental**](https://github.com/hoangnb24/harness-experimental) | ⭐ 1,088 | `Shell` |  |
+| [**yb2460/harness-anything**](https://github.com/yb2460/harness-anything) | ⭐ 1,028 | `Python` | CLI harness for WPS Office -- let AI agents control Writer, Calc & Impress via COM automation |
+| [**rasbt/mini-coding-agent**](https://github.com/rasbt/mini-coding-agent) | ⭐ 1,025 | `Python` | Minimal and readable coding agent harness implementation in Python to explain the core components of coding agents. |
+| [**pat-jj/harness-1**](https://github.com/pat-jj/harness-1) | ⭐ 877 | `Python` | 🚀 Ultra Recipe for Training Long-Horizon Search Agents - matching frontier AI's search capability with a 20B model |
 | [**cuga-project/cuga-agent**](https://github.com/cuga-project/cuga-agent) | ⭐ 862 | `Python` | CUGA is an open-source generalist agent harness for the enterprise, supporting complex task execution on web and APIs... |
-| [**SafeRL-Lab/cheetahclaws**](https://github.com/SafeRL-Lab/cheetahclaws) | ⭐ 759 | `Python` | CheetahClaws: A Fast and Easy-to-Use Agent Harness Infrastructure for Long-Horizon, Multi-Model, and Tool-Using AI Sy... |
-| [**WakeUp-Jin/Practical-Guide-to-Context-Engineering**](https://github.com/WakeUp-Jin/Practical-Guide-to-Context-Engineering) | ⭐ 738 |  | 大模型应用开发的方向，上下文工程是设计原则，Agent Harness 是构建目标，本项目的目标，是为开发者和研究者提供一份大模型应用开发的骨架思路 |
-| [**visa/visa-vulnerability-agentic-harness**](https://github.com/visa/visa-vulnerability-agentic-harness) | ⭐ 724 | `Python` | Visa Vulnerability Agentic Harness |
+| [**SafeRL-Lab/cheetahclaws**](https://github.com/SafeRL-Lab/cheetahclaws) | ⭐ 760 | `Python` | CheetahClaws: A Fast and Easy-to-Use Agent Harness Infrastructure for Long-Horizon, Multi-Model, and Tool-Using AI Sy... |
+| [**WakeUp-Jin/Practical-Guide-to-Context-Engineering**](https://github.com/WakeUp-Jin/Practical-Guide-to-Context-Engineering) | ⭐ 739 |  | 大模型应用开发的方向，上下文工程是设计原则，Agent Harness 是构建目标，本项目的目标，是为开发者和研究者提供一份大模型应用开发的骨架思路 |
+| [**visa/visa-vulnerability-agentic-harness**](https://github.com/visa/visa-vulnerability-agentic-harness) | ⭐ 728 | `Python` | Visa Vulnerability Agentic Harness |
 | [**pydantic/pydantic-ai-harness**](https://github.com/pydantic/pydantic-ai-harness) | ⭐ 674 | `Python` | Batteries for your Pydantic AI agent. |
 | [**truffle-ai/dexto**](https://github.com/truffle-ai/dexto) | ⭐ 639 | `TypeScript` | A coding agent and general agent harness for building and orchestrating agentic applications. |
-| [**coolclaws/deerflow-book**](https://github.com/coolclaws/deerflow-book) | ⭐ 638 | `TypeScript` | DeerFlow 源码解析 - ByteDance 开源 Super Agent Harness 深度解析 |
+| [**coolclaws/deerflow-book**](https://github.com/coolclaws/deerflow-book) | ⭐ 639 | `TypeScript` | DeerFlow 源码解析 - ByteDance 开源 Super Agent Harness 深度解析 |
+| [**velobase/velobase-harness**](https://github.com/velobase/velobase-harness) | ⭐ 580 | `TypeScript` | An open-source framework that takes your AI app from code to cash. |
 | [**RickyTong1/audit-harness**](https://github.com/RickyTong1/audit-harness) | ⭐ 577 | `Shell` | Three-layer audit enforcement framework for AI agents — hooks, skills, context recovery, and audit-driven daily reports |
-| [**velobase/velobase-harness**](https://github.com/velobase/velobase-harness) | ⭐ 576 | `TypeScript` | An open-source framework that takes your AI app from code to cash. |
-| [**AntigmaLabs/ante-preview**](https://github.com/AntigmaLabs/ante-preview) | ⭐ 573 | `MDX` | Ghost in your shell. Ante is a self-contained agent harness with a highly optimized core. It works like Claude Code o... |
+| [**AntigmaLabs/ante-preview**](https://github.com/AntigmaLabs/ante-preview) | ⭐ 574 | `MDX` | Ghost in your shell. Ante is a self-contained agent harness with a highly optimized core. It works like Claude Code o... |
 | [**Shudesu/line-harness-oss**](https://github.com/Shudesu/line-harness-oss) | ⭐ 536 | `TypeScript` | Open-source LINE Official Account CRM — free alternative to paid tools with automation and scoring. |
 | [**neosigmaai/auto-harness**](https://github.com/neosigmaai/auto-harness) | ⭐ 525 | `Python` | Bring your own agent and build a self-improving agentic system. Automatically mine failures, optimize the agent harne... |
 | [**HangYu8123/HarnessFlow**](https://github.com/HangYu8123/HarnessFlow) | ⭐ 523 | `Shell` | Harness coding workflow for codex, claude, github copilot |
 | [**aristoteleo/PantheonOS**](https://github.com/aristoteleo/PantheonOS) | ⭐ 473 | `Python` | Evolvable, distributed agent framework & harness for data science — bioinformatics and spatial transcriptomics. |
 | [**browser-use/browser-harness-js**](https://github.com/browser-use/browser-harness-js) | ⭐ 473 | `TypeScript` | Self-healing browser harness that enables LLMs to complete any task |
 | [**neiii/bridle**](https://github.com/neiii/bridle) | ⭐ 434 | `Rust` | TUI / CLI config manager for agentic harnesses (Amp, Claude Code, Opencode, Goose, Copilot CLI, Crush, Droid) |
-| [**Ancienttwo/repo-harness**](https://github.com/Ancienttwo/repo-harness) | ⭐ 393 | `TypeScript` | Your Auto Coding Co-pilot |
-| [**appautomaton/latex-arxiv-SKILL**](https://github.com/appautomaton/latex-arxiv-SKILL) | ⭐ 387 | `TeX` | A highly customizable agentic harness for arXiv-ready ML/AI review papers (and beyond). It drives agentic AI like Cod... |
-| [**NotASithLord/peerd**](https://github.com/NotASithLord/peerd) | ⭐ 364 | `JavaScript` | The first AI agent harness native to the browser. A Chrome/Firefox extension that runs the agent loop in your browser... |
-| [**ApodexAI/AgentHarness**](https://github.com/ApodexAI/AgentHarness) | ⭐ 361 | `Python` | Evaluation harness for Apodex-1.0 on public deep-research benchmarks. |
-| [**RealZST/HarnessKit**](https://github.com/RealZST/HarnessKit) | ⭐ 359 | `Rust` | More than a skill manager — manage skills, MCP servers, plugins, hooks, CLIs, configs, memory & rules across every AI... |
+| [**Ancienttwo/repo-harness**](https://github.com/Ancienttwo/repo-harness) | ⭐ 394 | `TypeScript` | Your Auto Coding Co-pilot |
+| [**appautomaton/latex-arxiv-SKILL**](https://github.com/appautomaton/latex-arxiv-SKILL) | ⭐ 388 | `TeX` | A highly customizable agentic harness for arXiv-ready ML/AI review papers (and beyond). It drives agentic AI like Cod... |
+| [**NotASithLord/peerd**](https://github.com/NotASithLord/peerd) | ⭐ 366 | `JavaScript` | The first AI agent harness native to the browser. A Chrome/Firefox extension that runs the agent loop in your browser... |
+| [**RealZST/HarnessKit**](https://github.com/RealZST/HarnessKit) | ⭐ 364 | `Rust` | More than a skill manager — manage skills, MCP servers, plugins, hooks, CLIs, configs, memory & rules across every AI... |
+| [**ApodexAI/AgentHarness**](https://github.com/ApodexAI/AgentHarness) | ⭐ 362 | `Python` | Evaluation harness for Apodex-1.0 on public deep-research benchmarks. |
 | [**callstackincubator/react-native-harness**](https://github.com/callstackincubator/react-native-harness) | ⭐ 321 | `TypeScript` | Harness brings Jest-style tests to real native environments for testing TurboModules in React Native. |
 | [**xwtro0tk1t-cloud/harness**](https://github.com/xwtro0tk1t-cloud/harness) | ⭐ 320 | `Python` | Harness is an AI Agent development guardrail Meta-Skill that establishes four layers of defense for any project in on... |
 | [**betta-tech/ejemplo-harness-subagentes**](https://github.com/betta-tech/ejemplo-harness-subagentes) | ⭐ 306 | `Python` |  |
@@ -492,21 +495,21 @@ This list curates the best open-source projects in the harness engineering ecosy
 | [**robzilla1738/harness-terminal**](https://github.com/robzilla1738/harness-terminal) | ⭐ 297 | `Swift` | The native macOS terminal that keeps your sessions running and tells you when a coding agent needs you. GPU-rendered,... |
 | [**patriceckhart/zot**](https://github.com/patriceckhart/zot) | ⭐ 295 | `Go` | Yet another coding agent harness, lightweight and written in go. |
 | [**actionml/harness**](https://github.com/actionml/harness) | ⭐ 293 | `Scala` | Harness is a Machine Learning/AI Server with plugins for many algorithms including the Universal Recommender. |
-| [**revfactory/webtoon-harness**](https://github.com/revfactory/webtoon-harness) | ⭐ 282 | `HTML` | 트렌드 조사부터 세로 스크롤 뷰어 완성까지, 웹툰 한 회차를 27개 AI 에이전트 팀이 만들어내는 Claude Code 하네스 |
-| [**jha0313/harness_framework**](https://github.com/jha0313/harness_framework) | ⭐ 278 | `Python` |  |
+| [**revfactory/webtoon-harness**](https://github.com/revfactory/webtoon-harness) | ⭐ 283 | `HTML` | 트렌드 조사부터 세로 스크롤 뷰어 완성까지, 웹툰 한 회차를 27개 AI 에이전트 팀이 만들어내는 Claude Code 하네스 |
+| [**jha0313/harness_framework**](https://github.com/jha0313/harness_framework) | ⭐ 279 | `Python` |  |
 | [**philcockfield/ui-harness**](https://github.com/philcockfield/ui-harness) | ⭐ 268 | `JavaScript` | Create, isolate and test modular UI components in React. |
-| [**Darwin-Agent/HarnessX**](https://github.com/Darwin-Agent/HarnessX) | ⭐ 260 | `Python` | HarnessX is a harness foundry: forge any number of agent harnesses from reusable processors and bundles, pair each wi... |
+| [**Darwin-Agent/HarnessX**](https://github.com/Darwin-Agent/HarnessX) | ⭐ 262 | `Python` | HarnessX is a harness foundry: forge any number of agent harnesses from reusable processors and bundles, pair each wi... |
 | [**Intelligent-Internet/zenith**](https://github.com/Intelligent-Internet/zenith) | ⭐ 257 | `Python` | An agent harness for long-running task from Intelligent Internet |
 | [**sethkarten/continual-harness**](https://github.com/sethkarten/continual-harness) | ⭐ 249 | `Python` | Official repository of the paper: Continual Harness: Online Adaptation for Self-Improving Foundation Agents and PokeA... |
-| [**ai-hpc/ai-hardware-engineer-roadmap**](https://github.com/ai-hpc/ai-hardware-engineer-roadmap) | ⭐ 230 | `HTML` | Master AI inference, AI agent harness systems, and hardware engineering — then design a custom AI inference chip. Tha... |
+| [**ai-hpc/ai-hardware-engineer-roadmap**](https://github.com/ai-hpc/ai-hardware-engineer-roadmap) | ⭐ 231 | `HTML` | Master AI inference, AI agent harness systems, and hardware engineering — then design a custom AI inference chip. Tha... |
 | [**ProgrammerAnthony/Expert-Coding-Harness**](https://github.com/ProgrammerAnthony/Expert-Coding-Harness) | ⭐ 228 | `JavaScript` | 生产级 AI Agent 技能集，辅助AI Harness应用于企业开发，覆盖代码审查、代码安全审计、TDD、需求工程、实施计划与子代理编排、架构设计、调试、前端开发与技能创建全流程。 |
-| [**mezmo/aura**](https://github.com/mezmo/aura) | ⭐ 224 | `Rust` | AURA is an agentic harness that turns an LLM model into a reliable, autonomous service capable of executing real SRE ... |
-| [**betta-tech/harness-sdd**](https://github.com/betta-tech/harness-sdd) | ⭐ 221 | `Python` |  |
+| [**mezmo/aura**](https://github.com/mezmo/aura) | ⭐ 226 | `Rust` | AURA is an agentic harness that turns an LLM model into a reliable, autonomous service capable of executing real SRE ... |
+| [**betta-tech/harness-sdd**](https://github.com/betta-tech/harness-sdd) | ⭐ 222 | `Python` |  |
 | [**anothervibecoder-s/claudecode-harness**](https://github.com/anothervibecoder-s/claudecode-harness) | ⭐ 218 |  | Production-grade orchestration harness for Claude Code — Context discipline, subagents, and multi-model consensus. |
+| [**GetSmallAI/SmallHarness**](https://github.com/GetSmallAI/SmallHarness) | ⭐ 213 | `Rust` | A harness for small llms |
 | [**tlehman/litprog-skill**](https://github.com/tlehman/litprog-skill) | ⭐ 211 | `TypeScript` | Literate programming skill for agent harnesses like Claude Code, OpenCode and Hermes Agent |
-| [**GetSmallAI/SmallHarness**](https://github.com/GetSmallAI/SmallHarness) | ⭐ 211 | `Rust` | A harness for small llms |
 | [**Tianshi-Xu/Life-Harness**](https://github.com/Tianshi-Xu/Life-Harness) | ⭐ 210 | `Python` | Offical implementation of "Life-Harness" |
-| [**Yanyutin753/LambChat**](https://github.com/Yanyutin753/LambChat) | ⭐ 203 | `TypeScript` | LambChat — A multi-tenant AI Agent Harness Platform. Skills + MCP dual-engine powered, built for scale and isolation.... |
+| [**Yanyutin753/LambChat**](https://github.com/Yanyutin753/LambChat) | ⭐ 204 | `TypeScript` | LambChat — A multi-tenant AI Agent Harness Platform. Skills + MCP dual-engine powered, built for scale and isolation.... |
 | [**HangYu8123/harness_coding_instructions**](https://github.com/HangYu8123/harness_coding_instructions) | ⭐ 201 | `Shell` |  |
 | [**yang1ming/android-harness**](https://github.com/yang1ming/android-harness) | ⭐ 200 | `Python` | A lightweight, ADB-first Android harness for agents, exposing stable primitives for authorized device automation, scr... |
 | [**zhe-qi/clhoria-template**](https://github.com/zhe-qi/clhoria-template) | ⭐ 188 | `TypeScript` | Production-ready Hono backend template that doubles as an AI agent harness — providing feedforward guides, feedback s... |
@@ -517,12 +520,13 @@ This list curates the best open-source projects in the harness engineering ecosy
 | [**cybernetix-lab/moss-harness**](https://github.com/cybernetix-lab/moss-harness) | ⭐ 140 | `Shell` | A production-grade AI Agent Harness engineering template providing a reliable, observable, and recoverable Agent runt... |
 | [**coleam00/your-claude-engineer**](https://github.com/coleam00/your-claude-engineer) | ⭐ 137 | `Python` | Demonstration of an agent harness with access to tools like Slack, GitHub, and Linear so it can act as your own compl... |
 | [**c4pt0r/pie**](https://github.com/c4pt0r/pie) | ⭐ 133 | `Rust` | Rust port of the pi agent harness — coding agent + LLM runtime stack |
+| [**exoharness/exo**](https://github.com/exoharness/exo) | ⭐ 131 | `Rust` | Exo is an agent + harness architecture that is fully recursive, able to safely edit all aspects of itself at runtime ... |
 | [**aohp-os/aohp**](https://github.com/aohp-os/aohp) | ⭐ 130 | `Python` | An OS-level agent harness for personalized, efficient and secure interaction |
 | [**coleam00/adversarial-dev**](https://github.com/coleam00/adversarial-dev) | ⭐ 127 | `TypeScript` | GAN-inspired three-agent harness that pits a generator against an adversarial evaluator to build applications with qu... |
 | [**wjn1996/HeavySkill**](https://github.com/wjn1996/HeavySkill) | ⭐ 125 | `Python` | HeavySkill: Heavy Thinking as the Inner Skill in Agentic Harness |
 | [**mzpatrick0529-mzyh/claw-code**](https://github.com/mzpatrick0529-mzyh/claw-code) | ⭐ 124 | `Python` | Rewriting Project Claw Code — Python rewrite of Claude Code agent harness. Forked from instructkr/claw-code. |
-| [**exoharness/exo**](https://github.com/exoharness/exo) | ⭐ 120 | `Rust` | Exo is an agent + harness architecture that is fully recursive, able to safely edit all aspects of itself at runtime ... |
 | [**OnlyTerp/prompt-cache-skills**](https://github.com/OnlyTerp/prompt-cache-skills) | ⭐ 108 | `Python` | Drop-in prompt-caching fixes for the LLM agent harness you use. Point your AI coding agent at this repo and it ships ... |
+| [**av/mi**](https://github.com/av/mi) | ⭐ 102 | `JavaScript` | self-extending sandboxed agentic harness. a loop, two tools and an llm |
 | [**YPares/rigup.nix**](https://github.com/YPares/rigup.nix) | ⭐ 82 | `Nix` | AI agents and Nix: parametrable skills/instructions and tools, packaged together in a reproducible and modular fashion. |
 | [**sfw/loom**](https://github.com/sfw/loom) | ⭐ 72 | `Python` | AI harness that decomposes work, drives execution through a verification harness, and keeps models on track with stru... |
 | [**microsoft/az-oai-chatgpt-streamlit-harness**](https://github.com/microsoft/az-oai-chatgpt-streamlit-harness) | ⭐ 52 | `Jupyter Notebook` | Fully Python-based Streamlit development harness for ChatGPT hosted in Azure OpenAI Service. |
@@ -532,25 +536,25 @@ This list curates the best open-source projects in the harness engineering ecosy
 
 ## 📊 Stats
 
-- **Total repositories**: 401
+- **Total repositories**: 405
 - **Categories**: 9
-- **Top languages**: Python(145), TypeScript(77), JavaScript(27), Rust(27), Shell(26), Go(17), HTML(13), Java(9)
-- **Last updated**: 2026-07-19
+- **Top languages**: Python(145), TypeScript(79), JavaScript(28), Rust(27), Shell(26), Go(18), HTML(13), Java(9)
+- **Last updated**: 2026-07-20
 
 ### 🏆 Top 10 by Stars
 
 | Rank | Repository | Stars | Description |
 |------|-----------|-------|-------------|
-| 1 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ⭐ 230,985 | The agent harness performance optimization system. Skills, instincts, memory,... |
-| 2 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ⭐ 230,983 | The agent harness performance optimization system. Skills, instincts, memory,... |
-| 3 | [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | ⭐ 85,359 | Leading open-source RAG engine fusing cutting-edge RAG with Agent capabilitie... |
-| 4 | [lobehub/lobehub](https://github.com/lobehub/lobehub) | ⭐ 80,497 | The ultimate space for work and life — taking agent harness to the next level... |
-| 5 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | ⭐ 77,352 | Open-source long-horizon SuperAgent harness that researches, codes, and creat... |
-| 6 | [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | ⭐ 71,442 | Bash is all you need — A nano claude code-like agent harness, built from 0 to 1. |
-| 7 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | ⭐ 66,124 | omo; the best agent harness — previously oh-my-opencode. TUI for AI coding ag... |
-| 8 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | ⭐ 63,531 | Stop renting your intelligence. Own it with AnythingLLM. Everything you need ... |
-| 9 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | ⭐ 46,041 | Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and s... |
-| 10 | [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) | ⭐ 39,921 | Open-source, community-driven agent harness |
+| 1 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ⭐ 231,325 | The agent harness performance optimization system. Skills, instincts, memory,... |
+| 2 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ⭐ 231,324 | The agent harness performance optimization system. Skills, instincts, memory,... |
+| 3 | [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | ⭐ 85,436 | Leading open-source RAG engine fusing cutting-edge RAG with Agent capabilitie... |
+| 4 | [lobehub/lobehub](https://github.com/lobehub/lobehub) | ⭐ 80,554 | The ultimate space for work and life — taking agent harness to the next level... |
+| 5 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | ⭐ 77,410 | Open-source long-horizon SuperAgent harness that researches, codes, and creat... |
+| 6 | [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | ⭐ 71,570 | Bash is all you need — A nano claude code-like agent harness, built from 0 to 1. |
+| 7 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | ⭐ 66,206 | omo; the best agent harness — previously oh-my-opencode. TUI for AI coding ag... |
+| 8 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | ⭐ 63,582 | Stop renting your intelligence. Own it with AnythingLLM. Everything you need ... |
+| 9 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | ⭐ 46,049 | Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and s... |
+| 10 | [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) | ⭐ 39,944 | Open-source, community-driven agent harness |
 
 ---
 
