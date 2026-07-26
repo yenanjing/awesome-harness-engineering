@@ -6,7 +6,7 @@
   ![GitHub stars](https://img.shields.io/github/stars/yenanjing/awesome-harness-engineering?style=flat-square)
   ![Last Updated](https://img.shields.io/badge/last%20updated-2026--07--26-blue?style=flat-square)
 
-  <p>Collected <strong>426</strong> repositories across <strong>9</strong> categories covering the harness engineering ecosystem.</p>
+  <p>Collected <strong>427</strong> repositories across <strong>9</strong> categories covering the harness engineering ecosystem.</p>
 </div>
 
 ---
@@ -250,6 +250,7 @@ This list curates the best open-source projects in the harness engineering ecosy
 | [**suyoumo/OpenClawProBench**](https://github.com/suyoumo/OpenClawProBench) | ⭐ 818 | `Python` | Live-first benchmark harness for evaluating LLM agents in the OpenClaw runtime with deterministic grading. |
 | [**suyoumo/ClawProBench**](https://github.com/suyoumo/ClawProBench) | ⭐ 818 | `Python` | ClawProBench is a live-first benchmark harness for evaluating LLM agents   in the OpenClaw runtime with deterministic... |
 | [**claw-eval/claw-eval**](https://github.com/claw-eval/claw-eval) | ⭐ 735 | `Python` | Claw-Eval is an evaluation harness for evaluating LLM as agents. All tasks verified by humans. |
+| [**TIGER-AI-Lab/ClawBench**](https://github.com/TIGER-AI-Lab/ClawBench) | ⭐ 525 | `Python` | Open-source benchmark for browser AI agents on 283 daily tasks with isolated harnesses and five-layer execution traces. |
 | [**allenai/vla-evaluation-harness**](https://github.com/allenai/vla-evaluation-harness) | ⭐ 470 | `Python` | One framework to evaluate any VLA model on any robot simulation benchmark. |
 | [**ZubinGou/math-evaluation-harness**](https://github.com/ZubinGou/math-evaluation-harness) | ⭐ 277 | `Python` | Simple toolkit for benchmarking LLMs on mathematical reasoning tasks. |
 | [**vvt004/speech-eval-arena**](https://github.com/vvt004/speech-eval-arena) | ⭐ 221 | `Python` | A small CLI harness for evaluating speech LLMs and ASR models on standard benchmarks (LibriSpeech, FLEURS, VoxPopuli). |
@@ -557,9 +558,9 @@ This list curates the best open-source projects in the harness engineering ecosy
 
 ## 📊 Stats
 
-- **Total repositories**: 426
+- **Total repositories**: 427
 - **Categories**: 9
-- **Top languages**: Python(151), TypeScript(84), JavaScript(28), Rust(28), Shell(26), Go(22), HTML(14), Java(9)
+- **Top languages**: Python(152), TypeScript(84), JavaScript(28), Rust(28), Shell(26), Go(22), HTML(14), Java(9)
 - **Last updated**: 2026-07-26
 
 ### 🏆 Top 10 by Stars
