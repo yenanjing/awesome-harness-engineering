@@ -4684,5 +4684,16 @@
     "topics": "harness,llms",
     "updated": "2026-07-25T23:06:45Z",
     "category": "🔧 Miscellaneous Harness Projects"
+  },
+  {
+    "name": "TIGER-AI-Lab/ClawBench",
+    "url": "https://github.com/TIGER-AI-Lab/ClawBench",
+    "description": "Open-source benchmark for browser AI agents on 283 daily tasks with isolated harnesses and five-layer execution traces.",
+    "stars": 525,
+    "forks": 29,
+    "language": "Python",
+    "topics": "agent-evaluation,ai-agents,benchmark,browser-agent,browser-automation,computer-use,llm-evaluation,web-agent",
+    "updated": "2026-07-17T01:14:32Z",
+    "category": "📊 LLM Evaluation Harnesses"
   }
 ]
