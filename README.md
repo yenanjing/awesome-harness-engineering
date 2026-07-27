@@ -257,6 +257,7 @@ This list curates the best open-source projects in the harness engineering ecosy
 | [**responsibleai/ASSERT**](https://github.com/responsibleai/ASSERT) | ⭐ 205 | `Python` | Requirement-driven evaluation harness for AI agents and LLM applications. Generate behavior-specific test cases, run ... |
 | [**EuroEval/EuroEval**](https://github.com/EuroEval/EuroEval) | ⭐ 192 | `Python` | The robust European language model benchmark. |
 | [**nlp-uoregon/mlmm-evaluation**](https://github.com/nlp-uoregon/mlmm-evaluation) | ⭐ 134 | `Python` | Multilingual Large Language Models Evaluation Benchmark |
+| [**reacher-z/ClawBench**](https://github.com/reacher-z/ClawBench) | — | `Python` | Benchmark for evaluating browser agents on 153 everyday tasks across 144 live websites, with reproducible multi-layer traces and request-level evaluation. |
 | [**scoootscooob/clawbench**](https://github.com/scoootscooob/clawbench) | ⭐ 132 | `Python` | The agent benchmark that scores the full stack — harness, config, and model — not just the LLM. Trace-based scoring, ... |
 | [**openclaw/clawbench**](https://github.com/openclaw/clawbench) | ⭐ 132 | `Python` | The agent benchmark that scores the full stack — harness, config, and model — not just the LLM. Trace-based scoring, ... |
 | [**openclaw/shellbench**](https://github.com/openclaw/shellbench) | ⭐ 132 | `Python` | The agent benchmark that scores the full stack — harness, config, and model — not just the LLM. Trace-based scoring, ... |
