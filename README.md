@@ -251,6 +251,7 @@ This list curates the best open-source projects in the harness engineering ecosy
 | [**suyoumo/OpenClawProBench**](https://github.com/suyoumo/OpenClawProBench) | ⭐ 821 | `Python` | Live-first benchmark harness for evaluating LLM agents in the OpenClaw runtime with deterministic grading. |
 | [**suyoumo/ClawProBench**](https://github.com/suyoumo/ClawProBench) | ⭐ 821 | `Python` | ClawProBench is a live-first benchmark harness for evaluating LLM agents   in the OpenClaw runtime with deterministic... |
 | [**claw-eval/claw-eval**](https://github.com/claw-eval/claw-eval) | ⭐ 736 | `Python` | Claw-Eval is an evaluation harness for evaluating LLM as agents. All tasks verified by humans. |
+| [**TIGER-AI-Lab/ClawBench**](https://github.com/TIGER-AI-Lab/ClawBench) | ⭐ 530 | `Python` | Live-web benchmark for browser and computer-use agents, with 283 everyday tasks across 163 websites, request interception, and five execution-evidence layers. |
 | [**allenai/vla-evaluation-harness**](https://github.com/allenai/vla-evaluation-harness) | ⭐ 484 | `Python` | One framework to evaluate any VLA model on any robot simulation benchmark. |
 | [**ZubinGou/math-evaluation-harness**](https://github.com/ZubinGou/math-evaluation-harness) | ⭐ 278 | `Python` | Simple toolkit for benchmarking LLMs on mathematical reasoning tasks. |
 | [**vvt004/speech-eval-arena**](https://github.com/vvt004/speech-eval-arena) | ⭐ 221 | `Python` | A small CLI harness for evaluating speech LLMs and ASR models on standard benchmarks (LibriSpeech, FLEURS, VoxPopuli). |
