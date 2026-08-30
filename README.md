@@ -122,6 +122,7 @@ This list curates the best open-source projects in the harness engineering ecosy
 | [**desplega-ai/agent-swarm**](https://github.com/desplega-ai/agent-swarm) | ⭐ 727 | `TypeScript` | Intelligence that compounds. Every single day. |
 | [**modiqo/waggle**](https://github.com/modiqo/waggle) | ⭐ 681 | `Rust` | Attributed, resolvable artifact references for agent handoffs — a ~30-byte token instead of pasted context. MCP-nativ... |
 | [**HarnessRouter/harnessrouter**](https://github.com/HarnessRouter/harnessrouter) | ⭐ 643 | `Python` | HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Ru... |
+| [**sandbaseai/sandbase-harness**](https://github.com/sandbaseai/sandbase-harness) | ⭐ 638 | `TypeScript` | Local-first agent runtime with persistent sessions, governed MCP tools, approval gates, audit/replay, and local or sandboxed execution backends. |
 | [**ruvnet/agent-harness-generator**](https://github.com/ruvnet/agent-harness-generator) | ⭐ 623 | `TypeScript` | 🛠️ The meta-harness for AI agents — scaffold your own focused, branded agent harness with its own npx CLI, MCP server... |
 | [**ruvnet/metaharness**](https://github.com/ruvnet/metaharness) | ⭐ 623 | `TypeScript` | 🛠️ The meta-harness for AI agents — scaffold your own focused, branded agent harness with its own npx CLI, MCP server... |
 | [**MaxGfeller/open-harness**](https://github.com/MaxGfeller/open-harness) | ⭐ 604 | `TypeScript` | Code-first, composable SDK to build powerful AI agents — agents, agent skills, AI, MCP. |
