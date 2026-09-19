@@ -7192,5 +7192,16 @@
     "topics": "agents,ai,aigateway,cloudflare,harness,kimi-k26,kimi-k27,moonshot,vibe-coding,workers-ai",
     "updated": "2026-09-19T07:57:13Z",
     "category": "🔧 Miscellaneous Harness Projects"
+  },
+  {
+    "name": "vostride/agent-qa",
+    "url": "https://github.com/vostride/agent-qa",
+    "description": "Source-available QA harness that writes and runs natural-language web and mobile regression tests, with persistent execution memory, self-healing actions, a CLI, a dashboard, and an MCP server.",
+    "stars": 885,
+    "forks": 18,
+    "language": "TypeScript",
+    "topics": "ai-testing,browser-automation,end-to-end-testing,mcp,mcp-server,qa-automation,test-harness,playwright",
+    "updated": "2026-08-03T18:44:59Z",
+    "category": "⚡ Benchmarking & Testing Harnesses"
   }
 ]
