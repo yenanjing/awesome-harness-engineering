@@ -8468,5 +8468,16 @@
     "topics": "agent-skills,claude,claude-code,claude-design,cursor,design,prototyping,ui-design",
     "updated": "2026-10-31T09:31:01Z",
     "category": "🛠️ Skills, Memory & Context Toolkits"
+  },
+  {
+    "name": "vostride/agent-qa",
+    "url": "https://github.com/vostride/agent-qa",
+    "description": "Self-improving web/mobile QA harness with memidex memory, CLI and MCP. FSL-1.1-ALv2.",
+    "stars": 912,
+    "forks": 23,
+    "language": "TypeScript",
+    "topics": "ai-testing,browser-automation,developer-tools,end-to-end-testing,mcp,mcp-server",
+    "updated": "2026-10-31T10:18:33Z",
+    "category": "⚡ Benchmarking & Testing Harnesses"
   }
 ]
