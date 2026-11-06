@@ -8710,5 +8710,6 @@
     "topics": "agent-plugin,agent-skills,c-cpp,claude-code,codex,cordis,deepseek-harness,dsh-plugin,embedded,firmware",
     "updated": "2026-11-06T09:54:34Z",
     "category": "🛠️ Skills, Memory & Context Toolkits"
-  }
+  },
+  {"name": "vostride/agent-qa", "url": "https://github.com/vostride/agent-qa", "description": "Self-improving web/mobile QA harness with memidex memory, CLI and MCP. FSL-1.1-ALv2.", "stars": 856, "forks": 24, "language": "TypeScript", "topics": "ai-testing,browser-automation,developer-tools,end-to-end-testing,mcp,mcp-server", "updated": "2026-11-06T18:31:28Z", "category": "⚡ Benchmarking & Testing Harnesses"}
 ]
