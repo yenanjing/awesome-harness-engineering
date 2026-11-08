@@ -4,9 +4,9 @@
 
   [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
   ![GitHub stars](https://img.shields.io/github/stars/yenanjing/awesome-harness-engineering?style=flat-square)
-  ![Last Updated](https://img.shields.io/badge/last%20updated-2026--11--07-blue?style=flat-square)
+  ![Last Updated](https://img.shields.io/badge/last%20updated-2026--11--08-blue?style=flat-square)
 
-  <p>Collected <strong>795</strong> repositories across <strong>9</strong> categories covering the harness engineering ecosystem.</p>
+  <p>Collected <strong>796</strong> repositories across <strong>9</strong> categories covering the harness engineering ecosystem.</p>
 </div>
 
 ---
@@ -44,7 +44,7 @@ This list curates the best open-source projects in the harness engineering ecosy
 - ⚡ **Test & benchmark harnesses** — quality assurance and performance frameworks
 - 🔐 **Security & fuzzing harnesses** — vulnerability research and chaos engineering
 
-> Last updated: 2026-11-07
+> Last updated: 2026-11-08
 
 ---
 
@@ -126,6 +126,7 @@ This list curates the best open-source projects in the harness engineering ecosy
 | [**Anionex/codex-vision-proxy**](https://github.com/Anionex/codex-vision-proxy) | ⭐ 1,259 | `Python` | 给纯文本llm agent接入视觉能力的更优方案，以及精心设计的视觉工具包和skill ｜  A superior approach for giving text-only llm agents vision capabilitie... |
 | [**Anionex/agent-vision-toolkit**](https://github.com/Anionex/agent-vision-toolkit) | ⭐ 1,259 | `Python` | 给纯文本 LLM agent 装上眼睛：图片问答、OCR、截图分析、视觉定位等一套视觉工具箱 + skill，并可无缝接入 Codex、Claude Code、OpenCode、Pi ｜ Give text-only LLM agen... |
 | [**thClaws/thClaws**](https://github.com/thClaws/thClaws) | ⭐ 1,253 | `Rust` | Open-source agent harness platform. Native Rust, multi-provider, runs on your own machine. Sovereign by design. |
+| [**wanxingai/LightAgent**](https://github.com/wanxingai/LightAgent) | ⭐ 1,244 | `Python` | Python agent runtime with persistent dynamic DAGs, checkpointed workflows, verification gates, and scoped approvals. |
 | [**hardness1020/awesome-agent-architecture**](https://github.com/hardness1020/awesome-agent-architecture) | ⭐ 1,211 | `Python` | Curated architecture notes and system reviews of modern AI agents. |
 | [**hardness1020/learn-agent-architecture**](https://github.com/hardness1020/learn-agent-architecture) | ⭐ 1,211 | `Python` | Learn AI agents from scratch. |
 | [**matevip/mateclaw**](https://github.com/matevip/mateclaw) | ⭐ 1,186 | `Java` | 🤖 MateClaw — Your second brain with Multi-Agent Orchestration, MCP Protocol, Skills & Memory, Dream, and Multi-Channe... |
@@ -926,10 +927,10 @@ This list curates the best open-source projects in the harness engineering ecosy
 
 ## 📊 Stats
 
-- **Total repositories**: 795
+- **Total repositories**: 796
 - **Categories**: 9
-- **Top languages**: Python(280), TypeScript(188), JavaScript(66), Go(44), Rust(44), Shell(35), HTML(21), Java(12)
-- **Last updated**: 2026-11-07
+- **Top languages**: Python(281), TypeScript(188), JavaScript(66), Go(44), Rust(44), Shell(35), HTML(21), Java(12)
+- **Last updated**: 2026-11-08
 
 ### 🏆 Top 10 by Stars
 
