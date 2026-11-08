@@ -8734,6 +8734,17 @@
     "category": "🤖 Agent Harness Frameworks"
   },
   {
+    "name": "wanxingai/LightAgent",
+    "url": "https://github.com/wanxingai/LightAgent",
+    "description": "Python agent runtime with persistent dynamic DAGs, checkpointed workflows, verification gates, and scoped approvals.",
+    "stars": 1244,
+    "forks": 180,
+    "language": "Python",
+    "topics": "agent-framework,agent-hooks,agents,ai-agent,lifecycle-hooks,llm,mcp,multi-agent,openai,openai-api,python,tool-calling",
+    "updated": "2026-11-08T02:25:51Z",
+    "category": "🤖 Agent Harness Frameworks"
+  },
+  {
     "name": "grahamhelton/harness-engineering-workshop-book",
     "url": "https://github.com/grahamhelton/harness-engineering-workshop-book",
     "description": "Standalone mdBook source for the harness engineering workshop",
