@@ -357,6 +357,7 @@ This list curates the best open-source projects in the harness engineering ecosy
 | [**vitaliikapliuk/modelharness**](https://github.com/vitaliikapliuk/modelharness) | ⭐ 28 | `Python` | Make every model cheaper or better. Zero-config behavioral harness for Claude Code, with a reproducible 408-run bench... |
 
 ---
+| [**shyringo/revo**](https://github.com/shyringo/revo) | ⭐ 0 | `JavaScript` | Terminal agent harness that opens its own work cycle without a prompt, keeps one append-only life log, and resumes unfinished work after sleep or restart. |
 
 ## 🚀 CI/CD & DevOps Platforms
 
