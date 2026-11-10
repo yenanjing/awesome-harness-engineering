@@ -6,7 +6,7 @@
   ![GitHub stars](https://img.shields.io/github/stars/yenanjing/awesome-harness-engineering?style=flat-square)
   ![Last Updated](https://img.shields.io/badge/last%20updated-2026--11--10-blue?style=flat-square)
 
-  <p>Collected <strong>808</strong> repositories across <strong>9</strong> categories covering the harness engineering ecosystem.</p>
+  <p>Collected <strong>809</strong> repositories across <strong>9</strong> categories covering the harness engineering ecosystem.</p>
 </div>
 
 ---
@@ -663,6 +663,7 @@ This list curates the best open-source projects in the harness engineering ecosy
 
 | Repository | Stars | Language | Description |
 |-----------|-------|----------|-------------|
+| [**vostride/agent-qa**](https://github.com/vostride/agent-qa) | ⭐ 852 | `TypeScript` | Web/mobile QA harness with memidex memory, validated self-improvement and CLI/MCP evidence. FSL-1.1-ALv2. |
 | [**felipec/sharness**](https://github.com/felipec/sharness) | ⭐ 395 | `Shell` | Shell library to test your tools like Git does — TAP-compliant test harness. |
 | [**timboudreau/netty-http-client**](https://github.com/timboudreau/netty-http-client) | ⭐ 321 | `Java` | An asynchronous http client in Java, with a clean, callback-based API, using Netty 4.x |
 | [**redcanaryco/AtomicTestHarnesses**](https://github.com/redcanaryco/AtomicTestHarnesses) | ⭐ 299 | `PowerShell` | Public Repo for Atomic Test Harnesses — automated security test harnesses. |
@@ -939,9 +940,9 @@ This list curates the best open-source projects in the harness engineering ecosy
 
 ## 📊 Stats
 
-- **Total repositories**: 808
+- **Total repositories**: 809
 - **Categories**: 9
-- **Top languages**: Python(285), TypeScript(190), JavaScript(70), Rust(45), Go(44), Shell(35), HTML(21), Java(12)
+- **Top languages**: Python(285), TypeScript(191), JavaScript(70), Rust(45), Go(44), Shell(35), HTML(21), Java(12)
 - **Last updated**: 2026-11-10
 
 ### 🏆 Top 10 by Stars
