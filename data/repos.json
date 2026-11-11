@@ -8919,5 +8919,16 @@
     "topics": "",
     "updated": "2026-11-11T09:49:08Z",
     "category": "🔧 Miscellaneous Harness Projects"
+  },
+  {
+    "name": "vostride/agent-qa",
+    "url": "https://github.com/vostride/agent-qa",
+    "description": "Web/mobile QA harness with memidex memory, validated self-improvement and CLI/MCP evidence. FSL-1.1-ALv2.",
+    "stars": 853,
+    "forks": 24,
+    "language": "TypeScript",
+    "topics": "ai-agents,ai-testing,anthropic,autonomous-agents,browser-automation,chatgpt,claude-code,clawdbot,codex,developer-tools,dsh-plugin,end-to-end-testing,fair-source,frontend,mcp,mcp-server,mcp-tools,model-context-protocol,openai,playwright",
+    "updated": "2026-11-11T10:52:05Z",
+    "category": "⚡ Benchmarking & Testing Harnesses"
   }
 ]
